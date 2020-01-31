@@ -23,10 +23,10 @@
   ],
   "edam:has_output": [
     {
-      "@id": "edam:data_2955"
+      "@id": "edam:data_0863"
     },
     {
-      "@id": "edam:data_0863"
+      "@id": "edam:data_2955"
     }
   ],
   "sc:additionalType": "Database portal",
@@ -54,9 +54,9 @@
   "sc:isAccessibleForFree": true,
   "sc:name": "IMGT 2Dstructure-DB",
   "sc:operatingSystem": [
-    "Windows",
+    "Linux",
     "Mac",
-    "Linux"
+    "Windows"
   ],
   "sc:softwareHelp": {
     "@id": "http://www.imgt.org/3Dstructure-DB/doc/IMGT3DstructureDBHelp.shtml"
