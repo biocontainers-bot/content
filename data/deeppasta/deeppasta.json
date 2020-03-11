@@ -1,0 +1,96 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:08:17Z",
+    "biotoolsCURIE": "biotools:DeepPASTA",
+    "biotoolsID": "DeepPASTA",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "aaref001@ucr.edu",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "ashraful.arefeen@csebuet.org",
+            "name": "Ashraful Arefeen",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Deep neural network based polyadenylation site analysis.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/arefeen/DeepPASTA/blob/master/README.md"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "PolyA signal detection",
+                    "uri": "http://edamontology.org/operation_0428"
+                },
+                {
+                    "term": "Protein secondary structure prediction",
+                    "uri": "http://edamontology.org/operation_0267"
+                },
+                {
+                    "term": "RNA secondary structure prediction",
+                    "uri": "http://edamontology.org/operation_0278"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/arefeen/DeepPASTA",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T11:51:32Z",
+    "license": "Unlicense",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/arefeen/DeepPASTA/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "DeepPASTA",
+    "operatingSystem": [
+        "Linux"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/BIOINFORMATICS/BTZ283",
+            "pmid": "31081512",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Command-line tool"
+    ],
+    "topic": [
+        {
+            "term": "Gene transcripts",
+            "uri": "http://edamontology.org/topic_3512"
+        },
+        {
+            "term": "Machine learning",
+            "uri": "http://edamontology.org/topic_3474"
+        },
+        {
+            "term": "Gene expression",
+            "uri": "http://edamontology.org/topic_0203"
+        }
+    ]
+}

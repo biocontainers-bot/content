@@ -1,0 +1,13 @@
+{
+    "additionDate": "2019-11-05T14:57:10Z",
+    "biotoolsCURIE": "biotools:ALIENNESS",
+    "biotoolsID": "ALIENNESS",
+    "description": "Rapid detection of candidate horizontal gene transfers across the tree of life.",
+    "editPermission": {
+        "type": "private"
+    },
+    "homepage": "http://alienness.sophia.inra.fr/cgi/index.cgi",
+    "lastUpdate": "2019-11-05T14:57:10Z",
+    "name": "ALIENNESS",
+    "owner": "jison"
+}

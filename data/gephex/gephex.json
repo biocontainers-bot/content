@@ -1,0 +1,80 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-11T07:44:00Z",
+    "biotoolsCURIE": "biotools:GePhEx",
+    "biotoolsID": "GePhEx",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "gephex.ega@crg.eu",
+            "typeEntity": "Project",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Genome-Phenome Explorer (GePhEx): A tool for the visualization and interpretation of phenotypic relationships supported by genetic evidence.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://gephex.ega-archive.org/doc"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Data retrieval",
+                    "uri": "http://edamontology.org/operation_2422"
+                },
+                {
+                    "term": "SNP detection",
+                    "uri": "http://edamontology.org/operation_0484"
+                },
+                {
+                    "term": "Relation extraction",
+                    "uri": "http://edamontology.org/operation_3625"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://gephex.ega-archive.org/",
+    "lastUpdate": "2019-08-11T07:44:00Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "GePhEx",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "Ruta",
+    "publication": [
+        {
+            "doi": "10.1093/bioinformatics/btz622",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Phenomics",
+            "uri": "http://edamontology.org/topic_3298"
+        },
+        {
+            "term": "GWAS study",
+            "uri": "http://edamontology.org/topic_3517"
+        },
+        {
+            "term": "DNA polymorphism",
+            "uri": "http://edamontology.org/topic_2885"
+        }
+    ]
+}

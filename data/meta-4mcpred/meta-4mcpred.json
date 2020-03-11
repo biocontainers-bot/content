@@ -1,0 +1,81 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:05:04Z",
+    "biotoolsCURIE": "biotools:Meta-4mCpred",
+    "biotoolsID": "Meta-4mCpred",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "weileyi@tju.edu.cn",
+            "name": "Leyi Wei",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "glee@ajou.ac.kr",
+            "name": "Gwang Lee",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "bala@kias.re.kr",
+            "name": "Balachandran Manavalan",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Sequence-Based Meta-Predictor for Accurate DNA 4mC Site Prediction Using Effective Feature Representation.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "http://thegleelab.org/Meta-4mCpred/4mCPredtutorial.html"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "homepage": "http://thegleelab.org/Meta-4mCpred",
+    "lastUpdate": "2019-10-31T12:03:36Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "Meta-4mCpred",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1016/J.OMTN.2019.04.019",
+            "pmcid": "PMC6540332",
+            "pmid": "31146255",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Machine learning",
+            "uri": "http://edamontology.org/topic_3474"
+        },
+        {
+            "term": "Epigenetics",
+            "uri": "http://edamontology.org/topic_3295"
+        },
+        {
+            "term": "Transcription factors and regulatory sites",
+            "uri": "http://edamontology.org/topic_0749"
+        }
+    ]
+}

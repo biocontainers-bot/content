@@ -1,0 +1,97 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:08:33Z",
+    "biotoolsCURIE": "biotools:PSI-Sigma",
+    "biotoolsID": "PSI-Sigma",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "klin@cshl.edu",
+            "name": "Kuan-Ting Lin",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Splicing-detection method for short-read and long-read RNA-seq analysis.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/wososa/PSI-Sigma/blob/master/README.md"
+        }
+    ],
+    "download": [
+        {
+            "type": "Source code",
+            "url": "https://github.com/wososa/PSI-Sigma/releases"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "RNA-Seq quantification",
+                    "uri": "http://edamontology.org/operation_3800"
+                },
+                {
+                    "term": "Read binning",
+                    "uri": "http://edamontology.org/operation_3798"
+                },
+                {
+                    "term": "RNA-Seq analysis",
+                    "uri": "http://edamontology.org/operation_3680"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/wososa/PSI-Sigma",
+    "language": [
+        "Perl"
+    ],
+    "lastUpdate": "2019-10-31T12:11:44Z",
+    "license": "Other",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/wososa/PSI-Sigma/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "PSI-Sigma",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/BIOINFORMATICS/BTZ438",
+            "pmid": "31135034",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Command-line tool"
+    ],
+    "topic": [
+        {
+            "term": "RNA-Seq",
+            "uri": "http://edamontology.org/topic_3170"
+        },
+        {
+            "term": "Gene transcripts",
+            "uri": "http://edamontology.org/topic_3512"
+        },
+        {
+            "term": "RNA splicing",
+            "uri": "http://edamontology.org/topic_3320"
+        }
+    ]
+}

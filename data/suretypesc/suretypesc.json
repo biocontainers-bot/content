@@ -1,0 +1,92 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:08:57Z",
+    "biotoolsCURIE": "biotools:SureTypeSC",
+    "biotoolsID": "SureTypeSC",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "ivogel@sund.ku.dk",
+            "name": "Ivan Vogel",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Random Forest and Gaussian Mixture predictor of high confidence genotypes in single cell data.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/puko818/SureTypeSC/blob/master/README.md"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "SNP detection",
+                    "uri": "http://edamontology.org/operation_0484"
+                },
+                {
+                    "term": "Genotyping",
+                    "uri": "http://edamontology.org/operation_3196"
+                },
+                {
+                    "term": "PCR primer design",
+                    "uri": "http://edamontology.org/operation_0308"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/puko818/SureTypeSC",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T12:18:55Z",
+    "license": "GPL-3.0",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/puko818/SureTypeSC/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "SureTypeSC",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/BIOINFORMATICS/BTZ412",
+            "pmid": "31116387",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Command-line tool",
+        "Script"
+    ],
+    "topic": [
+        {
+            "term": "Genotype and phenotype",
+            "uri": "http://edamontology.org/topic_0625"
+        },
+        {
+            "term": "DNA polymorphism",
+            "uri": "http://edamontology.org/topic_2885"
+        },
+        {
+            "term": "Microarray experiment",
+            "uri": "http://edamontology.org/topic_3518"
+        }
+    ]
+}

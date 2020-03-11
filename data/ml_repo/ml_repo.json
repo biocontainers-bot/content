@@ -1,0 +1,88 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:12:17Z",
+    "biotoolsCURIE": "biotools:ML_Repo",
+    "biotoolsID": "ML_Repo",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "dknights@umn.edu",
+            "name": "Dan Knights",
+            "orcidid": "https://orcid.org/0000-0002-8205-2511",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Microbiome Learning Repo (ML Repo) - public repository of microbiome regression and classification tasks",
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Deposition",
+                    "uri": "http://edamontology.org/operation_3431"
+                },
+                {
+                    "term": "Sequence trimming",
+                    "uri": "http://edamontology.org/operation_3192"
+                },
+                {
+                    "term": "Regression analysis",
+                    "uri": "http://edamontology.org/operation_3659"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://knights-lab.github.io/MLRepo/",
+    "lastUpdate": "2019-10-31T12:04:21Z",
+    "license": "MIT",
+    "link": [
+        {
+            "type": "Repository",
+            "url": "https://github.com/knights-lab/MLRepo"
+        },
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/knights-lab/MLRepo/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "ML Repo",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/GIGASCIENCE/GIZ042",
+            "pmcid": "PMC6493971",
+            "pmid": "31042284",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Microbial ecology",
+            "uri": "http://edamontology.org/topic_3697"
+        },
+        {
+            "term": "Machine learning",
+            "uri": "http://edamontology.org/topic_3474"
+        },
+        {
+            "term": "Metagenomics",
+            "uri": "http://edamontology.org/topic_3174"
+        }
+    ]
+}

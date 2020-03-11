@@ -1,0 +1,83 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:19:51Z",
+    "biotoolsCURIE": "biotools:split-GAL4",
+    "biotoolsID": "split-GAL4",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "rubing@janelia.hhmi.org",
+            "name": "Gerald M Rubin",
+            "orcidid": "https://orcid.org/0000-0001-8762-8703",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "jefferis@mrc-lmb.cam.ac.uk",
+            "name": "Gregory SXE Jefferis",
+            "orcidid": "https://orcid.org/0000-0002-0587-9355",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Collection of split-GAL4 driver lines providing genetic access to 82 LH cell types.",
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Splitting",
+                    "uri": "http://edamontology.org/operation_3359"
+                },
+                {
+                    "term": "Neurite measurement",
+                    "uri": "http://edamontology.org/operation_3450"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://www.janelia.org/split-gal4",
+    "lastUpdate": "2019-10-31T12:18:08Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "split-GAL4",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.7554/ELIFE.43079",
+            "pmcid": "PMC6529221",
+            "pmid": "31112130",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Neurobiology",
+            "uri": "http://edamontology.org/topic_3304"
+        },
+        {
+            "term": "Biology",
+            "uri": "http://edamontology.org/topic_3070"
+        },
+        {
+            "term": "Imaging",
+            "uri": "http://edamontology.org/topic_3382"
+        }
+    ]
+}

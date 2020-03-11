@@ -1,0 +1,108 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:17:09Z",
+    "biotoolsCURIE": "biotools:AIVAR",
+    "biotoolsID": "AIVAR",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "jiaqi.luo@topgene.cn",
+            "name": "Jiaqi Luo",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "yujian.shi@topgene.cn",
+            "name": "Yujian Shi",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "drsangjianfeng@163.com",
+            "name": "Jianfeng Sang",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Assessing concordance among human, in silico predictions and functional assays on genetic variant classification.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/TopGene/AIvar/blob/master/README.md"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Deposition",
+                    "uri": "http://edamontology.org/operation_3431"
+                },
+                {
+                    "term": "Variant classification",
+                    "uri": "http://edamontology.org/operation_3225"
+                },
+                {
+                    "term": "Virulence prediction",
+                    "uri": "http://edamontology.org/operation_3461"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/TopGene/AIvar",
+    "language": [
+        "Perl",
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T11:42:36Z",
+    "license": "Unlicense",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/TopGene/AIvar/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "AIVAR",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/BIOINFORMATICS/BTZ442",
+            "pmid": "31141141",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Command-line tool"
+    ],
+    "topic": [
+        {
+            "term": "Machine learning",
+            "uri": "http://edamontology.org/topic_3474"
+        },
+        {
+            "term": "Mapping",
+            "uri": "http://edamontology.org/topic_0102"
+        },
+        {
+            "term": "Exome sequencing",
+            "uri": "http://edamontology.org/topic_3676"
+        }
+    ]
+}

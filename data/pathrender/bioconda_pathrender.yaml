@@ -1,0 +1,10 @@
+biotools_id: pathrender
+description: build graphs from pathway databases, render them by Rgraphviz.
+home: https://bioconductor.org/packages/3.10/bioc/html/pathRender.html
+identifiers:
+- biotools:pathrender
+license: LGPL
+license_file: /lib/R/share/licenses/LGPL-3
+name: bioconductor-pathrender
+summary: Render molecular pathways
+version: 1.54.0

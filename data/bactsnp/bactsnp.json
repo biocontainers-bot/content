@@ -1,0 +1,104 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:09:45Z",
+    "biotoolsCURIE": "biotools:BactSNP",
+    "biotoolsID": "BactSNP",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "takehiko@bio.titech.ac.jp",
+            "name": "Takehiko Itoh",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Tool to identify SNPs among bacterial isolates. BactSNP can detect SNPs and create a simple TSV file with SNP information as well as an alignment FASTA file containing reconstructed pseudo-genomes of the target isolates in a one-step process.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/IEkAdN/BactSNP/blob/master/README.md"
+        }
+    ],
+    "download": [
+        {
+            "type": "Source code",
+            "url": "https://github.com/IEkAdN/BactSNP/releases"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "SNP detection",
+                    "uri": "http://edamontology.org/operation_0484"
+                },
+                {
+                    "term": "Scaffolding",
+                    "uri": "http://edamontology.org/operation_3216"
+                },
+                {
+                    "term": "Multilocus sequence typing",
+                    "uri": "http://edamontology.org/operation_3840"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/IEkAdN/BactSNP",
+    "language": [
+        "Java",
+        "Bash",
+        "Perl",
+        "C++",
+        "C"
+    ],
+    "lastUpdate": "2019-10-31T11:44:30Z",
+    "license": "GPL-3.0",
+    "link": [
+        {
+            "type": "Other",
+            "url": "http://platanus.bio.titech.ac.jp/bactsnp"
+        },
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/IEkAdN/BactSNP/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "BactSNP",
+    "operatingSystem": [
+        "Linux"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1099/MGEN.0.000261",
+            "pmcid": "PMC6562250",
+            "pmid": "31099741",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Command-line tool"
+    ],
+    "topic": [
+        {
+            "term": "DNA polymorphism",
+            "uri": "http://edamontology.org/topic_2885"
+        },
+        {
+            "term": "Whole genome sequencing",
+            "uri": "http://edamontology.org/topic_3673"
+        },
+        {
+            "term": "Sequence assembly",
+            "uri": "http://edamontology.org/topic_0196"
+        }
+    ]
+}

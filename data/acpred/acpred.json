@@ -1,0 +1,80 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:07:09Z",
+    "biotoolsCURIE": "biotools:ACPred",
+    "biotoolsID": "ACPred",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "watshara.sho@mahidol.ac.th",
+            "name": "Watshara Shoombuatong",
+            "orcidid": "https://orcid.org/0000-0002-3394-8709",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "Computational Tool for the Prediction and Analysis of Anticancer Peptides.",
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Peptide immunogenicity prediction",
+                    "uri": "http://edamontology.org/operation_0252"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://codes.bio/acpred/",
+    "language": [
+        "R"
+    ],
+    "lastUpdate": "2019-10-31T11:41:49Z",
+    "license": "Unlicense",
+    "link": [
+        {
+            "type": "Repository",
+            "url": "https://github.com/Shoombuatong2527/acpred"
+        },
+        {
+            "type": "Repository",
+            "url": "https://github.com/chaninlab/acpred-webserver"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "ACPred",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.3390/MOLECULES24101973",
+            "pmcid": "PMC6571645",
+            "pmid": "31121946",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Small molecules",
+            "uri": "http://edamontology.org/topic_0154"
+        },
+        {
+            "term": "Machine learning",
+            "uri": "http://edamontology.org/topic_3474"
+        },
+        {
+            "term": "Transcription factors and regulatory sites",
+            "uri": "http://edamontology.org/topic_0749"
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:10:15Z",
+    "biotoolsCURIE": "biotools:EpiAlign",
+    "biotoolsID": "EpiAlign",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "zhanghaowen12@mails.tsinghua.edu.cn",
+            "name": "Haowen Zhang",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "jli@stat.ucla.edu",
+            "name": "Jingyi Jessica Li",
+            "orcidid": "https://orcid.org/0000-0002-9288-5648",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Alignment-based bioinformatic tool for comparing chromatin state sequences.",
+    "documentation": [
+        {
+            "type": "User manual",
+            "url": "https://github.com/zzz3639/EpiAlign/blob/master/doc/manual.pdf"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Essential dynamics",
+                    "uri": "http://edamontology.org/operation_3891"
+                },
+                {
+                    "term": "Enrichment analysis",
+                    "uri": "http://edamontology.org/operation_3501"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/zzz3639/EpiAlign",
+    "language": [
+        "Shell",
+        "C++",
+        "C"
+    ],
+    "lastUpdate": "2019-10-31T11:54:24Z",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/zzz3639/EpiAlign/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "EpiAlign",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/NAR/GKZ287",
+            "pmcid": "PMC6648345",
+            "pmid": "31045217",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Script"
+    ],
+    "topic": [
+        {
+            "term": "Epigenomics",
+            "uri": "http://edamontology.org/topic_3173"
+        },
+        {
+            "term": "ChIP-seq",
+            "uri": "http://edamontology.org/topic_3169"
+        },
+        {
+            "term": "RNA-Seq",
+            "uri": "http://edamontology.org/topic_3170"
+        }
+    ]
+}

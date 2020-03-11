@@ -1,0 +1,63 @@
+{
+    "accessibility": [
+        "Restricted access"
+    ],
+    "additionDate": "2019-08-09T13:10:33Z",
+    "biotoolsCURIE": "biotools:ClassifyMe",
+    "biotoolsID": "ClassifyMe",
+    "cost": "Free of charge (with restrictions)",
+    "credit": [
+        {
+            "url": "https://classifymeapp.com/contact"
+        }
+    ],
+    "description": "Field-scouting software for the identification of wildlife in camera trap images.",
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Essential dynamics",
+                    "uri": "http://edamontology.org/operation_3891"
+                },
+                {
+                    "term": "Standardisation and normalisation",
+                    "uri": "http://edamontology.org/operation_3435"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://classifymeapp.com/",
+    "lastUpdate": "2019-10-31T11:48:01Z",
+    "license": "Other",
+    "maturity": "Mature",
+    "name": "ClassifyMe",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1101/646737",
+            "type": "Primary"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Imaging",
+            "uri": "http://edamontology.org/topic_3382"
+        },
+        {
+            "term": "Zoology",
+            "uri": "http://edamontology.org/topic_3500"
+        },
+        {
+            "term": "Machine learning",
+            "uri": "http://edamontology.org/topic_3474"
+        }
+    ]
+}

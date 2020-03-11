@@ -1,0 +1,99 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:06:55Z",
+    "biotoolsCURIE": "biotools:PhyloToL",
+    "biotoolsID": "PhyloToL",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "lkatz@smith.edu",
+            "name": "L. A. Katz",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "mceronromero@umass.edu",
+            "name": "Mario Cer\u00c3\u00b3n-Romero",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "A Taxon/Gene-Rich Phylogenomic Pipeline to Explore Genome Evolution of Diverse Eukaryotes.",
+    "documentation": [
+        {
+            "type": "User manual",
+            "url": "https://github.com/Katzlab/PhyloTOL/blob/master/manual_phyloToL.pdf"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Enrichment analysis",
+                    "uri": "http://edamontology.org/operation_3501"
+                },
+                {
+                    "term": "Read binning",
+                    "uri": "http://edamontology.org/operation_3798"
+                },
+                {
+                    "term": "Phylogenetic tree reconstruction",
+                    "uri": "http://edamontology.org/operation_3478"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/Katzlab/PhyloTOL",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T12:09:37Z",
+    "license": "Unlicense",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/Katzlab/PhyloTOL/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "PhyloToL",
+    "operatingSystem": [
+        "Linux",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/MOLBEV/MSZ103",
+            "pmcid": "PMC6657734",
+            "pmid": "31062861",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Command-line tool"
+    ],
+    "topic": [
+        {
+            "term": "Phylogenomics",
+            "uri": "http://edamontology.org/topic_0194"
+        },
+        {
+            "term": "Phylogeny",
+            "uri": "http://edamontology.org/topic_0084"
+        },
+        {
+            "term": "Zoology",
+            "uri": "http://edamontology.org/topic_3500"
+        }
+    ]
+}

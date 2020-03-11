@@ -1,0 +1,87 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:12:15Z",
+    "biotoolsCURIE": "biotools:TEGS",
+    "biotoolsID": "TEGS",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "wzhang_math@whu.edu.cn",
+            "name": "Wei Zhang",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Prediction of essential proteins by integrating network topology, subcellular localization information, gene expression profile and GO annotation data.",
+    "download": [
+        {
+            "type": "Source code",
+            "url": "https://github.com/wzhangwhu/TEGS/blob/master/TEGS_method_code.zip"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Subcellular localisation prediction",
+                    "uri": "http://edamontology.org/operation_2489"
+                },
+                {
+                    "term": "Expression analysis",
+                    "uri": "http://edamontology.org/operation_2495"
+                },
+                {
+                    "term": "Protein interaction prediction",
+                    "uri": "http://edamontology.org/operation_2492"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/wzhangwhu/TEGS",
+    "language": [
+        "MATLAB"
+    ],
+    "lastUpdate": "2019-10-31T12:19:27Z",
+    "license": "Unlicense",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/wzhangwhu/TEGS/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "TEGS",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1109/TCBB.2019.2916038",
+            "pmid": "31095490",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Library"
+    ],
+    "topic": [
+        {
+            "term": "Protein interactions",
+            "uri": "http://edamontology.org/topic_0128"
+        },
+        {
+            "term": "Gene expression",
+            "uri": "http://edamontology.org/topic_0203"
+        }
+    ]
+}

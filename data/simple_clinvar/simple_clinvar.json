@@ -1,0 +1,118 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:07:39Z",
+    "biotoolsCURIE": "biotools:Simple_ClinVar",
+    "biotoolsID": "Simple_ClinVar",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "lald@ccf.org",
+            "name": "Dennis Lal",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "e.perezpalma@uni-koeln.de",
+            "name": "Eduardo P\u00c3\u00a9rez-Palma",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "mgramm1@smail.uni-koeln.de",
+            "name": "Marie Gramm",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Interactive web server to explore and retrieve gene and disease variants aggregated in ClinVar database.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "http://simple-clinvar.broadinstitute.org/"
+        },
+        {
+            "type": "General",
+            "url": "https://github.com/dlal-group/Simple-ClinVar/blob/master/README.md"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Virulence prediction",
+                    "uri": "http://edamontology.org/operation_3461"
+                },
+                {
+                    "term": "Aggregation",
+                    "uri": "http://edamontology.org/operation_3436"
+                },
+                {
+                    "term": "Genetic variation analysis",
+                    "uri": "http://edamontology.org/operation_3197"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://simple-clinvar.broadinstitute.org/",
+    "language": [
+        "R",
+        "Perl"
+    ],
+    "lastUpdate": "2019-10-31T12:16:15Z",
+    "license": "Unlicense",
+    "link": [
+        {
+            "type": "Repository",
+            "url": "http://github.com/dlal-group/Simple-ClinVar"
+        },
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/dlal-group/Simple-ClinVar/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "Simple ClinVar",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/NAR/GKZ411",
+            "pmcid": "PMC6602488",
+            "pmid": "31114901",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application",
+        "Web service"
+    ],
+    "topic": [
+        {
+            "term": "Genotype and phenotype",
+            "uri": "http://edamontology.org/topic_0625"
+        },
+        {
+            "term": "Pathology",
+            "uri": "http://edamontology.org/topic_0634"
+        },
+        {
+            "term": "Molecular interactions, pathways and networks",
+            "uri": "http://edamontology.org/topic_0602"
+        }
+    ]
+}

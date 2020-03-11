@@ -1,0 +1,83 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:13:53Z",
+    "biotoolsCURIE": "biotools:icHET",
+    "biotoolsID": "icHET",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "vphan@memphis.edu",
+            "name": "Vinhthuy Phan",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Interactive Visualization of Cytoplasmic Heteroplasmy.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/vtphan/HeteroplasmyWorkflow/blob/master/README.md"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Variant calling",
+                    "uri": "http://edamontology.org/operation_3227"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/vtphan/HeteroplasmyWorkflow",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T11:59:45Z",
+    "license": "MIT",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/vtphan/HeteroplasmyWorkflow/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "icHET",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/BIOINFORMATICS/BTZ300",
+            "pmid": "31038667",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Script"
+    ],
+    "topic": [
+        {
+            "term": "Zoology",
+            "uri": "http://edamontology.org/topic_3500"
+        },
+        {
+            "term": "Genetic variation",
+            "uri": "http://edamontology.org/topic_0199"
+        },
+        {
+            "term": "Plant biology",
+            "uri": "http://edamontology.org/topic_0780"
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:20:26Z",
+    "biotoolsCURIE": "biotools:a-o-tool",
+    "biotoolsID": "a-o-tool",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "eric.simon@boehringer-ingelheim.com",
+            "name": "Eric Simon",
+            "orcidid": "https://orcid.org/0000-0002-2585-3830",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Exploiting orthology and de novo transcriptome assembly to refine target sequence information.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/Julia-F-S/a-o-tool/blob/master/README.md"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Ab initio structure prediction",
+                    "uri": "http://edamontology.org/operation_0476"
+                },
+                {
+                    "term": "de Novo sequencing",
+                    "uri": "http://edamontology.org/operation_3644"
+                },
+                {
+                    "term": "Transcriptome assembly",
+                    "uri": "http://edamontology.org/operation_3258"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/Julia-F-S/a-o-tool",
+    "language": [
+        "Groovy"
+    ],
+    "lastUpdate": "2019-10-31T11:41:33Z",
+    "license": "GPL-3.0",
+    "maturity": "Mature",
+    "name": "a-o-tool",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1186/S12920-019-0524-5",
+            "pmcid": "PMC6533699",
+            "pmid": "31122257",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Command-line tool"
+    ],
+    "topic": [
+        {
+            "term": "RNA-Seq",
+            "uri": "http://edamontology.org/topic_3170"
+        },
+        {
+            "term": "Sequence assembly",
+            "uri": "http://edamontology.org/topic_0196"
+        },
+        {
+            "term": "Transcriptomics",
+            "uri": "http://edamontology.org/topic_3308"
+        }
+    ]
+}

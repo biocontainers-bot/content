@@ -1,0 +1,101 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:09:11Z",
+    "biotoolsCURIE": "biotools:epiTAD",
+    "biotoolsID": "epiTAD",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "g.adenbuie@gmail.com",
+            "name": "Garrick Aden-Buie",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Web application for visualizing chromosome conformation capture data in the context of genetic epidemiology.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/GerkeLab/epiTAD/blob/master/README.md"
+        }
+    ],
+    "download": [
+        {
+            "type": "Source code",
+            "url": "https://github.com/GerkeLab/epiTAD/releases"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "SNP annotation",
+                    "uri": "http://edamontology.org/operation_3661"
+                },
+                {
+                    "term": "SNP detection",
+                    "uri": "http://edamontology.org/operation_0484"
+                },
+                {
+                    "term": "Query and retrieval",
+                    "uri": "http://edamontology.org/operation_0224"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://apps.gerkelab.com/epiTAD/",
+    "language": [
+        "R"
+    ],
+    "lastUpdate": "2019-10-31T11:54:49Z",
+    "license": "MIT",
+    "link": [
+        {
+            "type": "Repository",
+            "url": "https://github.com/GerkeLab/epiTAD"
+        },
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/GerkeLab/epiTAD/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "epiTAD",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/BIOINFORMATICS/BTZ387",
+            "pmid": "31099399",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "DNA polymorphism",
+            "uri": "http://edamontology.org/topic_2885"
+        },
+        {
+            "term": "Public health and epidemiology",
+            "uri": "http://edamontology.org/topic_3305"
+        },
+        {
+            "term": "Mapping",
+            "uri": "http://edamontology.org/topic_0102"
+        }
+    ]
+}

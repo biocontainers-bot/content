@@ -1,0 +1,101 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:08:49Z",
+    "biotoolsCURIE": "biotools:CPGAVAS2",
+    "biotoolsID": "CPGAVAS2",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "cliu6688@yahoo.com",
+            "name": "Chang Liu",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Integrated plastome sequence annotator and analyzer.",
+    "documentation": [
+        {
+            "note": "Tutorial material",
+            "type": "Training material",
+            "url": "http://47.96.249.172:16014//documents/tutorial_cpgavas.pdf"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "tRNA gene prediction",
+                    "uri": "http://edamontology.org/operation_0464"
+                },
+                {
+                    "term": "SNP detection",
+                    "uri": "http://edamontology.org/operation_0484"
+                },
+                {
+                    "term": "EST assembly",
+                    "uri": "http://edamontology.org/operation_0526"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://www.herbalgenomics.org/cpgavas2",
+    "lastUpdate": "2019-10-31T11:49:31Z",
+    "license": "Unlicense",
+    "link": [
+        {
+            "note": "Central China",
+            "type": "Mirror",
+            "url": "http://47.96.249.172:16019/analyzer/home"
+        },
+        {
+            "note": "East Coast USA",
+            "type": "Mirror",
+            "url": "http://47.90.241.85:16019/analyzer/home"
+        },
+        {
+            "type": "Other",
+            "url": "http://47.96.249.172:16014/analyzer/home"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "CPGAVAS2",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/NAR/GKZ345",
+            "pmcid": "PMC6602467",
+            "pmid": "31066451",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application",
+        "Web service"
+    ],
+    "topic": [
+        {
+            "term": "Gene transcripts",
+            "uri": "http://edamontology.org/topic_3512"
+        },
+        {
+            "term": "RNA-Seq",
+            "uri": "http://edamontology.org/topic_3170"
+        },
+        {
+            "term": "DNA polymorphism",
+            "uri": "http://edamontology.org/topic_2885"
+        }
+    ]
+}

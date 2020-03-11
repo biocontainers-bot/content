@@ -1,0 +1,85 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:12:21Z",
+    "biotoolsCURIE": "biotools:SeRenDIP",
+    "biotoolsID": "SeRenDIP",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "feenstra@few.vu.nl",
+            "name": "K. Anton Feenstra",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "pauldegeest1@gmail.com",
+            "name": "Paul de Geest",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "q.hou@vu.nl",
+            "name": "Q. Hou",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "SEquential REmasteriNg to DerIve Profiles for fast and accurate predictions of PPI interface positions.",
+    "download": [
+        {
+            "type": "Downloads page",
+            "url": "http://www.ibi.vu.nl/downloads/RF_PPI/"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Protein interaction prediction",
+                    "uri": "http://edamontology.org/operation_2492"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://www.ibi.vu.nl/programs/serendipwww/",
+    "language": [
+        "R"
+    ],
+    "lastUpdate": "2019-10-31T12:16:05Z",
+    "license": "GPL-3.0",
+    "maturity": "Mature",
+    "name": "SeRenDIP",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/BIOINFORMATICS/BTZ428",
+            "pmid": "31116381",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Protein interactions",
+            "uri": "http://edamontology.org/topic_0128"
+        }
+    ]
+}

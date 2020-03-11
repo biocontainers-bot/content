@@ -1,0 +1,98 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:26:06Z",
+    "biotoolsCURIE": "biotools:OG",
+    "biotoolsID": "OG",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "davide.heller@imls.uzh.ch",
+            "name": "Davide Heller",
+            "orcidid": "https://orcid.org/0000-0001-7734-9102",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Consistency pipeline for hierarchies of orthologous groups (OGs) based on subsampling and tree reconciliation.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/meringlab/og_consistency_pipeline/blob/master/README.md"
+        }
+    ],
+    "download": [
+        {
+            "type": "Source code",
+            "url": "https://github.com/meringlab/og_consistency_pipeline/releases"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Phylogenetic tree generation (consensus)",
+                    "uri": "http://edamontology.org/operation_0555"
+                },
+                {
+                    "term": "Phylogenetic tree reconstruction",
+                    "uri": "http://edamontology.org/operation_3478"
+                },
+                {
+                    "term": "Phylogenetic species tree construction",
+                    "uri": "http://edamontology.org/operation_0544"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/meringlab/og_consistency_pipeline",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T12:07:40Z",
+    "license": "GPL-3.0",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/meringlab/og_consistency_pipeline/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "OG",
+    "operatingSystem": [
+        "Linux",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1186/S12859-019-2828-Z",
+            "pmcid": "PMC6501302",
+            "pmid": "31060495",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Script"
+    ],
+    "topic": [
+        {
+            "term": "Phylogeny",
+            "uri": "http://edamontology.org/topic_0084"
+        },
+        {
+            "term": "Workflows",
+            "uri": "http://edamontology.org/topic_0769"
+        },
+        {
+            "term": "Proteomics",
+            "uri": "http://edamontology.org/topic_0121"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-11T13:41:26Z",
+    "biotoolsCURIE": "biotools:iDEP",
+    "biotoolsID": "iDEP",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "Xijin.Ge@SDSTATE.EDU",
+            "name": "X. Ge",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Integrated web application for differential expression and pathway analysis of RNA-Seq.",
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "RNA-Seq analysis",
+                    "uri": "http://edamontology.org/operation_3680"
+                },
+                {
+                    "term": "Differential gene expression analysis",
+                    "uri": "http://edamontology.org/operation_3223"
+                },
+                {
+                    "term": "Weighted correlation network analysis",
+                    "uri": "http://edamontology.org/operation_3766"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://bioinformatics.sdstate.edu/idep/",
+    "language": [
+        "R"
+    ],
+    "lastUpdate": "2019-08-11T13:42:59Z",
+    "license": "Unlicense",
+    "link": [
+        {
+            "type": "Repository",
+            "url": "https://github.com/iDEP-SDSU/idep"
+        },
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/iDEP-SDSU/idep/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "iDEP",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "Ruta",
+    "publication": [
+        {
+            "doi": "10.1186/s12859-018-2486-6",
+            "pmcid": "PMC6299935",
+            "pmid": "30567491",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "RNA-seq",
+            "uri": "http://edamontology.org/topic_3170"
+        },
+        {
+            "term": "Functional, regulatory and non-coding RNA",
+            "uri": "http://edamontology.org/topic_0659"
+        },
+        {
+            "term": "Transcriptomics",
+            "uri": "http://edamontology.org/topic_3308"
+        }
+    ]
+}

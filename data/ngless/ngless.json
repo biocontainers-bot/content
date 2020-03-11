@@ -1,0 +1,62 @@
+{
+    "additionDate": "2019-10-11T08:11:58Z",
+    "biotoolsCURIE": "biotools:NGLess",
+    "biotoolsID": "NGLess",
+    "cost": "Free of charge",
+    "description": "NGLess is a domain-specific language for NGS (next-generation sequencing data) processing with a focus on metagenomics",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://ngless.embl.de"
+        }
+    ],
+    "download": [
+        {
+            "type": "Binaries",
+            "url": "https://github.com/ngless-toolkit/ngless/releases"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "homepage": "https://ngless.embl.de",
+    "lastUpdate": "2019-10-11T08:11:58Z",
+    "license": "MIT",
+    "link": [
+        {
+            "type": "Repository",
+            "url": "https://github.com/ngless-toolkit/ngless"
+        },
+        {
+            "type": "Discussion forum",
+            "url": "https://groups.google.com/forum/#!forum/ngless"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "NGLess",
+    "operatingSystem": [
+        "Linux",
+        "Mac"
+    ],
+    "owner": "luispedro",
+    "publication": [
+        {
+            "doi": "10.1186/s40168-019-0684-8",
+            "pmcid": "PMC6547473",
+            "pmid": "31159881",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Command-line tool"
+    ],
+    "topic": [
+        {
+            "term": "Metagenomics",
+            "uri": "http://edamontology.org/topic_3174"
+        }
+    ],
+    "version": [
+        "1.0.1"
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:23:59Z",
+    "biotoolsCURIE": "biotools:phylogeny_IO",
+    "biotoolsID": "phylogeny_IO",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "alexander.mikheyev@oist.jp",
+            "name": "Alexander S Mikheyev",
+            "orcidid": "https://orcid.org/0000-0003-4369-1019",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Interactive web-based visualization and sharing of phylogenetic trees.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/oist/phylogeny-io/blob/master/readme.md"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Phylogenetic tree annotation",
+                    "uri": "http://edamontology.org/operation_0558"
+                },
+                {
+                    "term": "Phylogenetic tree editing",
+                    "uri": "http://edamontology.org/operation_0326"
+                },
+                {
+                    "term": "Phylogenetic tree reconstruction",
+                    "uri": "http://edamontology.org/operation_3478"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://phylogeny.io",
+    "language": [
+        "JavaScript"
+    ],
+    "lastUpdate": "2019-10-31T12:09:31Z",
+    "license": "MIT",
+    "link": [
+        {
+            "type": "Repository",
+            "url": "https://github.com/oist/phylogeny-io"
+        },
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/oist/phylogeny-io/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "phylogeny IO",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/NAR/GKZ356",
+            "pmcid": "PMC6602505",
+            "pmid": "31114886",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Phylogeny",
+            "uri": "http://edamontology.org/topic_0084"
+        },
+        {
+            "term": "Imaging",
+            "uri": "http://edamontology.org/topic_3382"
+        },
+        {
+            "term": "Plant biology",
+            "uri": "http://edamontology.org/topic_0780"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:10:11Z",
+    "biotoolsCURIE": "biotools:Hayai-Annotation_Plants",
+    "biotoolsID": "Hayai-Annotation_Plants",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "andreaghelfi@kazusa.or.jp",
+            "name": "Andrea Ghelfi",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "R package for an Ultra-Fast and Comprehensive Gene Annotation in Plants.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/kdri-genomics/Hayai-Annotation-Plants/blob/master/README.md"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Query and retrieval",
+                    "uri": "http://edamontology.org/operation_0224"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/kdri-genomics/Hayai-Annotation-Plants",
+    "language": [
+        "R"
+    ],
+    "lastUpdate": "2019-10-31T11:58:27Z",
+    "license": "GPL-3.0",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/kdri-genomics/Hayai-Annotation-Plants/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "Hayai-Annotation Plants",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/BIOINFORMATICS/BTZ380",
+            "pmid": "31093654",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Library"
+    ],
+    "topic": [
+        {
+            "term": "Plant biology",
+            "uri": "http://edamontology.org/topic_0780"
+        },
+        {
+            "term": "Enzymes",
+            "uri": "http://edamontology.org/topic_0821"
+        },
+        {
+            "term": "Taxonomy",
+            "uri": "http://edamontology.org/topic_0637"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:19:32Z",
+    "biotoolsCURIE": "biotools:StanEx1",
+    "biotoolsID": "StanEx1",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "seungkim@stanford.edu",
+            "name": "Seung K. Kim",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "lmh266@cornell.edu",
+            "name": "Lutfi Huq",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Interscholastic Network To Generate LexA Enhancer Trap Lines in Drosophila.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "http://stanex.stanford.edu/about/"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Scaffolding",
+                    "uri": "http://edamontology.org/operation_3216"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://stanex.stanford.edu/about/",
+    "language": [
+        "JavaScript",
+        "PHP",
+        "SQL"
+    ],
+    "lastUpdate": "2019-10-31T12:18:25Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "StanEx1",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1534/G3.119.400105",
+            "pmcid": "PMC6643891",
+            "pmid": "31040111",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Neurobiology",
+            "uri": "http://edamontology.org/topic_3304"
+        },
+        {
+            "term": "Transcription factors and regulatory sites",
+            "uri": "http://edamontology.org/topic_0749"
+        },
+        {
+            "term": "Molecular interactions, pathways and networks",
+            "uri": "http://edamontology.org/topic_0602"
+        }
+    ]
+}

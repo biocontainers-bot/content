@@ -1,0 +1,76 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:18:15Z",
+    "biotoolsCURIE": "biotools:QuickNII",
+    "biotoolsID": "QuickNII",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "j.g.bjaalie@medisin.uio.no",
+            "name": "Jan G. Bjaalie",
+            "orcidid": "https://orcid.org/0000-0001-7899-906X",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Tool for user guided affine registration (anchoring) of 2D experimental image data, typically high resolution microscopic images, to 3D atlas reference space, facilitating data integration through standardized coordinate systems.",
+    "documentation": [
+        {
+            "type": "User manual",
+            "url": "https://www.nitrc.org/docman/view.php/1341/80848/QuickNII%20user%20guide"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Microscope image visualisation",
+                    "uri": "http://edamontology.org/operation_3552"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://www.nitrc.org/projects/quicknii",
+    "lastUpdate": "2019-10-31T12:13:13Z",
+    "license": "CC-BY-NC-SA-4.0",
+    "maturity": "Mature",
+    "name": "QuickNII",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1371/JOURNAL.PONE.0216796",
+            "pmcid": "PMC6541252",
+            "pmid": "31141518",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Desktop application"
+    ],
+    "topic": [
+        {
+            "term": "Medical imaging",
+            "uri": "http://edamontology.org/topic_3384"
+        },
+        {
+            "term": "MRI",
+            "uri": "http://edamontology.org/topic_3444"
+        },
+        {
+            "term": "Neurobiology",
+            "uri": "http://edamontology.org/topic_3304"
+        }
+    ]
+}

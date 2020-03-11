@@ -1,0 +1,87 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-11T08:45:33Z",
+    "biotoolsCURIE": "biotools:rMSIKeyIon",
+    "biotoolsID": "rMSIKeyIon",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "esteban.delcastillo@urv.cat",
+            "name": "Esteban del Castillo",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Ion Filtering R Package for Untargeted Analysis of Metabolomic LDI-MS Images.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/LlucSF/rMSIKeyIon/blob/master/README.md"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Enrichment analysis",
+                    "uri": "http://edamontology.org/operation_3501"
+                },
+                {
+                    "term": "Parsing",
+                    "uri": "http://edamontology.org/operation_1812"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/LlucSF/rMSIKeyIon",
+    "language": [
+        "R"
+    ],
+    "lastUpdate": "2019-08-11T08:45:33Z",
+    "license": "GPL-3.0",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/LlucSF/rMSIKeyIon/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "rMSIKeyIon",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "Ruta",
+    "publication": [
+        {
+            "doi": "10.3390/metabo9080162",
+            "pmid": "31382415",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Library"
+    ],
+    "topic": [
+        {
+            "term": "Statistics and probability",
+            "uri": "http://edamontology.org/topic_2269"
+        },
+        {
+            "term": "Metabolomics",
+            "uri": "http://edamontology.org/topic_3172"
+        },
+        {
+            "term": "Proteomics experiment",
+            "uri": "http://edamontology.org/topic_3520"
+        }
+    ]
+}

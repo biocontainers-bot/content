@@ -1,0 +1,89 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:16:12Z",
+    "biotoolsCURIE": "biotools:CropCircDB",
+    "biotoolsID": "CropCircDB",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "hzhao@njau.edu.cn",
+            "name": "Hongwei Zhao",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "johnsunx1@yahoo.com",
+            "name": "Xiaoyong Sun",
+            "orcidid": "https://orcid.org/0000-0002-2425-3526",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Comprehensive circular RNA resource for crops in response to abiotic stress.",
+    "documentation": [
+        {
+            "note": "Tutorial material",
+            "type": "Training material",
+            "url": "http://deepbiology.cn/crop/index.php/Home/Html/Tutorial"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Deposition",
+                    "uri": "http://edamontology.org/operation_3431"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://deepbiology.cn/crop/",
+    "language": [
+        "PHP",
+        "JavaScript"
+    ],
+    "lastUpdate": "2019-10-31T11:49:57Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "CropCircDB",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/DATABASE/BAZ053",
+            "pmcid": "PMC6501434",
+            "pmid": "31058278",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Functional, regulatory and non-coding RNA",
+            "uri": "http://edamontology.org/topic_0659"
+        },
+        {
+            "term": "RNA-Seq",
+            "uri": "http://edamontology.org/topic_3170"
+        },
+        {
+            "term": "Gene transcripts",
+            "uri": "http://edamontology.org/topic_3512"
+        }
+    ]
+}

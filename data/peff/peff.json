@@ -1,0 +1,106 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:09:59Z",
+    "biotoolsCURIE": "biotools:PEFF",
+    "biotoolsID": "PEFF",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "edeutsch@systemsbiology.org",
+            "name": "Eric W. Deutsch",
+            "orcidid": "https://orcid.org/0000-0001-8732-0928",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "PSI Extended Fasta Format (PEFF) is a proposed unified format for protein and nucleotide sequence databases to be used by sequence search engines and other associated tools.",
+    "documentation": [
+        {
+            "note": "Tutorial material",
+            "type": "Training material",
+            "url": "http://www.peptideatlas.org/export/PEFF/TestExample_Windows.txt"
+        }
+    ],
+    "download": [
+        {
+            "type": "Source code",
+            "url": "https://github.com/HUPO-PSI/PEFF/tree/master/Specification"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Post-translation modification site prediction",
+                    "uri": "http://edamontology.org/operation_0417"
+                },
+                {
+                    "term": "PTM identification",
+                    "uri": "http://edamontology.org/operation_3645"
+                },
+                {
+                    "term": "Formatting",
+                    "uri": "http://edamontology.org/operation_0335"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://www.psidev.info/peff",
+    "language": [
+        "Perl"
+    ],
+    "lastUpdate": "2019-10-31T12:09:11Z",
+    "license": "Apache-2.0",
+    "link": [
+        {
+            "type": "Repository",
+            "url": "https://github.com/HUPO-PSI/PEFF"
+        },
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/HUPO-PSI/PEFF/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "PEFF",
+    "operatingSystem": [
+        "Windows"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1101/624494",
+            "type": "Primary"
+        },
+        {
+            "doi": "10.1021/ACS.JPROTEOME.9B00064",
+            "pmcid": "PMC6642660",
+            "pmid": "31081335",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Command-line tool"
+    ],
+    "topic": [
+        {
+            "term": "Proteomics",
+            "uri": "http://edamontology.org/topic_0121"
+        },
+        {
+            "term": "Proteomics experiment",
+            "uri": "http://edamontology.org/topic_3520"
+        },
+        {
+            "term": "Protein modifications",
+            "uri": "http://edamontology.org/topic_0601"
+        }
+    ]
+}

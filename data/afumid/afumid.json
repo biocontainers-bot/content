@@ -1,0 +1,77 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:18:48Z",
+    "biotoolsCURIE": "biotools:AfumID",
+    "biotoolsID": "AfumID",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "t.sewell@imperial.ac.uk",
+            "name": "Thomas R. Sewell",
+            "orcidid": "https://orcid.org/0000-0002-7239-4817",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "framework for the analysis of Aspergillus fumigatus isolates based on their microsatellite profile.",
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Rarefaction",
+                    "uri": "http://edamontology.org/operation_3797"
+                },
+                {
+                    "term": "Genotyping",
+                    "uri": "http://edamontology.org/operation_3196"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://afumid.shinyapps.io/afumID",
+    "language": [
+        "R"
+    ],
+    "lastUpdate": "2019-10-31T11:42:15Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "AfumID",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1128/MBIO.00392-19",
+            "pmcid": "PMC6529631",
+            "pmid": "31113894",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "DNA polymorphism",
+            "uri": "http://edamontology.org/topic_2885"
+        },
+        {
+            "term": "Genotype and phenotype",
+            "uri": "http://edamontology.org/topic_0625"
+        },
+        {
+            "term": "Public health and epidemiology",
+            "uri": "http://edamontology.org/topic_3305"
+        }
+    ]
+}

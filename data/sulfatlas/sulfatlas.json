@@ -1,0 +1,25 @@
+{
+    "additionDate": "2019-11-05T14:13:27Z",
+    "biotoolsCURIE": "biotools:SulfAtlas",
+    "biotoolsID": "SulfAtlas",
+    "collectionID": [
+        "elixir-fr-sdp-2019"
+    ],
+    "description": "SulfAtlas describes the family and sub-families of structurally-related sulfatases. Sub-families are created based on phylogenetic analyses and essentially correspond to different substrate specificities.",
+    "editPermission": {
+        "type": "private"
+    },
+    "homepage": "http://abims.sb-roscoff.fr/sulfatlas",
+    "lastUpdate": "2020-01-24T09:54:04Z",
+    "name": "SulfAtlas",
+    "owner": "jison",
+    "toolType": [
+        "Database portal"
+    ],
+    "topic": [
+        {
+            "term": "Gene and protein families",
+            "uri": "http://edamontology.org/topic_0623"
+        }
+    ]
+}

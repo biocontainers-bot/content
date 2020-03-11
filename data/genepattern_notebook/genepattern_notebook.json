@@ -1,0 +1,108 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:27:08Z",
+    "biotoolsCURIE": "biotools:GenePattern_notebook",
+    "biotoolsID": "GenePattern_notebook",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "ckmah@ucsd.edu",
+            "name": "Clarence K. Mah",
+            "orcidid": "https://orcid.org/0000-0001-9926-5209",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "lukaschavez@ucsd.edu",
+            "name": "Lukas Chavez",
+            "orcidid": "https://orcid.org/0000-0002-8718-8848",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Analysis of copy number variation using Illumina Infinium DNA methylation arrays.",
+    "documentation": [
+        {
+            "note": "Tutorial material",
+            "type": "Training material",
+            "url": "http://genepattern-notebook.org/tutorials/"
+        },
+        {
+            "type": "FAQ",
+            "url": "http://genepattern-notebook.org/faq/"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Read pre-processing",
+                    "uri": "http://edamontology.org/operation_3219"
+                },
+                {
+                    "term": "Enrichment analysis",
+                    "uri": "http://edamontology.org/operation_3501"
+                },
+                {
+                    "term": "Aggregation",
+                    "uri": "http://edamontology.org/operation_3436"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://www.genepattern-notebook.org/",
+    "language": [
+        "R",
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T11:56:52Z",
+    "license": "Unlicense",
+    "link": [
+        {
+            "type": "Repository",
+            "url": "https://notebook.genepattern.org/"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "GenePattern notebook",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.12688/F1000RESEARCH.16338.1",
+            "pmcid": "PMC6498745",
+            "pmid": "31105932",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Suite"
+    ],
+    "topic": [
+        {
+            "term": "Microarray experiment",
+            "uri": "http://edamontology.org/topic_3518"
+        },
+        {
+            "term": "Epigenetics",
+            "uri": "http://edamontology.org/topic_3295"
+        },
+        {
+            "term": "DNA polymorphism",
+            "uri": "http://edamontology.org/topic_2885"
+        }
+    ]
+}

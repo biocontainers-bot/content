@@ -1,0 +1,10 @@
+biotools_id: genemeta
+description: A collection of meta-analysis tools for analysing high throughput experimental
+  data
+home: https://bioconductor.org/packages/3.10/bioc/html/GeneMeta.html
+identifiers:
+- biotools:genemeta
+license: Artistic-2.0
+name: bioconductor-genemeta
+summary: MetaAnalysis for High Throughput Experiments
+version: 1.58.0

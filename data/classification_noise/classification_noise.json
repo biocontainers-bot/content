@@ -1,0 +1,68 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:24:36Z",
+    "biotoolsCURIE": "biotools:classification_noise",
+    "biotoolsID": "classification_noise",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "leo@leomchugh.com",
+            "name": "Leo C. McHugh",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "The effect of uncertainty in patient classification on diagnostic performance estimations.",
+    "editPermission": {
+        "type": "private"
+    },
+    "homepage": "https://imperfect-gold-standard.shinyapps.io/classification-noise/",
+    "language": [
+        "R"
+    ],
+    "lastUpdate": "2019-10-31T11:47:56Z",
+    "license": "MIT",
+    "link": [
+        {
+            "type": "Repository",
+            "url": "https://github.com/ksny/Imperfect-Gold-Standard"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "classification noise",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1371/JOURNAL.PONE.0217146",
+            "pmcid": "PMC6530857",
+            "pmid": "31116772",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Preclinical and clinical studies",
+            "uri": "http://edamontology.org/topic_3379"
+        },
+        {
+            "term": "Personalised medicine",
+            "uri": "http://edamontology.org/topic_3577"
+        },
+        {
+            "term": "Public health and epidemiology",
+            "uri": "http://edamontology.org/topic_3305"
+        }
+    ]
+}

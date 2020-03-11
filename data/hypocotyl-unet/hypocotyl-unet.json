@@ -1,0 +1,94 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:25:17Z",
+    "biotoolsCURIE": "biotools:hypocotyl-UNet",
+    "biotoolsID": "hypocotyl-UNet",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "danka.tivadar@brc.mta.hu",
+            "name": "Tivadar Danka",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "viczian.andras@brc.mta.hu",
+            "name": "Andr\u00e1s Viczi\u00e1n",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Deep learning-based approach for high-throughput hypocotyl phenotyping.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/biomag-lab/hypocotyl-UNet/blob/master/README.md"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Quantification",
+                    "uri": "http://edamontology.org/operation_3799"
+                },
+                {
+                    "term": "Image annotation",
+                    "uri": "http://edamontology.org/operation_3553"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/biomag-lab/hypocotyl-UNet",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T11:59:35Z",
+    "license": "Unlicense",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/biomag-lab/hypocotyl-UNet/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "hypocotyl-UNet",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1101/651729",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Script"
+    ],
+    "topic": [
+        {
+            "term": "Genotype and phenotype",
+            "uri": "http://edamontology.org/topic_0625"
+        },
+        {
+            "term": "Plant biology",
+            "uri": "http://edamontology.org/topic_0780"
+        },
+        {
+            "term": "Imaging",
+            "uri": "http://edamontology.org/topic_3382"
+        }
+    ]
+}

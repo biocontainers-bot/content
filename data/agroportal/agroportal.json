@@ -1,0 +1,13 @@
+{
+    "additionDate": "2019-11-05T14:55:06Z",
+    "biotoolsCURIE": "biotools:AgroPortal",
+    "biotoolsID": "AgroPortal",
+    "description": "Browser for ontologies for agricultural science based on NBCO BioPortal.",
+    "editPermission": {
+        "type": "private"
+    },
+    "homepage": "http://agroportal.lirmm.fr/",
+    "lastUpdate": "2019-11-05T14:55:06Z",
+    "name": "AgroPortal",
+    "owner": "jison"
+}

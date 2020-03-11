@@ -1,0 +1,79 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:20:16Z",
+    "biotoolsCURIE": "biotools:peakC",
+    "biotoolsID": "peakC",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "e.d.wit@nki.nl",
+            "name": "Elzo de Wit",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Benchmarking of 4C-seq pipelines based on real and simulated data.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/deWitLab/peakC/blob/master/README.md"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Peak calling",
+                    "uri": "http://edamontology.org/operation_3222"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/deWitLab/peakC",
+    "language": [
+        "R"
+    ],
+    "lastUpdate": "2019-10-31T12:09:06Z",
+    "license": "GPL-3.0",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/deWitLab/peakC/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "peakC",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/BIOINFORMATICS/BTZ426",
+            "pmid": "31134276",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Library"
+    ],
+    "topic": [
+        {
+            "term": "Epigenetics",
+            "uri": "http://edamontology.org/topic_3295"
+        },
+        {
+            "term": "Workflows",
+            "uri": "http://edamontology.org/topic_0769"
+        }
+    ]
+}

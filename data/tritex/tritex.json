@@ -1,0 +1,90 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:11:37Z",
+    "biotoolsCURIE": "biotools:TRITEX",
+    "biotoolsID": "TRITEX",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "mascher@ipk-gatersleben.de",
+            "name": "Martin Mascher",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Chromosome-scale sequence assembly of Triticeae genomes with open-source tools.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://tritexassembly.bitbucket.io/"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Genome assembly",
+                    "uri": "http://edamontology.org/operation_0525"
+                },
+                {
+                    "term": "De-novo assembly",
+                    "uri": "http://edamontology.org/operation_0524"
+                },
+                {
+                    "term": "Scaffolding",
+                    "uri": "http://edamontology.org/operation_3216"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://tritexassembly.bitbucket.io",
+    "language": [
+        "R"
+    ],
+    "lastUpdate": "2019-10-31T12:20:37Z",
+    "license": "MIT",
+    "link": [
+        {
+            "type": "Repository",
+            "url": "https://bitbucket.org/tritexassembly/tritexassembly.bitbucket.io/src/master/"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "TRITEX",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1101/631648",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Script"
+    ],
+    "topic": [
+        {
+            "term": "Sequence assembly",
+            "uri": "http://edamontology.org/topic_0196"
+        },
+        {
+            "term": "Whole genome sequencing",
+            "uri": "http://edamontology.org/topic_3673"
+        },
+        {
+            "term": "Plant biology",
+            "uri": "http://edamontology.org/topic_0780"
+        }
+    ]
+}

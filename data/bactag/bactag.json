@@ -1,0 +1,93 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:15:19Z",
+    "biotoolsCURIE": "biotools:BacTag",
+    "biotoolsID": "BacTag",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "l.khachatryan@lumc.nl",
+            "name": "Lusine Khachatryan",
+            "orcidid": "https://orcid.org/0000-0002-0218-9092",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Pipeline for fast and accurate gene and allele typing in bacterial sequencing data based on database preprocessing.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://git.lumc.nl/l.khachatryan/BacTag/wikis/home"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Variant calling",
+                    "uri": "http://edamontology.org/operation_3227"
+                },
+                {
+                    "term": "Parsing",
+                    "uri": "http://edamontology.org/operation_1812"
+                },
+                {
+                    "term": "Multilocus sequence typing",
+                    "uri": "http://edamontology.org/operation_3840"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://git.lumc.nl/l.khachatryan/BacTag",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T11:44:25Z",
+    "license": "Unlicense",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://git.lumc.nl/l.khachatryan/BacTag/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "BacTag",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1186/S12864-019-5723-0",
+            "pmcid": "PMC6501397",
+            "pmid": "31060512",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Command-line tool"
+    ],
+    "topic": [
+        {
+            "term": "Whole genome sequencing",
+            "uri": "http://edamontology.org/topic_3673"
+        },
+        {
+            "term": "Mapping",
+            "uri": "http://edamontology.org/topic_0102"
+        },
+        {
+            "term": "Public health and epidemiology",
+            "uri": "http://edamontology.org/topic_3305"
+        }
+    ]
+}

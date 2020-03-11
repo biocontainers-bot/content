@@ -1,0 +1,99 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-11T11:04:01Z",
+    "biotoolsCURIE": "biotools:iMEGES",
+    "biotoolsID": "iMEGES",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "atlas.akhan@gmail.com",
+            "name": "Atlas Khan",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "kaichop@gmail.com",
+            "name": "Kai Wang",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Integrated mental-disorder GEnome score by deep neural network for prioritizing the susceptibility genes for mental disorders in personal genomes.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/WGLab/iMEGES/blob/master/README.md"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Variant calling",
+                    "uri": "http://edamontology.org/operation_3227"
+                },
+                {
+                    "term": "Genotyping",
+                    "uri": "http://edamontology.org/operation_3196"
+                },
+                {
+                    "term": "Gene expression QTL analysis",
+                    "uri": "http://edamontology.org/operation_3232"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/WGLab/iMEGES",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-08-11T11:04:01Z",
+    "license": "Unlicense",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/WGLab/iMEGES/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "iMEGES",
+    "operatingSystem": [
+        "Linux",
+        "Mac"
+    ],
+    "owner": "Ruta",
+    "publication": [
+        {
+            "doi": "10.1186/s12859-018-2469-7",
+            "pmcid": "PMC6309067",
+            "pmid": "30591030",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Script"
+    ],
+    "topic": [
+        {
+            "term": "Psychiatry",
+            "uri": "http://edamontology.org/topic_3419"
+        },
+        {
+            "term": "Epigenomics",
+            "uri": "http://edamontology.org/topic_3173"
+        },
+        {
+            "term": "Exome sequencing",
+            "uri": "http://edamontology.org/topic_3676"
+        }
+    ]
+}

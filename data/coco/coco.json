@@ -1,0 +1,91 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:09:03Z",
+    "biotoolsCURIE": "biotools:CoCo",
+    "biotoolsID": "CoCo",
+    "cost": "Free of charge",
+    "description": "Count Corrector for nested genes and multi-mapped reads.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "http://gitlabscottgroup.med.usherbrooke.ca/scott-group/coco/blob/master/README.md"
+        },
+        {
+            "type": "User manual",
+            "url": "http://gitlabscottgroup.med.usherbrooke.ca/scott-group/coco/blob/master/MANUAL.md"
+        }
+    ],
+    "download": [
+        {
+            "type": "Source code",
+            "url": "http://gitlabscottgroup.med.usherbrooke.ca/scott-group/coco/repository/archive.zip"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "RNA-Seq quantification",
+                    "uri": "http://edamontology.org/operation_3800"
+                },
+                {
+                    "term": "RNA-seq read count analysis",
+                    "uri": "http://edamontology.org/operation_3563"
+                },
+                {
+                    "term": "Read binning",
+                    "uri": "http://edamontology.org/operation_3798"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://gitlabscottgroup.med.usherbrooke.ca/scott-group/coco",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T11:48:36Z",
+    "license": "GPL-3.0",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "http://gitlabscottgroup.med.usherbrooke.ca/scott-group/coco/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "CoCo",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/BIOINFORMATICS/BTZ433",
+            "pmid": "31141144",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Command-line tool"
+    ],
+    "topic": [
+        {
+            "term": "Functional, regulatory and non-coding RNA",
+            "uri": "http://edamontology.org/topic_0659"
+        },
+        {
+            "term": "RNA-Seq",
+            "uri": "http://edamontology.org/topic_3170"
+        },
+        {
+            "term": "Gene transcripts",
+            "uri": "http://edamontology.org/topic_3512"
+        }
+    ]
+}

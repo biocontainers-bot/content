@@ -1,0 +1,32 @@
+{
+    "additionDate": "2019-08-14T13:24:19Z",
+    "biotoolsCURIE": "biotools:tailfindr",
+    "biotoolsID": "tailfindr",
+    "cost": "Free of charge",
+    "description": "tailfindr is a R package for estimating poly(A)-tail lengths in Oxford Nanopore RNA and DNA reads.",
+    "editPermission": {
+        "type": "private"
+    },
+    "homepage": "https://github.com/adnaniazi/tailfindr",
+    "language": [
+        "R"
+    ],
+    "lastUpdate": "2019-08-14T13:24:35Z",
+    "license": "GPL-3.0",
+    "name": "tailfindr",
+    "owner": "adnaniazi",
+    "publication": [
+        {
+            "doi": "10.1261/rna.071332.119"
+        }
+    ],
+    "toolType": [
+        "Library"
+    ],
+    "topic": [
+        {
+            "term": "Bioinformatics",
+            "uri": "http://edamontology.org/topic_0091"
+        }
+    ]
+}

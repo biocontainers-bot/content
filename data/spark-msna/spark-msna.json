@@ -1,0 +1,81 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:15:48Z",
+    "biotoolsCURIE": "biotools:SPARK-MSNA",
+    "biotoolsID": "SPARK-MSNA",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "vineevishnu@gmail.com",
+            "name": "V. Vineetha",
+            "orcidid": "https://orcid.org/0000-0001-6445-7833",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Efficient algorithm on Apache Spark for aligning multiple similar DNA/RNA sequences with supervised learning.",
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Pairwise sequence alignment",
+                    "uri": "http://edamontology.org/operation_0491"
+                },
+                {
+                    "term": "Multiple sequence alignment",
+                    "uri": "http://edamontology.org/operation_0492"
+                },
+                {
+                    "term": "Phylogenetic tree generation",
+                    "uri": "http://edamontology.org/operation_0323"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://sourceforge.net/projects/spark-msna/",
+    "language": [
+        "Java"
+    ],
+    "lastUpdate": "2019-10-31T12:17:48Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "SPARK-MSNA",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1038/S41598-019-42966-5",
+            "pmcid": "PMC6488671",
+            "pmid": "31036850",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Script"
+    ],
+    "topic": [
+        {
+            "term": "Machine learning",
+            "uri": "http://edamontology.org/topic_3474"
+        },
+        {
+            "term": "RNA-Seq",
+            "uri": "http://edamontology.org/topic_3170"
+        },
+        {
+            "term": "Nucleic acid structure analysis",
+            "uri": "http://edamontology.org/topic_0097"
+        }
+    ]
+}

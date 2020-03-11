@@ -1,0 +1,66 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:19:14Z",
+    "biotoolsCURIE": "biotools:KPDGUI",
+    "biotoolsID": "KPDGUI",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "braymath@umich.edu",
+            "name": "Mathieu Bray",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "KPDGUI (Kidney Paired Donation Graphical User Interface) - interactive application for optimization and management of a virtual kidney paired donation program.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/mathieubray/KPDGUI/blob/master/README.md"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "homepage": "https://github.com/mathieubray/KPDGUI",
+    "language": [
+        "C++"
+    ],
+    "lastUpdate": "2019-10-31T12:01:31Z",
+    "license": "LGPL-3.0",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/mathieubray/KPDGUI/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "KPDGUI",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1016/J.COMPBIOMED.2019.03.013",
+            "pmcid": "PMC6538268",
+            "pmid": "31054501",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Desktop application"
+    ],
+    "topic": [
+        {
+            "term": "Surgery",
+            "uri": "http://edamontology.org/topic_3421"
+        }
+    ]
+}

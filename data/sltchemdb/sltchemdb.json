@@ -1,0 +1,84 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:11:14Z",
+    "biotoolsCURIE": "biotools:SLTChemDB",
+    "biotoolsID": "SLTChemDB",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "hsingh@bmi.icmr.org.in",
+            "name": "Harpreet Singh",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Database of Chemical Constitutents of Smokeless Tobacco Products.",
+    "documentation": [
+        {
+            "type": "User manual",
+            "url": "https://bic.icmr.org.in/sltchem/help.php"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Database search",
+                    "uri": "http://edamontology.org/operation_2421"
+                },
+                {
+                    "term": "Deposition",
+                    "uri": "http://edamontology.org/operation_3431"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://bic.icmr.org.in/sltchem",
+    "language": [
+        "JavaScript",
+        "PHP"
+    ],
+    "lastUpdate": "2019-10-31T12:16:41Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "SLTChemDB",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1038/S41598-019-43559-Y",
+            "pmcid": "PMC6509116",
+            "pmid": "31073139",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application",
+        "Database portal"
+    ],
+    "topic": [
+        {
+            "term": "Cheminformatics",
+            "uri": "http://edamontology.org/topic_2258"
+        },
+        {
+            "term": "Toxicology",
+            "uri": "http://edamontology.org/topic_2840"
+        },
+        {
+            "term": "Compound libraries and screening",
+            "uri": "http://edamontology.org/topic_3343"
+        }
+    ]
+}

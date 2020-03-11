@@ -1,0 +1,91 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:06:16Z",
+    "biotoolsCURIE": "biotools:gpart",
+    "biotoolsID": "gpart",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "sunnyeesl@gmail.com",
+            "name": "Sun Ah Kim",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Human genome partitioning and visualization of high-density SNP data by identifying haplotype blocks.",
+    "documentation": [
+        {
+            "type": "User manual",
+            "url": "https://bioconductor.org/packages/release/bioc/manuals/gpart/man/gpart.pdf"
+        }
+    ],
+    "download": [
+        {
+            "type": "Source code",
+            "url": "https://bioconductor.org/packages/release/bioc/src/contrib/gpart_1.2.0.tar.gz"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Genotyping",
+                    "uri": "http://edamontology.org/operation_3196"
+                },
+                {
+                    "term": "Linkage disequilibrium calculation",
+                    "uri": "http://edamontology.org/operation_0488"
+                },
+                {
+                    "term": "SNP detection",
+                    "uri": "http://edamontology.org/operation_0484"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://bioconductor.org/packages/gpart",
+    "language": [
+        "R"
+    ],
+    "lastUpdate": "2019-10-31T11:57:21Z",
+    "license": "MIT",
+    "maturity": "Mature",
+    "name": "gpart",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/BIOINFORMATICS/BTZ308",
+            "pmid": "31070701",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Library"
+    ],
+    "topic": [
+        {
+            "term": "DNA polymorphism",
+            "uri": "http://edamontology.org/topic_2885"
+        },
+        {
+            "term": "Mapping",
+            "uri": "http://edamontology.org/topic_0102"
+        },
+        {
+            "term": "Sequencing",
+            "uri": "http://edamontology.org/topic_3168"
+        }
+    ]
+}

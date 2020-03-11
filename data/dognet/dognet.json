@@ -1,0 +1,85 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:07:25Z",
+    "biotoolsCURIE": "biotools:DoGNet",
+    "biotoolsID": "DoGNet",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "v.kulikov@skoltech.ru",
+            "name": "Victor Kulikov",
+            "orcidid": "https://orcid.org/0000-0002-4264-8572",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Deep architecture for synapse detection in multiplexed fluorescence images.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/kulikovv/dognet/blob/master/README.md"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Scaffolding",
+                    "uri": "http://edamontology.org/operation_3216"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/kulikovv/dognet",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T11:53:10Z",
+    "license": "GPL-3.0",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/kulikovv/dognet/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "DoGNet",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1371/JOURNAL.PCBI.1007012",
+            "pmcid": "PMC6533009",
+            "pmid": "31083649",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Script"
+    ],
+    "topic": [
+        {
+            "term": "Electron microscopy",
+            "uri": "http://edamontology.org/topic_0611"
+        },
+        {
+            "term": "Machine learning",
+            "uri": "http://edamontology.org/topic_3474"
+        },
+        {
+            "term": "Light microscopy",
+            "uri": "http://edamontology.org/topic_3385"
+        }
+    ]
+}

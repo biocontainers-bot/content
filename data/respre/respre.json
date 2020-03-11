@@ -1,0 +1,95 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:05:23Z",
+    "biotoolsCURIE": "biotools:ResPRE",
+    "biotoolsID": "ResPRE",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "liyangum@umich.edu",
+            "name": "Yang Li",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Algorithm for protein residue-residue contact-map prediction.",
+    "download": [
+        {
+            "type": "Software package",
+            "url": "https://zhanglab.ccmb.med.umich.edu/ResPRE/download/ResPRE.zip"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Residue contact prediction",
+                    "uri": "http://edamontology.org/operation_0272"
+                },
+                {
+                    "term": "Protein secondary structure prediction",
+                    "uri": "http://edamontology.org/operation_0267"
+                },
+                {
+                    "term": "Fold recognition",
+                    "uri": "http://edamontology.org/operation_0303"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://zhanglab.ccmb.med.umich.edu/ResPRE",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T12:13:59Z",
+    "license": "Unlicense",
+    "link": [
+        {
+            "type": "Repository",
+            "url": "https://github.com/leeyang/ResPRE"
+        },
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/leeyang/ResPRE/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "ResPRE",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/BIOINFORMATICS/BTZ291",
+            "pmid": "31070716",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Machine learning",
+            "uri": "http://edamontology.org/topic_3474"
+        },
+        {
+            "term": "Molecular interactions, pathways and networks",
+            "uri": "http://edamontology.org/topic_0602"
+        },
+        {
+            "term": "Protein expression",
+            "uri": "http://edamontology.org/topic_0108"
+        }
+    ]
+}

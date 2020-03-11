@@ -1,0 +1,85 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:21:39Z",
+    "biotoolsCURIE": "biotools:CBGT",
+    "biotoolsID": "CBGT",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "timothyv@andrew.cmu.edu",
+            "name": "Timothy Verstynen",
+            "orcidid": "https://orcid.org/0000-0003-4720-0336",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "jonrubin@pitt.edu",
+            "name": "Jonathan Rubin",
+            "orcidid": "https://orcid.org/0000-0002-1513-1551",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Spiking Neural Network of cortico-basal ganglia-thalamus (CBGT) pathways.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/CoAxLab/CBGT/blob/master/README.md"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "homepage": "https://github.com/CoAxLab/CBGT",
+    "language": [
+        "MATLAB",
+        "Python",
+        "C"
+    ],
+    "lastUpdate": "2019-10-31T11:46:11Z",
+    "license": "Other",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/CoAxLab/CBGT/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "CBGT",
+    "operatingSystem": [
+        "Linux",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1371/JOURNAL.PCBI.1006998",
+            "pmcid": "PMC6534331",
+            "pmid": "31060045",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Command-line tool"
+    ],
+    "topic": [
+        {
+            "term": "Machine learning",
+            "uri": "http://edamontology.org/topic_3474"
+        },
+        {
+            "term": "Molecular interactions, pathways and networks",
+            "uri": "http://edamontology.org/topic_0602"
+        },
+        {
+            "term": "Transcription factors and regulatory sites",
+            "uri": "http://edamontology.org/topic_0749"
+        }
+    ]
+}

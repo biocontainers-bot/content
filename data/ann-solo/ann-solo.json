@@ -1,0 +1,96 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:07:29Z",
+    "biotoolsCURIE": "biotools:ANN-SoLo",
+    "biotoolsID": "ANN-SoLo",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "wout.bittremieux@uantwerpen.be",
+            "name": "Wout Bittremieux",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "ANN-SoLo (Approximate Nearest Neighbor Spectral Library) is a spectral library search engine for fast and accurate open modification searching.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/bittremieux/ANN-SoLo/blob/master/README.md"
+        }
+    ],
+    "download": [
+        {
+            "type": "Source code",
+            "url": "https://github.com/bittremieux/ANN-SoLo/releases"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Spectral library search",
+                    "uri": "http://edamontology.org/operation_3801"
+                },
+                {
+                    "term": "PTM localisation",
+                    "uri": "http://edamontology.org/operation_3755"
+                },
+                {
+                    "term": "Mass spectra calibration",
+                    "uri": "http://edamontology.org/operation_3627"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/bittremieux/ANN-SoLo",
+    "language": [
+        "C++",
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T11:43:23Z",
+    "license": "Apache-2.0",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/bittremieux/ANN-SoLo/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "ANN-SoLo",
+    "operatingSystem": [
+        "Linux",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1101/627497",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Library"
+    ],
+    "topic": [
+        {
+            "term": "Proteomics",
+            "uri": "http://edamontology.org/topic_0121"
+        },
+        {
+            "term": "Small molecules",
+            "uri": "http://edamontology.org/topic_0154"
+        },
+        {
+            "term": "Proteomics experiment",
+            "uri": "http://edamontology.org/topic_3520"
+        }
+    ]
+}

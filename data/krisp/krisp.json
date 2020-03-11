@@ -1,0 +1,84 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:23:32Z",
+    "biotoolsCURIE": "biotools:krisp",
+    "biotoolsID": "krisp",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "alcantaraluiz42@gmail.com",
+            "name": "Luiz C. J. Alcantara",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "tuliodna@gmail.com",
+            "name": "Tulio de Oliveira",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Bioinformatics Software Applications and Online Databases and Tools.",
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Genotyping",
+                    "uri": "http://edamontology.org/operation_3196"
+                },
+                {
+                    "term": "Phylogenetic tree bootstrapping",
+                    "uri": "http://edamontology.org/operation_0552"
+                },
+                {
+                    "term": "Phylogenetic tree reconstruction",
+                    "uri": "http://edamontology.org/operation_3478"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://www.krisp.org.za/tools.php",
+    "lastUpdate": "2019-10-31T12:01:40Z",
+    "license": "Other",
+    "maturity": "Mature",
+    "name": "krisp",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1371/JOURNAL.PNTD.0007231",
+            "pmcid": "PMC6527240",
+            "pmid": "31067235"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Phylogenetics",
+            "uri": "http://edamontology.org/topic_3293"
+        },
+        {
+            "term": "Genotype and phenotype",
+            "uri": "http://edamontology.org/topic_0625"
+        },
+        {
+            "term": "Whole genome sequencing",
+            "uri": "http://edamontology.org/topic_3673"
+        }
+    ]
+}

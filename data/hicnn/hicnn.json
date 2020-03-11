@@ -1,0 +1,82 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:07:51Z",
+    "biotoolsCURIE": "biotools:HiCNN",
+    "biotoolsID": "HiCNN",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "zheng.wang@miami.edu",
+            "name": "Zheng Wang",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Computational method for resolution enhancement of Hi-C data. It uses a very deep convolutional neural network to learn the mapping between low-resolution and high-resolution Hi-C contact matrices.",
+    "documentation": [
+        {
+            "type": "User manual",
+            "url": "http://dna.cs.miami.edu/HiCNN/HiCNN_package.tar.gz"
+        }
+    ],
+    "download": [
+        {
+            "type": "Software package",
+            "url": "http://dna.cs.miami.edu/HiCNN/HiCNN_package.tar.gz"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Enrichment analysis",
+                    "uri": "http://edamontology.org/operation_3501"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://dna.cs.miami.edu/HiCNN/",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T11:58:42Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "HiCNN",
+    "operatingSystem": [
+        "Linux",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/BIOINFORMATICS/BTZ251",
+            "pmid": "31056636",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Command-line tool"
+    ],
+    "topic": [
+        {
+            "term": "Machine learning",
+            "uri": "http://edamontology.org/topic_3474"
+        },
+        {
+            "term": "Transcription factors and regulatory sites",
+            "uri": "http://edamontology.org/topic_0749"
+        },
+        {
+            "term": "Molecular interactions, pathways and networks",
+            "uri": "http://edamontology.org/topic_0602"
+        }
+    ]
+}

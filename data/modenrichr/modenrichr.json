@@ -1,0 +1,79 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:16:35Z",
+    "biotoolsCURIE": "biotools:modEnrichr",
+    "biotoolsID": "modEnrichr",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "avi.maayan@mssm.edu",
+            "name": "Avi Ma\u00e2\u20ac\u2122ayan",
+            "orcidid": "https://orcid.org/0000-0002-6904-1017",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Suite of gene set enrichment analysis tools for model organisms.",
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Pathway or network prediction",
+                    "uri": "http://edamontology.org/operation_3439"
+                },
+                {
+                    "term": "Enrichment analysis",
+                    "uri": "http://edamontology.org/operation_3501"
+                },
+                {
+                    "term": "Expression analysis",
+                    "uri": "http://edamontology.org/operation_2495"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://amp.pharm.mssm.edu/modEnrichr/",
+    "lastUpdate": "2019-10-31T12:05:15Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "modEnrichr",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/NAR/GKZ347",
+            "pmcid": "PMC6602483",
+            "pmid": "31069376",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application",
+        "Suite"
+    ],
+    "topic": [
+        {
+            "term": "Gene transcripts",
+            "uri": "http://edamontology.org/topic_3512"
+        },
+        {
+            "term": "Molecular interactions, pathways and networks",
+            "uri": "http://edamontology.org/topic_0602"
+        },
+        {
+            "term": "Model organisms",
+            "uri": "http://edamontology.org/topic_0621"
+        }
+    ]
+}

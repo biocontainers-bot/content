@@ -1,0 +1,110 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:12:43Z",
+    "biotoolsCURIE": "biotools:G-OnRamp",
+    "biotoolsID": "G-OnRamp",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "goecksj@ohsu.edu",
+            "name": "Jeremy Goecks",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "selgin@wustl.edu",
+            "name": "Sarah C.R. Elgin",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "sargentl@ohsu.edu",
+            "name": "Luke Sargent",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "wleung@wustl.edu",
+            "name": "Wilson Leung",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Galaxy-based platform for collaborative annotation of eukaryotic genomes.",
+    "documentation": [
+        {
+            "type": "Training material",
+            "url": "http://g-onramp.org/training"
+        },
+        {
+            "type": "General",
+            "url": "http://gonramp.wustl.edu/?page_id=384"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Genome assembly",
+                    "uri": "http://edamontology.org/operation_0525"
+                },
+                {
+                    "term": "Genome visualisation",
+                    "uri": "http://edamontology.org/operation_3208"
+                },
+                {
+                    "term": "Scaffolding",
+                    "uri": "http://edamontology.org/operation_3216"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://gonramp.wustl.edu/",
+    "lastUpdate": "2019-10-31T11:56:27Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "G-OnRamp",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/BIOINFORMATICS/BTZ309",
+            "pmid": "31070714",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "RNA-Seq",
+            "uri": "http://edamontology.org/topic_3170"
+        },
+        {
+            "term": "Sequence assembly",
+            "uri": "http://edamontology.org/topic_0196"
+        },
+        {
+            "term": "Imaging",
+            "uri": "http://edamontology.org/topic_3382"
+        }
+    ]
+}

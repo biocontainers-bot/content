@@ -1,0 +1,80 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:25:33Z",
+    "biotoolsCURIE": "biotools:lvdatamap",
+    "biotoolsID": "lvdatamap",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "phung@virginia.edu",
+            "name": "Thien-Khoi N. Phung",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Open-Source Routines for Building Personalized Left Ventricular Models from Cardiac MRI Data.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/cardiacbiomechanicsgroup/lvdatamap/blob/master/README.md"
+        }
+    ],
+    "download": [
+        {
+            "type": "Downloads page",
+            "url": "https://simtk.org/frs/?group_id=1620"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "homepage": "https://simtk.org/projects/lvdatamap",
+    "language": [
+        "MATLAB",
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T12:03:00Z",
+    "license": "MIT",
+    "link": [
+        {
+            "type": "Repository",
+            "url": "https://github.com/cardiacbiomechanicsgroup/lvdatamap"
+        },
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/cardiacbiomechanicsgroup/lvdatamap/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "lvdatamap",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1115/1.4043876",
+            "pmid": "31141592",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Script"
+    ],
+    "topic": [
+        {
+            "term": "MRI",
+            "uri": "http://edamontology.org/topic_3444"
+        },
+        {
+            "term": "Transcription factors and regulatory sites",
+            "uri": "http://edamontology.org/topic_0749"
+        }
+    ]
+}

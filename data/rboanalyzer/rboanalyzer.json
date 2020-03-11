@@ -1,0 +1,156 @@
+{
+    "additionDate": "2019-10-26T15:35:08Z",
+    "biotoolsCURIE": "biotools:rboAnalyzer",
+    "biotoolsID": "rboAnalyzer",
+    "collectionID": [
+        "MBU AV CR",
+        "ELIXIR-CZ"
+    ],
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "name": "Marek Schwarz",
+            "note": "Student at Laboratory of Bioinformatics at IMG AS CR",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Developer"
+            ]
+        },
+        {
+            "name": "Martin Modr\u00e1k",
+            "note": "Researcher at Laboratory of Bioinformatics at IMG AS CR",
+            "orcidid": "http://orcid.org/0000-0002-8886-7797",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Contributor"
+            ]
+        },
+        {
+            "email": "vohr@biomed.cas.cz",
+            "name": "Ji\u0159\u00ed Vohradsk\u00fd",
+            "note": "Head of Laboratory of Bioinformatics at IMG AS CR",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ],
+            "url": "https://mbucas.cz/en/research/biology-of-the-cell-and-bioinformatics/laboratory-of-bioinformatics/"
+        }
+    ],
+    "description": "A tool for analyzing BLAST search output for RNA sequences.",
+    "documentation": [
+        {
+            "type": "Installation instructions",
+            "url": "https://github.com/cas-bioinf/rboAnalyzer#install-from-source"
+        },
+        {
+            "type": "Command-line options",
+            "url": "https://github.com/cas-bioinf/rboAnalyzer#basic-usage"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "elixirNode": [
+        "Czech Republic"
+    ],
+    "elixirPlatform": [
+        "Tools"
+    ],
+    "function": [
+        {
+            "cmd": "rboAnalyzer -in BLAST_OUTPUT.txt -db USED_DATABASE_PATH -q BLAST_QUERY.fasta",
+            "input": [
+                {
+                    "data": {
+                        "term": "RNA sequence",
+                        "uri": "http://edamontology.org/data_3495"
+                    },
+                    "format": [
+                        {
+                            "term": "FASTA",
+                            "uri": "http://edamontology.org/format_1929"
+                        }
+                    ]
+                }
+            ],
+            "note": "Run analysis on BLAST_QUERY sequence over USED_DATABASE with output from BLAST itself",
+            "operation": [
+                {
+                    "term": "Nucleic acid sequence analysis",
+                    "uri": "http://edamontology.org/operation_2478"
+                }
+            ],
+            "output": [
+                {
+                    "data": {
+                        "term": "Sequence report",
+                        "uri": "http://edamontology.org/data_2955"
+                    },
+                    "format": [
+                        {
+                            "term": "HTML",
+                            "uri": "http://edamontology.org/format_2331"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/cas-bioinf/rboAnalyzer",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-10-26T15:35:08Z",
+    "license": "GPL-2.0",
+    "link": [
+        {
+            "type": "Repository",
+            "url": "https://github.com/cas-bioinf/rboAnalyzer"
+        }
+    ],
+    "maturity": "Emerging",
+    "name": "rboAnalyzer",
+    "operatingSystem": [
+        "Linux"
+    ],
+    "owner": "ELIXIR-CZ",
+    "relation": [
+        {
+            "biotoolsID": "rfam",
+            "type": "uses"
+        },
+        {
+            "biotoolsID": "unafold",
+            "type": "uses"
+        },
+        {
+            "biotoolsID": "blast",
+            "type": "uses"
+        },
+        {
+            "biotoolsID": "locarna",
+            "type": "uses"
+        },
+        {
+            "biotoolsID": "infernal_cmscan",
+            "type": "uses"
+        },
+        {
+            "biotoolsID": "clustalo",
+            "type": "uses"
+        },
+        {
+            "biotoolsID": "muscle",
+            "type": "uses"
+        }
+    ],
+    "toolType": [
+        "Command-line tool"
+    ],
+    "topic": [
+        {
+            "term": "Functional, regulatory and non-coding RNA",
+            "uri": "http://edamontology.org/topic_0659"
+        }
+    ]
+}

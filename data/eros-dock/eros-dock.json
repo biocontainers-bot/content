@@ -1,0 +1,71 @@
+{
+    "accessibility": [
+        "Restricted access"
+    ],
+    "additionDate": "2019-08-09T13:11:47Z",
+    "biotoolsCURIE": "biotools:EROS-DOCK",
+    "biotoolsID": "EROS-DOCK",
+    "cost": "Free of charge (with restrictions)",
+    "credit": [
+        {
+            "email": "isaure.chauvot-de-beauchene@loria.fr",
+            "name": "Isaure Chauvot de Beauch\u00c3\u00aane",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Protein-Protein Docking Using Exhaustive Branch-and-Bound Rotational Search.",
+    "download": [
+        {
+            "type": "Software package",
+            "url": "http://erosdock.loria.fr/licence-2.1.4.html"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Protein-ligand docking",
+                    "uri": "http://edamontology.org/operation_0482"
+                },
+                {
+                    "term": "Protein-protein docking",
+                    "uri": "http://edamontology.org/operation_3899"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://erosdock.loria.fr",
+    "lastUpdate": "2019-10-31T11:55:04Z",
+    "license": "Other",
+    "maturity": "Mature",
+    "name": "EROS-DOCK",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/BIOINFORMATICS/BTZ434",
+            "pmid": "31125060",
+            "type": "Primary"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Molecular modelling",
+            "uri": "http://edamontology.org/topic_2275"
+        },
+        {
+            "term": "Physics",
+            "uri": "http://edamontology.org/topic_3318"
+        }
+    ]
+}

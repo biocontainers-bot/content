@@ -1,0 +1,91 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:12:01Z",
+    "biotoolsCURIE": "biotools:SMUT",
+    "biotoolsID": "SMUT",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "zhongwujuan@gmail.com",
+            "name": "Wujuan Zhong",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Multi-SNP mediation intersection-union test.",
+    "documentation": [
+        {
+            "type": "User manual",
+            "url": "https://cran.r-project.org/web/packages/SMUT/SMUT.pdf"
+        }
+    ],
+    "download": [
+        {
+            "type": "Software package",
+            "url": "https://cran.r-project.org/src/contrib/SMUT_1.0.1.tar.gz"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Imputation",
+                    "uri": "http://edamontology.org/operation_3557"
+                },
+                {
+                    "term": "Genotyping",
+                    "uri": "http://edamontology.org/operation_3196"
+                },
+                {
+                    "term": "SNP annotation",
+                    "uri": "http://edamontology.org/operation_3661"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://CRAN.R-project.org/package=SMUT",
+    "language": [
+        "R"
+    ],
+    "lastUpdate": "2019-10-31T12:16:51Z",
+    "license": "GPL-2.0",
+    "maturity": "Mature",
+    "name": "SMUT",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/BIOINFORMATICS/BTZ285",
+            "pmid": "31099385",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Library"
+    ],
+    "topic": [
+        {
+            "term": "DNA polymorphism",
+            "uri": "http://edamontology.org/topic_2885"
+        },
+        {
+            "term": "GWAS study",
+            "uri": "http://edamontology.org/topic_3517"
+        },
+        {
+            "term": "Genotype and phenotype",
+            "uri": "http://edamontology.org/topic_0625"
+        }
+    ]
+}

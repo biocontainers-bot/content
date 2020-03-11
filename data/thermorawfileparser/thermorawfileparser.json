@@ -1,0 +1,93 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:10:29Z",
+    "biotoolsCURIE": "biotools:ThermoRawFileParser",
+    "biotoolsID": "ThermoRawFileParser",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "compomics.list@gmail.com",
+            "name": "Computational Omics and Systems Biology Group",
+            "typeEntity": "Division",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Modular, scalable and cross-platform RAW file conversion.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/compomics/ThermoRawFileParser/blob/master/README.md"
+        }
+    ],
+    "download": [
+        {
+            "type": "Source code",
+            "url": "https://github.com/compomics/ThermoRawFileParser/releases"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Quantification",
+                    "uri": "http://edamontology.org/operation_3799"
+                },
+                {
+                    "term": "Read binning",
+                    "uri": "http://edamontology.org/operation_3798"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/compomics/ThermoRawFileParser",
+    "language": [
+        "Java",
+        "C#"
+    ],
+    "lastUpdate": "2019-10-31T12:19:50Z",
+    "license": "Apache-2.0",
+    "link": [
+        {
+            "note": "ThermoRawFileParserGUI",
+            "type": "Repository",
+            "url": "https://github.com/compomics/ThermoRawFileParserGUI"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "ThermoRawFileParser",
+    "operatingSystem": [
+        "Linux"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1101/622852",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Command-line tool",
+        "Desktop application"
+    ],
+    "topic": [
+        {
+            "term": "Proteomics",
+            "uri": "http://edamontology.org/topic_0121"
+        },
+        {
+            "term": "Proteomics experiment",
+            "uri": "http://edamontology.org/topic_3520"
+        },
+        {
+            "term": "Geriatric medicine",
+            "uri": "http://edamontology.org/topic_3399"
+        }
+    ]
+}

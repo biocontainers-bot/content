@@ -1,0 +1,80 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:16:52Z",
+    "biotoolsCURIE": "biotools:PATHcrosstalk",
+    "biotoolsID": "PATHcrosstalk",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "yuzhangsheng@sjtu.edu.cn",
+            "name": "Zhangsheng Yu",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "faber@sjtu.edu.cn",
+            "name": "Botao Fa",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "R package for crosstalk correction in Pathway Deregulation Score (PDS) inferred by Pathifier algorithm.",
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Haplotype mapping",
+                    "uri": "http://edamontology.org/operation_0487"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/fabotao/PATHcrosstalk",
+    "language": [
+        "R"
+    ],
+    "lastUpdate": "2019-10-31T12:08:40Z",
+    "license": "LGPL-3.0",
+    "maturity": "Mature",
+    "name": "PATHcrosstalk",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1016/J.EBIOM.2019.05.010",
+            "pmcid": "PMC6606892",
+            "pmid": "31101593",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Library"
+    ],
+    "topic": [
+        {
+            "term": "Biomarkers",
+            "uri": "http://edamontology.org/topic_3360"
+        },
+        {
+            "term": "Molecular interactions, pathways and networks",
+            "uri": "http://edamontology.org/topic_0602"
+        },
+        {
+            "term": "Oncology",
+            "uri": "http://edamontology.org/topic_2640"
+        }
+    ]
+}

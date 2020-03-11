@@ -1,0 +1,83 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:20:20Z",
+    "biotoolsCURIE": "biotools:Variant_Score_Ranker",
+    "biotoolsID": "Variant_Score_Ranker",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "lald@ccf.org",
+            "name": "Dennis Lal",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Variant Score Ranker (VSR)  - web application for intuitive missense variant prioritization.",
+    "documentation": [
+        {
+            "note": "Tutorial material",
+            "type": "Training material",
+            "url": "http://vsranker.broadinstitute.org/#tab-9158-4"
+        },
+        {
+            "type": "FAQ",
+            "url": "http://vsranker.broadinstitute.org/#tab-9158-3"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Variant effect prediction",
+                    "uri": "http://edamontology.org/operation_0331"
+                },
+                {
+                    "term": "Variant prioritisation",
+                    "uri": "http://edamontology.org/operation_3226"
+                },
+                {
+                    "term": "Variant classification",
+                    "uri": "http://edamontology.org/operation_3225"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://vsranker.broadinstitute.org",
+    "lastUpdate": "2019-10-31T12:21:34Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "Variant Score Ranker",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/BIOINFORMATICS/BTZ252",
+            "pmid": "31086968",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Exome sequencing",
+            "uri": "http://edamontology.org/topic_3676"
+        },
+        {
+            "term": "Pathology",
+            "uri": "http://edamontology.org/topic_0634"
+        }
+    ]
+}

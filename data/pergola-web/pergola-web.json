@@ -1,0 +1,93 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:12:25Z",
+    "biotoolsCURIE": "biotools:Pergola-web",
+    "biotoolsID": "Pergola-web",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "julia.ponomarenko@crg.eu",
+            "name": "Julia Ponomarenko",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "cedric.notredame@crg.es",
+            "name": "Cedric Notredame",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Web server for the visualization and analysis of longitudinal behavioral data using repurposed genomics tools and standards.",
+    "documentation": [
+        {
+            "type": "User manual",
+            "url": "http://pergola.crg.eu/help"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Splitting",
+                    "uri": "http://edamontology.org/operation_3359"
+                },
+                {
+                    "term": "Visualisation",
+                    "uri": "http://edamontology.org/operation_0337"
+                },
+                {
+                    "term": "Formatting",
+                    "uri": "http://edamontology.org/operation_0335"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://pergola.crg.eu/",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T12:09:17Z",
+    "license": "GPL-3.0",
+    "link": [
+        {
+            "type": "Repository",
+            "url": "https://github.com/cbcrg/pergola"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "Pergola-web",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/NAR/GKZ414",
+            "pmcid": "PMC6602478",
+            "pmid": "31106365",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application",
+        "Web service"
+    ],
+    "topic": [
+        {
+            "term": "Genotype and phenotype",
+            "uri": "http://edamontology.org/topic_0625"
+        }
+    ]
+}

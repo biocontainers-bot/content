@@ -1,0 +1,92 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:08:39Z",
+    "biotoolsCURIE": "biotools:DEEPred",
+    "biotoolsID": "DEEPred",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "tdogan@ebi.ac.uk",
+            "name": "Tunca Do\u00c4\u0178an",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "vatalay@metu.edu.tr",
+            "name": "Volkan Atalay",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Automated Protein Function Prediction with Multi-task Feed-forward Deep Neural Networks.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/cansyl/DEEPred/blob/master/ReadMe.md"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Enrichment analysis",
+                    "uri": "http://edamontology.org/operation_3501"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/cansyl/DEEPred",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T11:51:37Z",
+    "license": "GPL-3.0",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/cansyl/DEEPred/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "DEEPred",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1038/S41598-019-43708-3",
+            "pmcid": "PMC6517386",
+            "pmid": "31089211",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Script"
+    ],
+    "topic": [
+        {
+            "term": "Machine learning",
+            "uri": "http://edamontology.org/topic_3474"
+        },
+        {
+            "term": "Molecular interactions, pathways and networks",
+            "uri": "http://edamontology.org/topic_0602"
+        },
+        {
+            "term": "Ontology and terminology",
+            "uri": "http://edamontology.org/topic_0089"
+        }
+    ]
+}

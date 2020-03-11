@@ -1,0 +1,105 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:05:40Z",
+    "biotoolsCURIE": "biotools:tRNAviz",
+    "biotoolsID": "tRNAviz",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "tmjlowe@ucsc.edu",
+            "name": "Todd M Lowe",
+            "orcidid": "https://orcid.org/0000-0003-3253-6021",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Web application for exploring and visualizing tRNA sequence features.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "http://trna.ucsc.edu/tRNAviz/about/"
+        }
+    ],
+    "download": [
+        {
+            "type": "Source code",
+            "url": "https://github.com/UCSC-LoweLab/tRNAviz/releases"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Parsing",
+                    "uri": "http://edamontology.org/operation_1812"
+                },
+                {
+                    "term": "tRNA gene prediction",
+                    "uri": "http://edamontology.org/operation_0464"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://trna.ucsc.edu/tRNAviz/summary/",
+    "language": [
+        "R",
+        "JavaScript",
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T12:20:42Z",
+    "license": "GPL-3.0",
+    "link": [
+        {
+            "type": "Repository",
+            "url": "https://github.com/UCSC-LoweLab/tRNAviz"
+        },
+        {
+            "type": "Repository",
+            "url": "https://github.com/UCSC-LoweLab/tRNAviz-data"
+        },
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/UCSC-LoweLab/tRNAviz/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "tRNAviz",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/NAR/GKZ438",
+            "pmcid": "PMC6602477",
+            "pmid": "31127306",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Functional, regulatory and non-coding RNA",
+            "uri": "http://edamontology.org/topic_0659"
+        },
+        {
+            "term": "Gene transcripts",
+            "uri": "http://edamontology.org/topic_3512"
+        },
+        {
+            "term": "Imaging",
+            "uri": "http://edamontology.org/topic_3382"
+        }
+    ]
+}

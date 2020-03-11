@@ -1,0 +1,86 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:10:21Z",
+    "biotoolsCURIE": "biotools:DynaStI",
+    "biotoolsID": "DynaStI",
+    "cost": "Free of charge (with restrictions)",
+    "credit": [
+        {
+            "email": "Santiago.Codesido@unige.ch",
+            "name": "Santiago Codesido",
+            "orcidid": "https://orcid.org/0000-0003-3669-6313",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Dynamic Retention Time Database for Steroidomics.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://dynasti.vital-it.ch/#/about"
+        }
+    ],
+    "download": [
+        {
+            "type": "Downloads page",
+            "url": "https://dynasti.vital-it.ch/#/download"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Phasing",
+                    "uri": "http://edamontology.org/operation_3454"
+                },
+                {
+                    "term": "Retention time prediction",
+                    "uri": "http://edamontology.org/operation_3633"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://dynasti.vital-it.ch",
+    "lastUpdate": "2019-10-31T11:53:45Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "DynaStI",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.3390/METABO9050085",
+            "pmcid": "PMC6572260",
+            "pmid": "31052310",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Metabolomics",
+            "uri": "http://edamontology.org/topic_3172"
+        },
+        {
+            "term": "Lipids",
+            "uri": "http://edamontology.org/topic_0153"
+        },
+        {
+            "term": "Compound libraries and screening",
+            "uri": "http://edamontology.org/topic_3343"
+        }
+    ]
+}

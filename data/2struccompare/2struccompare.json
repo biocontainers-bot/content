@@ -1,0 +1,97 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:08:45Z",
+    "biotoolsCURIE": "biotools:2StrucCompare",
+    "biotoolsID": "2StrucCompare",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "r.w.janes@qmul.ac.uk",
+            "name": "Robert W. Janes",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "e.drew@qmul.ac.uk",
+            "name": "Elliot Drew",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Webserver for the comparison of secondary structure algorithms and the secondary structure of protein structures.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://2struccompare.cryst.bbk.ac.uk/help.php"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Protein secondary structure comparison",
+                    "uri": "http://edamontology.org/operation_2488"
+                },
+                {
+                    "term": "Protein secondary structure assignment",
+                    "uri": "http://edamontology.org/operation_0319"
+                },
+                {
+                    "term": "Protein secondary structure prediction",
+                    "uri": "http://edamontology.org/operation_0267"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://2struccompare.cryst.bbk.ac.uk/index.php",
+    "language": [
+        "JavaScript",
+        "PHP",
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T11:41:19Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "2StrucCompare",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/NAR/GKZ456",
+            "pmcid": "PMC6602421",
+            "pmid": "31114904",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application",
+        "Web service"
+    ],
+    "topic": [
+        {
+            "term": "Protein secondary structure",
+            "uri": "http://edamontology.org/topic_3542"
+        },
+        {
+            "term": "Protein folds and structural domains",
+            "uri": "http://edamontology.org/topic_0736"
+        },
+        {
+            "term": "Protein structural motifs and surfaces",
+            "uri": "http://edamontology.org/topic_0166"
+        }
+    ]
+}

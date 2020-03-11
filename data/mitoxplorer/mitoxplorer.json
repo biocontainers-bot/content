@@ -1,0 +1,88 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:04:21Z",
+    "biotoolsCURIE": "biotools:mitoXplorer",
+    "biotoolsID": "mitoXplorer",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "bianca.habermann@univ-amu.fr",
+            "name": "Bianca Habermann",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Visual data mining platform to systematically analyze and visualize mitochondrial expression dynamics and mutations.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "http://mitoxplorer.ibdm.univ-mrs.fr/about.html"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Essential dynamics",
+                    "uri": "http://edamontology.org/operation_3891"
+                },
+                {
+                    "term": "Visualisation",
+                    "uri": "http://edamontology.org/operation_0337"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://mitoxplorer.ibdm.univ-mrs.fr",
+    "language": [
+        "JavaScript",
+        "PHP",
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T12:04:50Z",
+    "license": "GPL-3.0",
+    "link": [
+        {
+            "type": "Repository",
+            "url": "https://gitlab.com/habermannlab/mitox"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "mitoXplorer",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1101/641423",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Molecular interactions, pathways and networks",
+            "uri": "http://edamontology.org/topic_0602"
+        },
+        {
+            "term": "Proteomics",
+            "uri": "http://edamontology.org/topic_0121"
+        },
+        {
+            "term": "Genetic variation",
+            "uri": "http://edamontology.org/topic_0199"
+        }
+    ]
+}

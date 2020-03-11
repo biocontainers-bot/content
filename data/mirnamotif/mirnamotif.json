@@ -1,0 +1,95 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-11T13:53:52Z",
+    "biotoolsCURIE": "biotools:miRNAmotif",
+    "biotoolsID": "miRNAmotif",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "mirnamotif@gmail.com",
+            "typeEntity": "Project",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Tool for the Prediction of Pre-miRNA\u207bProtein Interactions.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/martynaut/mirnamotif/blob/master/README.md"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Sequence motif recognition",
+                    "uri": "http://edamontology.org/operation_0239"
+                },
+                {
+                    "term": "miRNA target prediction",
+                    "uri": "http://edamontology.org/operation_0463"
+                },
+                {
+                    "term": "miRNA expression analysis",
+                    "uri": "http://edamontology.org/operation_3792"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://mirnamotif.ibch.poznan.pl",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-08-11T13:53:52Z",
+    "license": "MIT",
+    "link": [
+        {
+            "type": "Repository",
+            "url": "https://github.com/martynaut/mirnamotif"
+        },
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/martynaut/mirnamotif/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "miRNAmotif",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "Ruta",
+    "publication": [
+        {
+            "doi": "10.3390/ijms19124075",
+            "pmcid": "PMC6321451",
+            "pmid": "30562930",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Functional, regulatory and non-coding RNA",
+            "uri": "http://edamontology.org/topic_0659"
+        },
+        {
+            "term": "Microarray experiment",
+            "uri": "http://edamontology.org/topic_3518"
+        },
+        {
+            "term": "RNA-seq",
+            "uri": "http://edamontology.org/topic_3170"
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:10:41Z",
+    "biotoolsCURIE": "biotools:MAFFT-DASH",
+    "biotoolsID": "MAFFT-DASH",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "standley@ifrec.osaka-u.ac.jp",
+            "name": "Daron M. Standley",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "katoh@ifrec.osaka-u.ac.jp",
+            "name": "Kazutaka Katoh",
+            "orcidid": "https://orcid.org/0000-0003-4133-8393",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Multiple alignment program for amino acid or nucleotide sequences.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://mafft.cbrc.jp/alignment/software/tips0.html"
+        }
+    ],
+    "download": [
+        {
+            "type": "Downloads page",
+            "url": "https://mafft.cbrc.jp/alignment/software/"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Local structure alignment",
+                    "uri": "http://edamontology.org/operation_0509"
+                },
+                {
+                    "term": "Multiple structure alignment",
+                    "uri": "http://edamontology.org/operation_0504"
+                },
+                {
+                    "term": "Pairwise structure alignment",
+                    "uri": "http://edamontology.org/operation_0503"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://mafft.cbrc.jp/alignment/server/",
+    "lastUpdate": "2019-10-31T12:03:10Z",
+    "license": "GPL-1.0",
+    "maturity": "Mature",
+    "name": "MAFFT-DASH",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/NAR/GKZ342",
+            "pmcid": "PMC6602451",
+            "pmid": "31062021",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Command-line tool",
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Small molecules",
+            "uri": "http://edamontology.org/topic_0154"
+        },
+        {
+            "term": "Phylogeny",
+            "uri": "http://edamontology.org/topic_0084"
+        },
+        {
+            "term": "Nucleic acid structure analysis",
+            "uri": "http://edamontology.org/topic_0097"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:26:12Z",
+    "biotoolsCURIE": "biotools:GPI-anchor_biosynthesis",
+    "biotoolsID": "GPI-anchor_biosynthesis",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "p.campeau@umontreal.ca",
+            "name": "Philippe M. Campeau",
+            "orcidid": "https://orcid.org/0000-0001-9713-7107",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Inherited glycophosphatidylinositol deficiency variant database.",
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Post-translation modification site prediction",
+                    "uri": "http://edamontology.org/operation_0417"
+                },
+                {
+                    "term": "Deposition",
+                    "uri": "http://edamontology.org/operation_3431"
+                },
+                {
+                    "term": "Variant classification",
+                    "uri": "http://edamontology.org/operation_3225"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://www.gpibiosynthesis.org",
+    "lastUpdate": "2019-10-31T11:57:26Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "GPI-anchor biosynthesis",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1002/MGG3.743",
+            "pmcid": "PMC6625143",
+            "pmid": "31127708",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application",
+        "Database portal"
+    ],
+    "topic": [
+        {
+            "term": "Neurology",
+            "uri": "http://edamontology.org/topic_3334"
+        },
+        {
+            "term": "Genetic variation",
+            "uri": "http://edamontology.org/topic_0199"
+        },
+        {
+            "term": "Genotype and phenotype",
+            "uri": "http://edamontology.org/topic_0625"
+        }
+    ]
+}

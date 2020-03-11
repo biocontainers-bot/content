@@ -1,0 +1,86 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:16:58Z",
+    "biotoolsCURIE": "biotools:pSTDistanceR",
+    "biotoolsID": "pSTDistanceR",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "todd.castoe@uta.edu",
+            "name": "Todd A. Castoe",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "R package for computing probabilistic distances between species tree models under the multispecies coalscent.",
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Phylogenetic tree distances calculation",
+                    "uri": "http://edamontology.org/operation_0557"
+                },
+                {
+                    "term": "Phylogenetic tree generation (consensus)",
+                    "uri": "http://edamontology.org/operation_0555"
+                },
+                {
+                    "term": "Phylogenetic species tree construction",
+                    "uri": "http://edamontology.org/operation_0544"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/radamsRHA/pSTDistanceR/",
+    "language": [
+        "R",
+        "C++"
+    ],
+    "lastUpdate": "2019-10-31T12:11:50Z",
+    "license": "Unlicense",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/radamsRHA/pSTDistanceR/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "pSTDistanceR",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/SYSBIO/SYZ031",
+            "pmid": "31086978",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Library"
+    ],
+    "topic": [
+        {
+            "term": "Phylogenomics",
+            "uri": "http://edamontology.org/topic_0194"
+        },
+        {
+            "term": "Phylogeny",
+            "uri": "http://edamontology.org/topic_0084"
+        },
+        {
+            "term": "Statistics and probability",
+            "uri": "http://edamontology.org/topic_2269"
+        }
+    ]
+}

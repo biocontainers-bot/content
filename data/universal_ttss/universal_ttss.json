@@ -1,0 +1,93 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:25:09Z",
+    "biotoolsCURIE": "biotools:universal_TTSs",
+    "biotoolsID": "universal_TTSs",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "ju.medvedeva@gmail.com",
+            "name": "Yulia A. Medvedeva",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "The code to identify the universal Triplex Target Sites (TTSs) DNA regions",
+    "download": [
+        {
+            "type": "Source code",
+            "url": "https://github.com/vanya-antonov/universal_tts/releases"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Peak calling",
+                    "uri": "http://edamontology.org/operation_3222"
+                },
+                {
+                    "term": "Enrichment analysis",
+                    "uri": "http://edamontology.org/operation_3501"
+                },
+                {
+                    "term": "Expression analysis",
+                    "uri": "http://edamontology.org/operation_2495"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/vanya-antonov/universal_tts",
+    "language": [
+        "R",
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T12:21:19Z",
+    "license": "GPL-3.0",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/vanya-antonov/universal_tts/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "universal TTSs",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.12688/F1000RESEARCH.13522.2",
+            "pmcid": "PMC6518440",
+            "pmid": "31131080",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Script"
+    ],
+    "topic": [
+        {
+            "term": "Functional, regulatory and non-coding RNA",
+            "uri": "http://edamontology.org/topic_0659"
+        },
+        {
+            "term": "DNA binding sites",
+            "uri": "http://edamontology.org/topic_3125"
+        },
+        {
+            "term": "Gene transcripts",
+            "uri": "http://edamontology.org/topic_3512"
+        }
+    ]
+}

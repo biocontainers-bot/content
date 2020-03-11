@@ -1,0 +1,98 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:06:53Z",
+    "biotoolsCURIE": "biotools:VPAC",
+    "biotoolsID": "VPAC",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "ruijiang@tsinghua.edu.cn",
+            "name": "Rui Jiang",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Variational projection for accurate clustering of single-cell transcriptomic data.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/ShengquanChen/VPAC/blob/master/README.md"
+        }
+    ],
+    "download": [
+        {
+            "type": "Source code",
+            "url": "https://github.com/ShengquanChen/VPAC/blob/master/vpac.py"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Essential dynamics",
+                    "uri": "http://edamontology.org/operation_3891"
+                },
+                {
+                    "term": "Imputation",
+                    "uri": "http://edamontology.org/operation_3557"
+                },
+                {
+                    "term": "Clustering",
+                    "uri": "http://edamontology.org/operation_3432"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/ShengquanChen/VPAC",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T12:22:13Z",
+    "license": "MIT",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/ShengquanChen/VPAC/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "VPAC",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1186/S12859-019-2742-4",
+            "pmcid": "PMC6509870",
+            "pmid": "31074382",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Script"
+    ],
+    "topic": [
+        {
+            "term": "Transcriptomics",
+            "uri": "http://edamontology.org/topic_3308"
+        },
+        {
+            "term": "RNA-Seq",
+            "uri": "http://edamontology.org/topic_3170"
+        },
+        {
+            "term": "Molecular interactions, pathways and networks",
+            "uri": "http://edamontology.org/topic_0602"
+        }
+    ]
+}
