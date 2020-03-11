@@ -1,0 +1,103 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:11:24Z",
+    "biotoolsCURIE": "biotools:4mcPred-IFL",
+    "biotoolsID": "4mcPred-IFL",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "weileyi@tju.edu.cn",
+            "name": "Leyi Wei",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "ssluan321@163.com",
+            "name": "Shasha Luan",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Generic webserver for predicting N4-methylcytosine (4mC) sites.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "http://server.malab.cn/4mcPred-IFL/home.html"
+        }
+    ],
+    "download": [
+        {
+            "type": "Downloads page",
+            "url": "http://server.malab.cn/4mcPred-IFL/Download.html"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Post-translation modification site prediction",
+                    "uri": "http://edamontology.org/operation_0417"
+                },
+                {
+                    "term": "Active site prediction",
+                    "uri": "http://edamontology.org/operation_3896"
+                },
+                {
+                    "term": "Ligand-binding site prediction",
+                    "uri": "http://edamontology.org/operation_3897"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://server.malab.cn/4mcPred-IFL",
+    "lastUpdate": "2019-10-31T11:41:27Z",
+    "license": "Unlicense",
+    "link": [
+        {
+            "type": "Service",
+            "url": "http://server.malab.cn/4mcPred-IFL/Server.html"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "4mcPred-IFL",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/BIOINFORMATICS/BTZ408",
+            "pmid": "31099381",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application",
+        "Web service"
+    ],
+    "topic": [
+        {
+            "term": "Machine learning",
+            "uri": "http://edamontology.org/topic_3474"
+        },
+        {
+            "term": "Transcription factors and regulatory sites",
+            "uri": "http://edamontology.org/topic_0749"
+        },
+        {
+            "term": "Epigenetics",
+            "uri": "http://edamontology.org/topic_3295"
+        }
+    ]
+}

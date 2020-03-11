@@ -1,0 +1,95 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:19:28Z",
+    "biotoolsCURIE": "biotools:EpiProfileLite",
+    "biotoolsID": "EpiProfileLite",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "bgarci@pennmedicine.upenn.edu",
+            "name": "Simone Sidoli",
+            "orcidid": "https://orcid.org/0000-0001-9073-6641",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Analysis of histone post-translational modifications by direct infusion mass spectrometry\n.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/zfyuan/EpiProfileLite/blob/master/README.md"
+        },
+        {
+            "type": "User manual",
+            "url": "https://github.com/zfyuan/EpiProfileLite/blob/master/User%20Manual%20of%20EpiProfileLite.pdf"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Post-translation modification site prediction",
+                    "uri": "http://edamontology.org/operation_0417"
+                },
+                {
+                    "term": "Protein fragment weight comparison",
+                    "uri": "http://edamontology.org/operation_2929"
+                },
+                {
+                    "term": "PTM identification",
+                    "uri": "http://edamontology.org/operation_3645"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/zfyuan/EpiProfileLite",
+    "language": [
+        "MATLAB"
+    ],
+    "lastUpdate": "2019-10-31T11:54:39Z",
+    "license": "GPL-3.0",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/zfyuan/EpiProfileLite/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "EpiProfileLite",
+    "operatingSystem": [
+        "Windows"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1101/GR.247353.118",
+            "pmcid": "PMC6581051",
+            "pmid": "31123082",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Script"
+    ],
+    "topic": [
+        {
+            "term": "Proteomics experiment",
+            "uri": "http://edamontology.org/topic_3520"
+        },
+        {
+            "term": "Epigenetics",
+            "uri": "http://edamontology.org/topic_3295"
+        },
+        {
+            "term": "Small molecules",
+            "uri": "http://edamontology.org/topic_0154"
+        }
+    ]
+}

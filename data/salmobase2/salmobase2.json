@@ -1,0 +1,34 @@
+{
+    "additionDate": "2019-10-02T11:59:28Z",
+    "biotoolsCURIE": "biotools:salmobase2",
+    "biotoolsID": "salmobase2",
+    "credit": [
+        {
+            "email": "amine.namouchi@nmbu.no",
+            "name": "Amine Namouchi",
+            "typeRole": [
+                "Primary contact",
+                "Developer"
+            ],
+            "url": "http://www.amine-namouchi.com"
+        }
+    ],
+    "description": "SalmoBase 2.0: An integrative genomic data resource for salmonids",
+    "editPermission": {
+        "type": "private"
+    },
+    "homepage": "https://salmobase.org/",
+    "lastUpdate": "2019-10-02T12:00:47Z",
+    "name": "salmobase2",
+    "owner": "aminenamouchi",
+    "publication": [
+        {
+            "doi": "10.7490/f1000research.1117096.1",
+            "type": "Other",
+            "version": "2.0"
+        }
+    ],
+    "version": [
+        "2.0"
+    ]
+}

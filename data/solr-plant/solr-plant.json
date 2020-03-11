@@ -1,0 +1,98 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:05:34Z",
+    "biotoolsCURIE": "biotools:Solr-Plant",
+    "biotoolsID": "Solr-Plant",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "neil_sarkar@brown.edu",
+            "name": "Indra Neil Sarkar",
+            "orcidid": "https://orcid.org/0000-0003-2054-7356",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Identification and resolution of plant taxonomic names.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/bcbi/SolrPlantAPI/blob/master/README.md"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Database search",
+                    "uri": "http://edamontology.org/operation_2421"
+                },
+                {
+                    "term": "Data retrieval",
+                    "uri": "http://edamontology.org/operation_2422"
+                },
+                {
+                    "term": "Local alignment",
+                    "uri": "http://edamontology.org/operation_0495"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://bcbi.brown.edu/solrplant",
+    "language": [
+        "Julia",
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T12:17:17Z",
+    "license": "MIT",
+    "link": [
+        {
+            "type": "Repository",
+            "url": "https://github.com/bcbi/SolrPlantAPI"
+        },
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/bcbi/SolrPlantAPI/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "Solr-Plant",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1186/S12859-019-2874-6",
+            "pmcid": "PMC6530169",
+            "pmid": "31117932",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Plant biology",
+            "uri": "http://edamontology.org/topic_0780"
+        },
+        {
+            "term": "Biodiversity",
+            "uri": "http://edamontology.org/topic_3050"
+        },
+        {
+            "term": "Agricultural science",
+            "uri": "http://edamontology.org/topic_3810"
+        }
+    ]
+}

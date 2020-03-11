@@ -1,0 +1,73 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:20:05Z",
+    "biotoolsCURIE": "biotools:SPHARM-PDM",
+    "biotoolsID": "SPHARM-PDM",
+    "cost": "Free of charge",
+    "description": "Tool that computes point-based models using a parametric boundary description for the computing of Shape analysis.",
+    "documentation": [
+        {
+            "note": "Tutorial material",
+            "type": "Training material",
+            "url": "https://na-mic.org/wiki/UNC_SPHARM-PDM_Tutorial"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "homepage": "https://www.nitrc.org/projects/spharm-pdm/",
+    "language": [
+        "C++"
+    ],
+    "lastUpdate": "2019-10-31T12:17:52Z",
+    "license": "Apache-2.0",
+    "link": [
+        {
+            "type": "Repository",
+            "url": "https://github.com/NIRALUser/SPHARM-PDM"
+        },
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/NIRALUser/SPHARM-PDM/issues"
+        },
+        {
+            "type": "Issue tracker",
+            "url": "https://discourse.slicer.org/c/community/slicer-salt"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "SPHARM-PDM",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1117/12.2503894",
+            "pmcid": "PMC6498854",
+            "pmid": "31057203",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Command-line tool"
+    ],
+    "topic": [
+        {
+            "term": "Medical imaging",
+            "uri": "http://edamontology.org/topic_3384"
+        },
+        {
+            "term": "Pathology",
+            "uri": "http://edamontology.org/topic_0634"
+        },
+        {
+            "term": "Workflows",
+            "uri": "http://edamontology.org/topic_0769"
+        }
+    ]
+}

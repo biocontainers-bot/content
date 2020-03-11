@@ -1,0 +1,106 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:24:05Z",
+    "biotoolsCURIE": "biotools:ANPELA",
+    "biotoolsID": "ANPELA",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "tangj@cqu.edu.cn",
+            "name": "Jing Tang",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "fujianbo@zju.edu.cn",
+            "name": "Jianbo Fu",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "lfwyx@zju.edu.cn",
+            "name": "Yunxia Wang",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "zhufeng@zju.edu.cn",
+            "name": "Feng Zhu",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Analysis and Performance Assessment of Label-free Proteome Quantification.",
+    "documentation": [
+        {
+            "note": "Tutorial material",
+            "type": "Training material",
+            "url": "http://idrblab.cn/anpela/"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Label-free quantification",
+                    "uri": "http://edamontology.org/operation_3634"
+                },
+                {
+                    "term": "iTRAQ",
+                    "uri": "http://edamontology.org/operation_3639"
+                },
+                {
+                    "term": "SILAC",
+                    "uri": "http://edamontology.org/operation_3638"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://idrblab.cn/anpela/",
+    "lastUpdate": "2019-10-31T11:43:33Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "ANPELA",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/bib/bby127",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Proteomics",
+            "uri": "http://edamontology.org/topic_0121"
+        },
+        {
+            "term": "Metabolomics",
+            "uri": "http://edamontology.org/topic_3172"
+        },
+        {
+            "term": "Metagenomics",
+            "uri": "http://edamontology.org/topic_3174"
+        }
+    ]
+}

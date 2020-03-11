@@ -1,0 +1,80 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:11:16Z",
+    "biotoolsCURIE": "biotools:PyBSASeq",
+    "biotoolsID": "PyBSASeq",
+    "cost": "Free of charge",
+    "description": "Algorithm for BSA-Seq data analysis.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/dblhlx/PyBSASeq/blob/master/README.md"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Genome indexing",
+                    "uri": "http://edamontology.org/operation_3211"
+                },
+                {
+                    "term": "SNP detection",
+                    "uri": "http://edamontology.org/operation_0484"
+                },
+                {
+                    "term": "Gene expression QTL analysis",
+                    "uri": "http://edamontology.org/operation_3232"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/dblhlx/PyBSASeq",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T12:12:22Z",
+    "license": "Unlicense",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/dblhlx/PyBSASeq/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "PyBSASeq",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1101/654137",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Command-line tool"
+    ],
+    "topic": [
+        {
+            "term": "DNA polymorphism",
+            "uri": "http://edamontology.org/topic_2885"
+        },
+        {
+            "term": "Sequencing",
+            "uri": "http://edamontology.org/topic_3168"
+        },
+        {
+            "term": "Mapping",
+            "uri": "http://edamontology.org/topic_0102"
+        }
+    ]
+}

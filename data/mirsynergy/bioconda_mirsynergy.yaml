@@ -1,0 +1,12 @@
+biotools_id: mirsynergy
+description: Detect synergistic miRNA regulatory modules by overlapping neighbourhood
+  expansion.
+home: https://bioconductor.org/packages/3.10/bioc/html/Mirsynergy.html
+identifiers:
+- biotools:mirsynergy
+- doi:10.1093/bioinformatics/btu373
+license: GPL-2
+license_file: /lib/R/share/licenses/GPL-2
+name: bioconductor-mirsynergy
+summary: Mirsynergy
+version: 1.22.0

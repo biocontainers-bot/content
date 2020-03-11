@@ -1,0 +1,45 @@
+name: import Neubias biii.eu content
+
+on:
+  push:
+  #schedule:
+  #  - cron: '40 10 * * * '
+
+jobs:
+
+  build-biii-raw-bioschemas:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        ref: ${{ github.head_ref }}
+    - uses: geertvdc/setup-hub@master
+    - name: Setup Python
+      uses: actions/setup-python@v1
+      with:
+        python-version: "3.7"
+    - name: Install dependencies
+      run:
+        pip install -r scripts/neubias/requirements.txt
+    - name: dump Neubias biii.eu data as bioschemas and raw files
+      run: |
+        cd scripts/neubias
+        python biseEU_LD_export.py -td http://test.biii.eu -dump
+    - name: commit new data and push to new PR
+      env:
+        GITHUB_USER: ${{ secrets.GITHUB_USER }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git config --local user.email "tpe-bot@github.com"
+        git config --local user.name "Tools Platform Ecosystem bot"
+        cd data
+        git add .
+        if git commit -m "import from neubias biii.eu on $(date)"; then
+          git checkout -b biii_import_${{ github.run_id }}
+          hub pull-request -m "import from biii.eu on $(date)"
+          echo "successfully created new data"
+        else
+            echo "nothing new to add, exiting"
+        fi

@@ -1,0 +1,102 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:06:22Z",
+    "biotoolsCURIE": "biotools:ImmuneRegulation",
+    "biotoolsID": "ImmuneRegulation",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "zeynep.gumus@mssm.edu",
+            "name": "Zeynep H G\u00fcm\u00fc\u015f",
+            "orcidid": "https://orcid.org/0000-0002-7364-2202",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Web-based tool for identifying human immune regulatory elements.",
+    "documentation": [
+        {
+            "type": "FAQ",
+            "url": "https://immuneregulation.mssm.edu/faq.html"
+        },
+        {
+            "note": "Tutorial material",
+            "type": "Training material",
+            "url": "https://immuneregulation.mssm.edu/tutorials.html"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Genotyping",
+                    "uri": "http://edamontology.org/operation_3196"
+                },
+                {
+                    "term": "Gene expression QTL analysis",
+                    "uri": "http://edamontology.org/operation_3232"
+                },
+                {
+                    "term": "cis-regulatory element prediction",
+                    "uri": "http://edamontology.org/operation_0441"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://immuneregulation.mssm.edu",
+    "language": [
+        "JavaScript"
+    ],
+    "lastUpdate": "2019-10-31T12:00:25Z",
+    "license": "Unlicense",
+    "link": [
+        {
+            "type": "Repository",
+            "url": "https://github.com/gumuslab-mssm/immuneRegulation"
+        },
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/gumuslab-mssm/immuneRegulation/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "ImmuneRegulation",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/NAR/GKZ450",
+            "pmcid": "PMC6602512",
+            "pmid": "31114925",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Transcription factors and regulatory sites",
+            "uri": "http://edamontology.org/topic_0749"
+        },
+        {
+            "term": "GWAS study",
+            "uri": "http://edamontology.org/topic_3517"
+        },
+        {
+            "term": "Genotype and phenotype",
+            "uri": "http://edamontology.org/topic_0625"
+        }
+    ]
+}

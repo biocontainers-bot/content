@@ -1,0 +1,95 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:25:27Z",
+    "biotoolsCURIE": "biotools:protein_solubility",
+    "biotoolsID": "protein_solubility",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "chewxia@nus.edu.sg",
+            "name": "Xiaonan Wang",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "kang.zhou@nus.edu.sg",
+            "name": "Kang Zhou",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Machine learning based regression predictive models for engineering protein solubility.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/xiaomizhou616/protein_solubility/blob/master/README.md"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Side chain modelling",
+                    "uri": "http://edamontology.org/operation_0480"
+                },
+                {
+                    "term": "Protein solubility prediction",
+                    "uri": "http://edamontology.org/operation_0409"
+                },
+                {
+                    "term": "Protein secondary structure prediction",
+                    "uri": "http://edamontology.org/operation_0267"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/xiaomizhou616/protein_solubility",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T12:11:24Z",
+    "license": "Unlicense",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/xiaomizhou616/protein_solubility/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "protein solubility",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/BIOINFORMATICS/BTZ294",
+            "pmid": "31038685",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Workflow"
+    ],
+    "topic": [
+        {
+            "term": "Machine learning",
+            "uri": "http://edamontology.org/topic_3474"
+        },
+        {
+            "term": "Transcription factors and regulatory sites",
+            "uri": "http://edamontology.org/topic_0749"
+        }
+    ]
+}

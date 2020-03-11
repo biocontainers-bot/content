@@ -1,0 +1,99 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:04:51Z",
+    "biotoolsCURIE": "biotools:mCSM-PPI2",
+    "biotoolsID": "mCSM-PPI2",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "douglas.pires@unimelb.edu.au",
+            "name": "Douglas E. V. Pires",
+            "orcidid": "https://orcid.org/0000-0002-3004-2119",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "david.ascher@unimelb.edu.au",
+            "name": "David B. Ascher",
+            "orcidid": "https://orcid.org/0000-0003-2948-2413",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Machine learning computational tool designed to more accurately predict the effects of missense mutations on protein\u00e2\u20ac\u201cprotein interaction binding affinity.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "http://biosig.unimelb.edu.au/mcsm_ppi2/help"
+        }
+    ],
+    "download": [
+        {
+            "type": "Biological data",
+            "url": "http://biosig.unimelb.edu.au/mcsm_ppi2/datasets"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Variant effect prediction",
+                    "uri": "http://edamontology.org/operation_0331"
+                },
+                {
+                    "term": "Enrichment analysis",
+                    "uri": "http://edamontology.org/operation_3501"
+                },
+                {
+                    "term": "Protein interaction prediction",
+                    "uri": "http://edamontology.org/operation_2492"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://biosig.unimelb.edu.au/mcsm_ppi2/",
+    "lastUpdate": "2019-10-31T12:03:27Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "mCSM-PPI2",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/NAR/GKZ383",
+            "pmcid": "PMC6602427",
+            "pmid": "31114883",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Protein interactions",
+            "uri": "http://edamontology.org/topic_0128"
+        },
+        {
+            "term": "Genetic variation",
+            "uri": "http://edamontology.org/topic_0199"
+        },
+        {
+            "term": "Machine learning",
+            "uri": "http://edamontology.org/topic_3474"
+        }
+    ]
+}

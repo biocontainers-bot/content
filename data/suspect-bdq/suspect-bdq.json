@@ -1,0 +1,87 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:13:10Z",
+    "biotoolsCURIE": "biotools:SUSPECT-BDQ",
+    "biotoolsID": "SUSPECT-BDQ",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "david.ascher@unimelb.edu.au",
+            "name": "David B. Ascher",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "mcsm.ppi2@gmail.com",
+            "typeEntity": "Project"
+        }
+    ],
+    "description": "StrUctural Susceptibility PrEdiCTion on BDQ.",
+    "documentation": [
+        {
+            "type": "User manual",
+            "url": "http://biosig.unimelb.edu.au/suspect_bdq/help"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Variant effect prediction",
+                    "uri": "http://edamontology.org/operation_0331"
+                },
+                {
+                    "term": "Polymorphism detection",
+                    "uri": "http://edamontology.org/operation_3202"
+                },
+                {
+                    "term": "Molecular docking",
+                    "uri": "http://edamontology.org/operation_0478"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://biosig.unimelb.edu.au/suspect_bdq/",
+    "lastUpdate": "2019-10-31T12:19:06Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "SUSPECT-BDQ",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1371/JOURNAL.PONE.0217169",
+            "pmcid": "PMC6541270",
+            "pmid": "31141524",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Small molecules",
+            "uri": "http://edamontology.org/topic_0154"
+        },
+        {
+            "term": "Genetic variation",
+            "uri": "http://edamontology.org/topic_0199"
+        },
+        {
+            "term": "Machine learning",
+            "uri": "http://edamontology.org/topic_3474"
+        }
+    ]
+}

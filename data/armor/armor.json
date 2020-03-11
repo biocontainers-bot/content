@@ -1,0 +1,109 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:09:39Z",
+    "biotoolsCURIE": "biotools:ARMOR",
+    "biotoolsID": "ARMOR",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "mark.robinson@imls.uzh.ch",
+            "name": "Mark D. Robinson",
+            "orcidid": "https://orcid.org/0000-0002-3048-5518",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "charlotte.soneson@fmi.ch",
+            "name": "Charlotte Soneson",
+            "orcidid": "https://orcid.org/0000-0003-3833-2169",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "ARMOR (Automated Reproducible MOdular RNA-seq)  Workflow for Preprocessing and Differential Analysis of RNA-seq Data.",
+    "documentation": [
+        {
+            "type": "User manual",
+            "url": "https://github.com/csoneson/ARMOR/wiki"
+        }
+    ],
+    "download": [
+        {
+            "type": "Source code",
+            "url": "https://github.com/csoneson/ARMOR/releases"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Sequence trimming",
+                    "uri": "http://edamontology.org/operation_3192"
+                },
+                {
+                    "term": "RNA-Seq quantification",
+                    "uri": "http://edamontology.org/operation_3800"
+                },
+                {
+                    "term": "Validation",
+                    "uri": "http://edamontology.org/operation_2428"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/csoneson/ARMOR",
+    "language": [
+        "R",
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T11:44:04Z",
+    "license": "MIT",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/csoneson/ARMOR/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "ARMOR",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1534/G3.119.400185",
+            "pmcid": "PMC6643886",
+            "pmid": "31088905",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Command-line tool"
+    ],
+    "topic": [
+        {
+            "term": "RNA-Seq",
+            "uri": "http://edamontology.org/topic_3170"
+        },
+        {
+            "term": "Workflows",
+            "uri": "http://edamontology.org/topic_0769"
+        },
+        {
+            "term": "Environmental science",
+            "uri": "http://edamontology.org/topic_3855"
+        }
+    ]
+}

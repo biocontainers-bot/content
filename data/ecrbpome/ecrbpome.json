@@ -1,0 +1,86 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:14:48Z",
+    "biotoolsCURIE": "biotools:EcRBPome",
+    "biotoolsID": "EcRBPome",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "mini@ncbs.res.in",
+            "name": "R. Sowdhamini",
+            "orcidid": "https://orcid.org/0000-0002-6642-2367",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Comprehensive database of Escherichia coli RNA-binding proteins (RBPs). This database documents RBPs identified by genome-wide survey of all known complete E. coli proteomes. EcRBPome also presents a cross-strain comparative account of these RBPs, as well as the constituent RNA-binding domains (RBDs).",
+    "documentation": [
+        {
+            "note": "Tutorial material",
+            "type": "Training material",
+            "url": "http://caps.ncbs.res.in/cgi-bin/ecrbpome/help.pl"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Deposition",
+                    "uri": "http://edamontology.org/operation_3431"
+                },
+                {
+                    "term": "Enrichment analysis",
+                    "uri": "http://edamontology.org/operation_3501"
+                },
+                {
+                    "term": "RNA-binding protein prediction",
+                    "uri": "http://edamontology.org/operation_3901"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://caps.ncbs.res.in/ecrbpome",
+    "lastUpdate": "2019-10-31T11:54:00Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "EcRBPome",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1186/S12864-019-5755-5",
+            "pmcid": "PMC6530084",
+            "pmid": "31117939",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application",
+        "Database portal"
+    ],
+    "topic": [
+        {
+            "term": "Proteomics",
+            "uri": "http://edamontology.org/topic_0121"
+        },
+        {
+            "term": "Sample collections",
+            "uri": "http://edamontology.org/topic_3277"
+        },
+        {
+            "term": "Molecular modelling",
+            "uri": "http://edamontology.org/topic_2275"
+        }
+    ]
+}

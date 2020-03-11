@@ -1,0 +1,102 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:05:10Z",
+    "biotoolsCURIE": "biotools:BSA4Yeast",
+    "biotoolsID": "BSA4Yeast",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "enrico.glaab@uni.lu",
+            "name": "Enrico Glaab",
+            "orcidid": "https://orcid.org/0000-0003-3977-7469",
+            "typeEntity": "Person"
+        },
+        {
+            "email": "zhi.zhang@uni.lu",
+            "name": "Zhi Zhang",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Web-based quantitative trait locus linkage analysis and bulk segregant analysis of yeast sequencing data.",
+    "documentation": [
+        {
+            "type": "User manual",
+            "url": "https://bsa4yeast.lcsb.uni.lu/21905f01-6ac0-48f4-9598-d9c1d7cfa9fe/Use"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Parsing",
+                    "uri": "http://edamontology.org/operation_1812"
+                },
+                {
+                    "term": "Genetic mapping",
+                    "uri": "http://edamontology.org/operation_0282"
+                },
+                {
+                    "term": "Gene expression QTL analysis",
+                    "uri": "http://edamontology.org/operation_3232"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://bsa4yeast.lcsb.uni.lu",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T11:45:41Z",
+    "license": "GPL-3.0",
+    "link": [
+        {
+            "type": "Repository",
+            "url": "https://git-r3lab.uni.lu/zhi.zhang/bsa4yeast"
+        },
+        {
+            "type": "Issue tracker",
+            "url": "https://git-r3lab.uni.lu/zhi.zhang/bsa4yeast/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "BSA4Yeast",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/GIGASCIENCE/GIZ060",
+            "pmcid": "PMC6571488",
+            "pmid": "31141611",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Mapping",
+            "uri": "http://edamontology.org/topic_0102"
+        },
+        {
+            "term": "Genotype and phenotype",
+            "uri": "http://edamontology.org/topic_0625"
+        },
+        {
+            "term": "Sequencing",
+            "uri": "http://edamontology.org/topic_3168"
+        }
+    ]
+}

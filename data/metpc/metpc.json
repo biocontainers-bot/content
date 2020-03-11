@@ -1,0 +1,86 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:18:01Z",
+    "biotoolsCURIE": "biotools:MetPC",
+    "biotoolsID": "MetPC",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "jjs3098@cnu.ac.kr",
+            "name": "Jaesik Jeong",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Metabolite Pipeline Consisting of Metabolite Identification and Biomarker Discovery Under the Control of Two-Dimensional FDR.",
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Essential dynamics",
+                    "uri": "http://edamontology.org/operation_3891"
+                },
+                {
+                    "term": "Natural product identification",
+                    "uri": "http://edamontology.org/operation_3803"
+                },
+                {
+                    "term": "Regression analysis",
+                    "uri": "http://edamontology.org/operation_3659"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/jjs3098/CNU-Bioinformatics-Lab",
+    "language": [
+        "R"
+    ],
+    "lastUpdate": "2019-10-31T12:04:05Z",
+    "license": "Unlicense",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/jjs3098/CNU-Bioinformatics-Lab/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "MetPC",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.3390/METABO9050103",
+            "pmcid": "PMC6572057",
+            "pmid": "31130635",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Script"
+    ],
+    "topic": [
+        {
+            "term": "Metabolomics",
+            "uri": "http://edamontology.org/topic_3172"
+        },
+        {
+            "term": "Biomarkers",
+            "uri": "http://edamontology.org/topic_3360"
+        },
+        {
+            "term": "Small molecules",
+            "uri": "http://edamontology.org/topic_0154"
+        }
+    ]
+}

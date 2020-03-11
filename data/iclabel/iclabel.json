@@ -1,0 +1,93 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:09:19Z",
+    "biotoolsCURIE": "biotools:ICLabel",
+    "biotoolsID": "ICLabel",
+    "cost": "Free of charge (with restrictions)",
+    "credit": [
+        {
+            "email": "lpionton@ucsd.edu",
+            "name": "Luca Pion-Tonachini",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Automated electroencephalographic independent component classifier, dataset, and website.",
+    "documentation": [
+        {
+            "note": "Tutorial material",
+            "type": "Training material",
+            "url": "http://iclabel.ucsd.edu/tutorial"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Deisotoping",
+                    "uri": "http://edamontology.org/operation_3629"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://iclabel.ucsd.edu/",
+    "language": [
+        "MATLAB"
+    ],
+    "lastUpdate": "2019-10-31T11:59:50Z",
+    "license": "Unlicense",
+    "link": [
+        {
+            "type": "Repository",
+            "url": "https://github.com/sccn/ICLabel"
+        },
+        {
+            "type": "Repository",
+            "url": "http://github.com/lucapton/ICLabel-Dataset"
+        },
+        {
+            "type": "Repository",
+            "url": "http://github.com/lucapton/ICLabel-Train"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "ICLabel",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1016/J.NEUROIMAGE.2019.05.026",
+            "pmcid": "PMC6592775",
+            "pmid": "31103785",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Neurobiology",
+            "uri": "http://edamontology.org/topic_3304"
+        },
+        {
+            "term": "Transcription factors and regulatory sites",
+            "uri": "http://edamontology.org/topic_0749"
+        },
+        {
+            "term": "Machine learning",
+            "uri": "http://edamontology.org/topic_3474"
+        }
+    ]
+}

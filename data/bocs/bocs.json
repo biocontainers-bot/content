@@ -1,0 +1,82 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:10:16Z",
+    "biotoolsCURIE": "biotools:BOCS",
+    "biotoolsID": "BOCS",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "lee.korshoj@colorado.edu",
+            "name": "Lee Korshoj",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Simulation that applies bioinformatics algorithm \u2013 block optical content scoring (BOCS) \u2013 which uses DNA k-mer content for rapid, broad-spectrum identification of genetic biomarkers.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/lkorshoj/Block-Optical-Content-Scoring/blob/master/README.md"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Antimicrobial resistance prediction",
+                    "uri": "http://edamontology.org/operation_3482"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/lkorshoj/Block-Optical-Content-Scoring",
+    "language": [
+        "MATLAB"
+    ],
+    "lastUpdate": "2019-10-31T11:45:21Z",
+    "license": "Unlicense",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/lkorshoj/Block-Optical-Content-Scoring/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "BOCS",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1101/631333",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Script"
+    ],
+    "topic": [
+        {
+            "term": "Biomarkers",
+            "uri": "http://edamontology.org/topic_3360"
+        },
+        {
+            "term": "Oncology",
+            "uri": "http://edamontology.org/topic_2640"
+        },
+        {
+            "term": "Genetic variation",
+            "uri": "http://edamontology.org/topic_0199"
+        }
+    ]
+}

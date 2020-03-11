@@ -1,0 +1,104 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-11T16:02:13Z",
+    "biotoolsCURIE": "biotools:FLEA",
+    "biotoolsID": "FLEA",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "url": "http://lab.hyphy.org/"
+        }
+    ],
+    "description": "Full-Length Envelope Analyzer (FLEA) - tool for longitudinal analysis of viral amplicons.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/veg/flea-pipeline/blob/master/README.md"
+        }
+    ],
+    "download": [
+        {
+            "note": "flea-pipeline",
+            "type": "Source code",
+            "url": "https://github.com/veg/flea-pipeline/releases"
+        },
+        {
+            "note": "flea-web-app",
+            "type": "Source code",
+            "url": "https://github.com/veg/flea-web-app/releases"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Sequence trimming",
+                    "uri": "http://edamontology.org/operation_3192"
+                },
+                {
+                    "term": "Sequencing quality control",
+                    "uri": "http://edamontology.org/operation_3218"
+                },
+                {
+                    "term": "Ancestral reconstruction",
+                    "uri": "http://edamontology.org/operation_3745"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/veg/flea-pipeline",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-08-11T16:16:17Z",
+    "license": "Unlicense",
+    "link": [
+        {
+            "note": "client-side application",
+            "type": "Repository",
+            "url": "https://github.com/veg/flea-web-app"
+        },
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/veg/flea-pipeline/issues"
+        }
+    ],
+    "maturity": "Emerging",
+    "name": "FLEA",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "Ruta",
+    "publication": [
+        {
+            "doi": "10.1371/journal.pcbi.1006498",
+            "pmcid": "PMC6314628",
+            "pmid": "30543621",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Command-line tool"
+    ],
+    "topic": [
+        {
+            "term": "Phylogenetics",
+            "uri": "http://edamontology.org/topic_3293"
+        },
+        {
+            "term": "Sequencing",
+            "uri": "http://edamontology.org/topic_3168"
+        },
+        {
+            "term": "Virology",
+            "uri": "http://edamontology.org/topic_0781"
+        }
+    ]
+}

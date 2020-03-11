@@ -1,0 +1,11 @@
+biotools_id: shinymethyl
+description: Interactive tool for visualizing Illumina methylation array data. Both
+  the 450k and EPIC array are supported.
+home: https://bioconductor.org/packages/3.10/bioc/html/shinyMethyl.html
+identifiers:
+- biotools:shinymethyl
+- doi:10.12688/f1000research.4680.2
+license: Artistic-2.0
+name: bioconductor-shinymethyl
+summary: Interactive visualization for Illumina methylation arrays
+version: 1.22.0

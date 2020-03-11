@@ -1,0 +1,90 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:13:55Z",
+    "biotoolsCURIE": "biotools:Yvis",
+    "biotoolsID": "Yvis",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "milenebc@ufsj.edu.br",
+            "name": "Milene B Carvalho",
+            "orcidid": "https://orcid.org/0000-0001-7776-8446",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "liza@icb.ufmg.br",
+            "name": "Liza F Felicori",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Antibody high-density alignment visualization and analysis platform with an integrated database.",
+    "documentation": [
+        {
+            "note": "Tutorial material",
+            "type": "Training material",
+            "url": "http://bioinfo.icb.ufmg.br/yvis/#help"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Deposition",
+                    "uri": "http://edamontology.org/operation_3431"
+                },
+                {
+                    "term": "Filtering",
+                    "uri": "http://edamontology.org/operation_3695"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://bioinfo.icb.ufmg.br/yvis/",
+    "lastUpdate": "2019-10-31T12:23:06Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "Yvis",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/NAR/GKZ387",
+            "pmcid": "PMC6602444",
+            "pmid": "31106372",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application",
+        "Database portal"
+    ],
+    "topic": [
+        {
+            "term": "Immunoproteins, genes and antigens",
+            "uri": "http://edamontology.org/topic_2830"
+        },
+        {
+            "term": "Small molecules",
+            "uri": "http://edamontology.org/topic_0154"
+        },
+        {
+            "term": "Carbohydrates",
+            "uri": "http://edamontology.org/topic_0152"
+        }
+    ]
+}

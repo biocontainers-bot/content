@@ -1,0 +1,96 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:09:07Z",
+    "biotoolsCURIE": "biotools:HOME",
+    "biotoolsID": "HOME",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "ryan.lister@uwa.edu.au",
+            "name": "Ryan Lister",
+            "orcidid": "https://orcid.org/0000-0001-6637-7239",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "HOME (histogram of methylation) is a python package for differential methylation region (DMR) identification.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/ListerLab/HOME/blob/master/README.md"
+        }
+    ],
+    "download": [
+        {
+            "type": "Source code",
+            "url": "https://github.com/ListerLab/HOME/releases"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Whole genome methylation analysis",
+                    "uri": "http://edamontology.org/operation_3206"
+                },
+                {
+                    "term": "Gene methylation analysis",
+                    "uri": "http://edamontology.org/operation_3207"
+                },
+                {
+                    "term": "Bisulfite mapping",
+                    "uri": "http://edamontology.org/operation_3186"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/ListerLab/HOME",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T11:59:20Z",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/ListerLab/HOME/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "HOME",
+    "operatingSystem": [
+        "Linux"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1186/S12859-019-2845-Y",
+            "pmcid": "PMC6521357",
+            "pmid": "31096906",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Command-line tool"
+    ],
+    "topic": [
+        {
+            "term": "Methylated DNA immunoprecipitation",
+            "uri": "http://edamontology.org/topic_3674"
+        },
+        {
+            "term": "Epigenetics",
+            "uri": "http://edamontology.org/topic_3295"
+        },
+        {
+            "term": "DNA",
+            "uri": "http://edamontology.org/topic_0654"
+        }
+    ]
+}

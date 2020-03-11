@@ -1,0 +1,64 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:10:57Z",
+    "biotoolsCURIE": "biotools:SELVa",
+    "biotoolsID": "SELVa",
+    "cost": "Free of charge",
+    "description": "SELVa (Simulator of Evolution with Landscape Variation) - simulator of sequence evolution that allows the fitness landscape to vary according to user-specified rules.",
+    "documentation": [
+        {
+            "type": "User manual",
+            "url": "https://github.com/bazykinlab/SELVa/blob/master/SELVa_manual.pdf"
+        }
+    ],
+    "download": [
+        {
+            "type": "Source code",
+            "url": "https://github.com/bazykinlab/SELVa/releases"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "homepage": "https://github.com/bazykinlab/SELVa",
+    "language": [
+        "Java"
+    ],
+    "lastUpdate": "2019-10-31T12:15:44Z",
+    "license": "MIT",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/bazykinlab/SELVa/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "SELVa",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1101/647834",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Command-line tool"
+    ],
+    "topic": [
+        {
+            "term": "Phylogeny",
+            "uri": "http://edamontology.org/topic_0084"
+        },
+        {
+            "term": "Genetic variation",
+            "uri": "http://edamontology.org/topic_0199"
+        }
+    ]
+}

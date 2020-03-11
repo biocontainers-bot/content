@@ -1,0 +1,9 @@
+biotools_id: biodist
+description: A collection of software tools for calculating distance measures.
+home: https://bioconductor.org/packages/3.10/bioc/html/bioDist.html
+identifiers:
+- biotools:biodist
+license: Artistic-2.0
+name: bioconductor-biodist
+summary: Different distance measures
+version: 1.58.0

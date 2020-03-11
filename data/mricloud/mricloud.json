@@ -1,0 +1,82 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:26:28Z",
+    "biotoolsCURIE": "biotools:MRICloud",
+    "biotoolsID": "MRICloud",
+    "cost": "Free of charge (with restrictions)",
+    "credit": [
+        {
+            "email": "koishi@mri.jhu.edu",
+            "name": "Kumiko Oishi",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "name": "Kenichi Oishi",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Multi\u2010Atlas Label Fusion Tool for Neonatal Brain MRI Parcellation and Quantification.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://mricloud.org/docs/tutorials/login_mricloud/login_mricloud.html"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Quantification",
+                    "uri": "http://edamontology.org/operation_3799"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://braingps.mricloud.org",
+    "lastUpdate": "2019-10-31T11:45:26Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "MRICloud",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1111/JON.12623",
+            "pmcid": "PMC6609486",
+            "pmid": "31037800",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "MRI",
+            "uri": "http://edamontology.org/topic_3444"
+        },
+        {
+            "term": "Neurobiology",
+            "uri": "http://edamontology.org/topic_3304"
+        },
+        {
+            "term": "Medical imaging",
+            "uri": "http://edamontology.org/topic_3384"
+        }
+    ]
+}

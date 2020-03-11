@@ -1,0 +1,76 @@
+{
+    "accessibility": [
+        "Restricted access"
+    ],
+    "additionDate": "2019-08-09T13:14:44Z",
+    "biotoolsCURIE": "biotools:Spaced_Radiology",
+    "biotoolsID": "Spaced_Radiology",
+    "cost": "Free of charge (with restrictions)",
+    "credit": [
+        {
+            "email": "cara.morin@stjude.org",
+            "name": "Cara E. Morin",
+            "orcidid": "https://orcid.org/0000-0003-1953-4486",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "mishaherscu@gmail.com",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Encouraging durable memory using spaced testing in pediatric radiology.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "http://www.spacedradiology.com/#/about"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "homepage": "http://www.spacedradiology.com/",
+    "language": [
+        "JavaScript",
+        "Ruby"
+    ],
+    "lastUpdate": "2019-10-31T12:17:28Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "Spaced Radiology",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1007/S00247-019-04415-3",
+            "pmcid": "PMC6598954",
+            "pmid": "31093725",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Medical imaging",
+            "uri": "http://edamontology.org/topic_3384"
+        },
+        {
+            "term": "MRI",
+            "uri": "http://edamontology.org/topic_3444"
+        },
+        {
+            "term": "Transcription factors and regulatory sites",
+            "uri": "http://edamontology.org/topic_0749"
+        }
+    ]
+}

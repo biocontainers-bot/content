@@ -1,0 +1,95 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:04:35Z",
+    "biotoolsCURIE": "biotools:PiPred",
+    "biotoolsID": "PiPred",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "s.dunin-horkawicz@cent.uw.edu.pl",
+            "name": "Stanislaw Dunin-Horkawicz",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Deep-learning method for prediction of \u00cf\u20ac-helices in protein sequences.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/labstructbioinf/PiPred/blob/master/README.md"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Protein secondary structure prediction (helices)",
+                    "uri": "http://edamontology.org/operation_0468"
+                },
+                {
+                    "term": "Protein secondary structure prediction (turns)",
+                    "uri": "http://edamontology.org/operation_0469"
+                },
+                {
+                    "term": "Protein secondary structure prediction (coils)",
+                    "uri": "http://edamontology.org/operation_0470"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/labstructbioinf/PiPred",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T12:09:47Z",
+    "license": "Unlicense",
+    "link": [
+        {
+            "type": "Other",
+            "url": "https://lbs.cent.uw.edu.pl/pipred"
+        },
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/labstructbioinf/PiPred/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "PiPred",
+    "operatingSystem": [
+        "Linux",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1038/S41598-019-43189-4",
+            "pmcid": "PMC6499831",
+            "pmid": "31053765",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Command-line tool"
+    ],
+    "topic": [
+        {
+            "term": "Protein secondary structure",
+            "uri": "http://edamontology.org/topic_3542"
+        },
+        {
+            "term": "Protein folds and structural domains",
+            "uri": "http://edamontology.org/topic_0736"
+        },
+        {
+            "term": "Protein interactions",
+            "uri": "http://edamontology.org/topic_0128"
+        }
+    ]
+}

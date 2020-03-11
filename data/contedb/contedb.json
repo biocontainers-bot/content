@@ -1,0 +1,100 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-11T12:41:43Z",
+    "biotoolsCURIE": "biotools:ConTEdb",
+    "biotoolsID": "ConTEdb",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "wangjh808@sina.com",
+            "name": "Junhui Wang",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "fangqun163@163.com",
+            "name": "Fangqun Ouyang",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "43853645@qq.com",
+            "name": "Fei Yi",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Comprehensive database of transposable elements in conifers.",
+    "documentation": [
+        {
+            "type": "FAQ",
+            "url": "http://genedenovoweb.ticp.net:81/conTEdb/help.php"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Deposition",
+                    "uri": "http://edamontology.org/operation_3431"
+                },
+                {
+                    "term": "De-novo assembly",
+                    "uri": "http://edamontology.org/operation_0524"
+                },
+                {
+                    "term": "Scaffolding",
+                    "uri": "http://edamontology.org/operation_3216"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://genedenovoweb.ticp.net:81/conTEdb/index.php",
+    "lastUpdate": "2019-08-11T12:41:43Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "ConTEdb",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "Ruta",
+    "publication": [
+        {
+            "doi": "10.1093/database/bay131",
+            "pmcid": "PMC6301336",
+            "pmid": "30576494",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application",
+        "Database portal"
+    ],
+    "topic": [
+        {
+            "term": "Ecology",
+            "uri": "http://edamontology.org/topic_0610"
+        },
+        {
+            "term": "Plant biology",
+            "uri": "http://edamontology.org/topic_0780"
+        },
+        {
+            "term": "Mobile genetic elements",
+            "uri": "http://edamontology.org/topic_0798"
+        }
+    ]
+}

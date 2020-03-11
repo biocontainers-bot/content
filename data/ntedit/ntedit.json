@@ -1,0 +1,89 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:06:38Z",
+    "biotoolsCURIE": "biotools:ntEdit",
+    "biotoolsID": "ntEdit",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "rwarren@bcgsc.ca",
+            "name": "Ren\u00c3\u00a9 L. Warren",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Scalable genomics application for polishing genome assembly drafts. It simplifies polishing and \"haploidization\" of gene and genome sequences with its re-usable Bloom filter design.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/bcgsc/ntEdit/blob/master/README.md"
+        }
+    ],
+    "download": [
+        {
+            "type": "Source code",
+            "url": "https://github.com/bcgsc/ntEdit/releases"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Genome assembly",
+                    "uri": "http://edamontology.org/operation_0525"
+                },
+                {
+                    "term": "Editing",
+                    "uri": "http://edamontology.org/operation_3096"
+                },
+                {
+                    "term": "Scaffolding",
+                    "uri": "http://edamontology.org/operation_3216"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/bcgsc/ntedit",
+    "language": [
+        "C++",
+        "C"
+    ],
+    "lastUpdate": "2019-10-31T12:07:25Z",
+    "license": "GPL-3.0",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/bcgsc/ntedit/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "ntEdit",
+    "operatingSystem": [
+        "Linux",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/BIOINFORMATICS/BTZ400",
+            "pmid": "31095290",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Command-line tool"
+    ],
+    "topic": [
+        {
+            "term": "Sequence assembly",
+            "uri": "http://edamontology.org/topic_0196"
+        }
+    ]
+}

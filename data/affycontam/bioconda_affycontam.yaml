@@ -1,0 +1,9 @@
+biotools_id: affycontam
+description: structured corruption of cel file data to demonstrate QA effectiveness
+home: https://bioconductor.org/packages/3.10/bioc/html/affyContam.html
+identifiers:
+- biotools:affycontam
+license: Artistic-2.0
+name: bioconductor-affycontam
+summary: structured corruption of affymetrix cel file data
+version: 1.44.0

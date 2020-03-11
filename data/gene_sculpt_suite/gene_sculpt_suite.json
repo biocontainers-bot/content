@@ -1,0 +1,101 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:10:53Z",
+    "biotoolsCURIE": "biotools:Gene_Sculpt_Suite",
+    "biotoolsID": "Gene_Sculpt_Suite",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "cmmann@iastate.edu",
+            "name": "Carla M. Mann",
+            "orcidid": "https://orcid.org/0000-0001-5930-4111",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "jessner@iastate.edu",
+            "name": "Jeffrey J. Essner",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "Ekker.Stephen@mayo.edu",
+            "name": "Stephen C. Ekker",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "url": "http://www.genesculpt.org/bugreports.html"
+        }
+    ],
+    "description": "Set of tools for assisting in highly precise genome editing and engineering.",
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Editing",
+                    "uri": "http://edamontology.org/operation_3096"
+                },
+                {
+                    "term": "Read mapping",
+                    "uri": "http://edamontology.org/operation_3198"
+                },
+                {
+                    "term": "Nucleic acids-binding site prediction",
+                    "uri": "http://edamontology.org/operation_0420"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://www.genesculpt.org",
+    "language": [
+        "JavaScript"
+    ],
+    "lastUpdate": "2019-10-31T11:56:47Z",
+    "license": "GPL-3.0",
+    "maturity": "Mature",
+    "name": "Gene Sculpt Suite",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/NAR/GKZ405",
+            "pmcid": "PMC6602503",
+            "pmid": "31127311",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application",
+        "Suite"
+    ],
+    "topic": [
+        {
+            "term": "Genetic engineering",
+            "uri": "http://edamontology.org/topic_3912"
+        },
+        {
+            "term": "Machine learning",
+            "uri": "http://edamontology.org/topic_3474"
+        },
+        {
+            "term": "Gene transcripts",
+            "uri": "http://edamontology.org/topic_3512"
+        }
+    ]
+}

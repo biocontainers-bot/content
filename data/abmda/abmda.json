@@ -1,0 +1,83 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:13:36Z",
+    "biotoolsCURIE": "biotools:ABMDA",
+    "biotoolsID": "ABMDA",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "xingchen@amss.ac.cn",
+            "name": "Xing Chen",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Adaptive boosting-based computational model for predicting potential miRNA-disease associations.",
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Essential dynamics",
+                    "uri": "http://edamontology.org/operation_3891"
+                },
+                {
+                    "term": "miRNA target prediction",
+                    "uri": "http://edamontology.org/operation_0463"
+                },
+                {
+                    "term": "miRNA expression analysis",
+                    "uri": "http://edamontology.org/operation_3792"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/githubcode007/ABMDA",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T11:41:39Z",
+    "license": "Unlicense",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/githubcode007/ABMDA/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "ABMDA",
+    "operatingSystem": [
+        "Windows"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/BIOINFORMATICS/BTZ297",
+            "pmid": "31038664",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Script"
+    ],
+    "topic": [
+        {
+            "term": "Functional, regulatory and non-coding RNA",
+            "uri": "http://edamontology.org/topic_0659"
+        },
+        {
+            "term": "Oncology",
+            "uri": "http://edamontology.org/topic_2640"
+        },
+        {
+            "term": "Pathology",
+            "uri": "http://edamontology.org/topic_0634"
+        }
+    ]
+}

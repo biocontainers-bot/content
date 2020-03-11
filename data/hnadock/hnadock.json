@@ -1,0 +1,99 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:06:26Z",
+    "biotoolsCURIE": "biotools:HNADOCK",
+    "biotoolsID": "HNADOCK",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "yxiao@hust.edu.cn",
+            "name": "Yi Xiao",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "huangsy@hust.edu.cn",
+            "name": "Sheng-You Huang",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "huanglab@hust.edu.cn",
+            "name": "Lab of Bioinformatics and Molecular Modeling",
+            "typeEntity": "Division",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Nucleic acid docking server for modeling RNA/DNA-RNA/DNA 3D complex structures.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "http://huanglab.phys.hust.edu.cn/hnadock/help.php"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "RNA secondary structure prediction",
+                    "uri": "http://edamontology.org/operation_0278"
+                },
+                {
+                    "term": "Protein-protein docking",
+                    "uri": "http://edamontology.org/operation_3899"
+                },
+                {
+                    "term": "Nucleic acid folding analysis",
+                    "uri": "http://edamontology.org/operation_0279"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://huanglab.phys.hust.edu.cn/hnadock/",
+    "lastUpdate": "2019-10-31T11:59:10Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "HNADOCK",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/NAR/GKZ412",
+            "pmcid": "PMC6602492",
+            "pmid": "31114906",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Molecular modelling",
+            "uri": "http://edamontology.org/topic_2275"
+        },
+        {
+            "term": "Nucleic acid structure analysis",
+            "uri": "http://edamontology.org/topic_0097"
+        },
+        {
+            "term": "RNA",
+            "uri": "http://edamontology.org/topic_0099"
+        }
+    ]
+}

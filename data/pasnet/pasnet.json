@@ -1,0 +1,81 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-11T14:33:37Z",
+    "biotoolsCURIE": "biotools:PASNet",
+    "biotoolsID": "PASNet",
+    "cost": "Free of charge",
+    "description": "Pathway-associated sparse deep neural network for prognosis prediction from high-throughput data.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/DataX-JieHao/PASNet/blob/master/README.md"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Pathway or network prediction",
+                    "uri": "http://edamontology.org/operation_3439"
+                },
+                {
+                    "term": "Pathway or network comparison",
+                    "uri": "http://edamontology.org/operation_0277"
+                },
+                {
+                    "term": "Imputation",
+                    "uri": "http://edamontology.org/operation_3557"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/DataX-JieHao/PASNet",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-08-11T14:33:37Z",
+    "license": "Unlicense",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/DataX-JieHao/PASNet/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "PASNet",
+    "operatingSystem": [
+        "Linux",
+        "Mac"
+    ],
+    "owner": "Ruta",
+    "publication": [
+        {
+            "doi": "10.1186/s12859-018-2500-z",
+            "pmcid": "PMC6296065",
+            "pmid": "30558539",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Script"
+    ],
+    "topic": [
+        {
+            "term": "Molecular interactions, pathways and networks",
+            "uri": "http://edamontology.org/topic_0602"
+        },
+        {
+            "term": "Endocrinology and metabolism",
+            "uri": "http://edamontology.org/topic_3407"
+        },
+        {
+            "term": "Biomarkers",
+            "uri": "http://edamontology.org/topic_3360"
+        }
+    ]
+}

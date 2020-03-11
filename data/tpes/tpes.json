@@ -1,0 +1,77 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:14:40Z",
+    "biotoolsCURIE": "biotools:TPES",
+    "biotoolsID": "TPES",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "f.demichelis@unitn.it",
+            "name": "Francesca Demichelis",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "alessio.locallo@gmail.com",
+            "name": "Alessio Locallo",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Tumor Purity Estimation from SNVs.",
+    "documentation": [
+        {
+            "type": "User manual",
+            "url": "https://bitbucket.org/l0ka/tpes/src/master/TPES-manual.pdf"
+        }
+    ],
+    "download": [
+        {
+            "type": "Source code",
+            "url": "https://bitbucket.org/l0ka/tpes/src/master/TPES_1.0.0.tar.gz"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "homepage": "https://bitbucket.org/l0ka/tpes.git",
+    "language": [
+        "R"
+    ],
+    "lastUpdate": "2019-10-31T12:20:05Z",
+    "license": "MIT",
+    "maturity": "Mature",
+    "name": "TPES",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/BIOINFORMATICS/BTZ406",
+            "pmid": "31099386",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Library"
+    ],
+    "topic": [
+        {
+            "term": "Sequencing",
+            "uri": "http://edamontology.org/topic_3168"
+        },
+        {
+            "term": "Genetic variation",
+            "uri": "http://edamontology.org/topic_0199"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:06:51Z",
+    "biotoolsCURIE": "biotools:NanoDJ",
+    "biotoolsID": "NanoDJ",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "mcolesan@ull.edu.es",
+            "name": "Marcos Colebrook",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "cflores@ull.edu.es",
+            "name": "Carlos Flores",
+            "orcidid": "https://orcid.org/0000-0001-5352-069X",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Dockerized Jupyter notebook for interactive Oxford Nanopore MinION sequence manipulation and genome assembly.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/genomicsITER/NanoDJ/blob/master/README.md"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Sequence trimming",
+                    "uri": "http://edamontology.org/operation_3192"
+                },
+                {
+                    "term": "Base-calling",
+                    "uri": "http://edamontology.org/operation_3185"
+                },
+                {
+                    "term": "Genome assembly",
+                    "uri": "http://edamontology.org/operation_0525"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/genomicsITER/NanoDJ",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T12:06:37Z",
+    "license": "GPL-3.0",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/genomicsITER/NanoDJ/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "NanoDJ",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1186/S12859-019-2860-Z",
+            "pmcid": "PMC6509807",
+            "pmid": "31072312",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Command-line tool"
+    ],
+    "topic": [
+        {
+            "term": "Sequence assembly",
+            "uri": "http://edamontology.org/topic_0196"
+        },
+        {
+            "term": "Sequencing",
+            "uri": "http://edamontology.org/topic_3168"
+        },
+        {
+            "term": "Epigenetics",
+            "uri": "http://edamontology.org/topic_3295"
+        }
+    ]
+}

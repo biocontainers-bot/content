@@ -1,0 +1,103 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:07:12Z",
+    "biotoolsCURIE": "biotools:QBiC-Pred",
+    "biotoolsID": "QBiC-Pred",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "raluca.gordan@duke.edu",
+            "name": "Raluca Gord\u00c3\u00a2n",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "qbic-pred@duke.edu",
+            "typeEntity": "Project",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Quantitative predictions of transcription factor binding changes due to sequence variants.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "http://qbic.genome.duke.edu/about"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Variant effect prediction",
+                    "uri": "http://edamontology.org/operation_0331"
+                },
+                {
+                    "term": "Quantification",
+                    "uri": "http://edamontology.org/operation_3799"
+                },
+                {
+                    "term": "Transcription factor binding site prediction",
+                    "uri": "http://edamontology.org/operation_0445"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://qbic.genome.duke.edu",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T12:12:37Z",
+    "license": "MIT",
+    "link": [
+        {
+            "type": "Repository",
+            "url": "https://github.com/vincentiusmartin/QBiC-Pred"
+        },
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/vincentiusmartin/QBiC-Pred/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "QBiC-Pred",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/NAR/GKZ363",
+            "pmcid": "PMC6602471",
+            "pmid": "31114870",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Transcription factors and regulatory sites",
+            "uri": "http://edamontology.org/topic_0749"
+        },
+        {
+            "term": "Genetic variation",
+            "uri": "http://edamontology.org/topic_0199"
+        },
+        {
+            "term": "ChIP-seq",
+            "uri": "http://edamontology.org/topic_3169"
+        }
+    ]
+}

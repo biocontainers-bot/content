@@ -1,0 +1,85 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:13:30Z",
+    "biotoolsCURIE": "biotools:TYGS",
+    "biotoolsID": "TYGS",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "jan.meier-kolthoff@dsmz.de",
+            "name": "Jan P. Meier-Kolthoff",
+            "orcidid": "https://orcid.org/0000-0001-9105-9814",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Automated high-throughput platform for state-of-the-art genome-based taxonomy.",
+    "documentation": [
+        {
+            "type": "FAQ",
+            "url": "https://tygs.dsmz.de/faqs"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Deposition",
+                    "uri": "http://edamontology.org/operation_3431"
+                },
+                {
+                    "term": "Taxonomic classification",
+                    "uri": "http://edamontology.org/operation_3460"
+                },
+                {
+                    "term": "Phylogenetic species tree construction",
+                    "uri": "http://edamontology.org/operation_0544"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://tygs.dsmz.de",
+    "lastUpdate": "2019-10-31T12:20:58Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "TYGS",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1038/S41467-019-10210-3",
+            "pmcid": "PMC6522516",
+            "pmid": "31097708",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application",
+        "Web service"
+    ],
+    "topic": [
+        {
+            "term": "Taxonomy",
+            "uri": "http://edamontology.org/topic_0637"
+        },
+        {
+            "term": "Phylogeny",
+            "uri": "http://edamontology.org/topic_0084"
+        },
+        {
+            "term": "Microbiology",
+            "uri": "http://edamontology.org/topic_3301"
+        }
+    ]
+}

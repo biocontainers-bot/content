@@ -1,0 +1,106 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:08:19Z",
+    "biotoolsCURIE": "biotools:web-rMKL",
+    "biotoolsID": "web-rMKL",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "kersten@informatik.uni-tuebingen.de",
+            "name": "Nicolas Kersten",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "marius.herr@uni-tuebingen.de",
+            "name": "Marius Herr",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "nico.pfeifer@uni-tuebingen.de",
+            "name": "Nico Pfeifer",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Web server for dimensionality reduction and sample clustering of multi-view data based on unsupervised multiple kernel learning.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://web-rmkl.org/help/"
+        }
+    ],
+    "download": [
+        {
+            "type": "Software package",
+            "url": "https://web-rmkl.org/tool/web-rMKL_preprocessing.exe"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Essential dynamics",
+                    "uri": "http://edamontology.org/operation_3891"
+                },
+                {
+                    "term": "Enrichment analysis",
+                    "uri": "http://edamontology.org/operation_3501"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://web-rMKL.org",
+    "language": [
+        "Java"
+    ],
+    "lastUpdate": "2019-10-31T12:22:24Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "web-rMKL",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/NAR/GKZ422",
+            "pmcid": "PMC6602472",
+            "pmid": "31114892",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application",
+        "Web service",
+        "Desktop application"
+    ],
+    "topic": [
+        {
+            "term": "Machine learning",
+            "uri": "http://edamontology.org/topic_3474"
+        },
+        {
+            "term": "Epigenetics",
+            "uri": "http://edamontology.org/topic_3295"
+        },
+        {
+            "term": "Oncology",
+            "uri": "http://edamontology.org/topic_2640"
+        }
+    ]
+}

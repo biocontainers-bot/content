@@ -1,0 +1,82 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:17:14Z",
+    "biotoolsCURIE": "biotools:MPRDock",
+    "biotoolsID": "MPRDock",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "huanglab@hust.edu.cn",
+            "name": "Lab of Bioinformatics and Molecular Modeling",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Protein-ensemble-RNA docking by efficient consideration of protein flexibility through homology models.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "http://huanglab.phys.hust.edu.cn/mprdock/help.html"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Protein modelling",
+                    "uri": "http://edamontology.org/operation_0477"
+                },
+                {
+                    "term": "Protein-ligand docking",
+                    "uri": "http://edamontology.org/operation_0482"
+                },
+                {
+                    "term": "Protein-protein docking",
+                    "uri": "http://edamontology.org/operation_3899"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://huanglab.phys.hust.edu.cn/mprdock/",
+    "lastUpdate": "2019-10-31T12:05:40Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "MPRDock",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/BIOINFORMATICS/BTZ388",
+            "pmid": "31086984",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Molecular modelling",
+            "uri": "http://edamontology.org/topic_2275"
+        },
+        {
+            "term": "Protein interactions",
+            "uri": "http://edamontology.org/topic_0128"
+        },
+        {
+            "term": "Molecular dynamics",
+            "uri": "http://edamontology.org/topic_0176"
+        }
+    ]
+}

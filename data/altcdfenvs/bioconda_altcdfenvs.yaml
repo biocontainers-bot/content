@@ -1,0 +1,11 @@
+biotools_id: altcdfenvs
+description: Convenience data structures and functions to handle cdfenvs
+home: https://bioconductor.org/packages/3.10/bioc/html/altcdfenvs.html
+identifiers:
+- biotools:altcdfenvs
+- doi:10.1186/1471-2105-5-111
+license: GPL (>= 2)
+license_file: /lib/R/share/licenses/GPL-3
+name: bioconductor-altcdfenvs
+summary: alternative CDF environments (aka probeset mappings)
+version: 2.48.0

@@ -1,0 +1,88 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-11T07:58:22Z",
+    "biotoolsCURIE": "biotools:MultiGuideScan",
+    "biotoolsID": "MultiGuideScan",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "jxwang@mail.csu.edu.cn",
+            "name": "Jianxin Wang",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Multi-processing tool for designing CRISPR guide RNA libraries.",
+    "documentation": [
+        {
+            "type": "Installation instructions",
+            "url": "https://github.com/bioinfomaticsCSU/MultiGuideScan/blob/master/README.md"
+        },
+        {
+            "type": "User manual",
+            "url": "https://github.com/bioinfomaticsCSU/MultiGuideScan/blob/master/MultiGuideScan-source_code/README.md"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Editing",
+                    "uri": "http://edamontology.org/operation_3096"
+                },
+                {
+                    "term": "Scaffolding",
+                    "uri": "http://edamontology.org/operation_3216"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/bioinfomaticsCSU/MultiGuideScan",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-08-11T07:58:22Z",
+    "license": "Other",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/bioinfomaticsCSU/MultiGuideScan/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "MultiGuideScan",
+    "operatingSystem": [
+        "Linux"
+    ],
+    "owner": "Ruta",
+    "publication": [
+        {
+            "doi": "10.1093/bioinformatics/btz616",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Command-line tool"
+    ],
+    "topic": [
+        {
+            "term": "RNA",
+            "uri": "http://edamontology.org/topic_0099"
+        },
+        {
+            "term": "Sequencing",
+            "uri": "http://edamontology.org/topic_3168"
+        },
+        {
+            "term": "DNA",
+            "uri": "http://edamontology.org/topic_0654"
+        }
+    ]
+}

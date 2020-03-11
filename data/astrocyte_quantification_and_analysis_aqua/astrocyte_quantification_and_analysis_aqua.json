@@ -1,0 +1,100 @@
+{
+    "additionDate": "2019-10-13T17:33:57Z",
+    "biotoolsCURIE": "biotools:Astrocyte_Quantification_and_Analysis_AQuA",
+    "biotoolsID": "Astrocyte_Quantification_and_Analysis_AQuA",
+    "cost": "Free of charge",
+    "description": "An event-based tool for analyzing and quantifying calcium or glutamate imaging data.",
+    "documentation": [
+        {
+            "note": "Tutorial material",
+            "type": "Training material",
+            "url": "https://drive.google.com/file/d/1vUZP44KG3B4m4LZXfzcauiyp-Sqd0eJ1/view"
+        }
+    ],
+    "download": [
+        {
+            "type": "Software package",
+            "url": "https://github.com/yu-lab-vt/aqua"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "input": [
+                {
+                    "data": {
+                        "term": "Image",
+                        "uri": "http://edamontology.org/data_2968"
+                    },
+                    "format": [
+                        {
+                            "term": "tiff",
+                            "uri": "http://edamontology.org/format_3591"
+                        }
+                    ]
+                }
+            ],
+            "note": "The main output file is name_postfix.mat that contains a MATLAB structure called res.",
+            "operation": [
+                {
+                    "term": "Quantification",
+                    "uri": "http://edamontology.org/operation_3799"
+                },
+                {
+                    "term": "Image analysis",
+                    "uri": "http://edamontology.org/operation_3443"
+                }
+            ],
+            "output": [
+                {
+                    "data": {
+                        "term": "Report",
+                        "uri": "http://edamontology.org/data_2048"
+                    },
+                    "format": [
+                        {
+                            "term": "Binary format",
+                            "uri": "http://edamontology.org/format_2333"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/yu-lab-vt/aqua",
+    "language": [
+        "MATLAB"
+    ],
+    "lastUpdate": "2019-10-13T17:33:57Z",
+    "license": "GPL-3.0",
+    "maturity": "Emerging",
+    "name": "Astrocyte Quantification and Analysis (AQuA)",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "ELIXIR-EE",
+    "publication": [
+        {
+            "doi": "10.1038/s41593-019-0492-2",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Library",
+        "Desktop application"
+    ],
+    "topic": [
+        {
+            "term": "Machine learning",
+            "uri": "http://edamontology.org/topic_3474"
+        },
+        {
+            "term": "Cell biology",
+            "uri": "http://edamontology.org/topic_2229"
+        }
+    ]
+}

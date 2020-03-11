@@ -1,0 +1,82 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:12:49Z",
+    "biotoolsCURIE": "biotools:CytoTRACE",
+    "biotoolsID": "CytoTRACE",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "cytotrace@gmail.com",
+            "typeEntity": "Project"
+        }
+    ],
+    "description": "Single-cell transcriptional diversity is a hallmark of developmental potential",
+    "documentation": [
+        {
+            "type": "FAQ",
+            "url": "https://cytotrace.stanford.edu/#shiny-tab-FAQ"
+        },
+        {
+            "note": "Tutorial material",
+            "type": "Training material",
+            "url": "https://cytotrace.stanford.edu/#shiny-tab-Tutorials"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Essential dynamics",
+                    "uri": "http://edamontology.org/operation_3891"
+                },
+                {
+                    "term": "Quantification",
+                    "uri": "http://edamontology.org/operation_3799"
+                },
+                {
+                    "term": "Gene-set enrichment analysis",
+                    "uri": "http://edamontology.org/operation_2436"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://cytotrace.stanford.edu",
+    "lastUpdate": "2019-10-31T11:50:41Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "CytoTRACE",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1101/649848",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Transcriptomics",
+            "uri": "http://edamontology.org/topic_3308"
+        },
+        {
+            "term": "Regenerative medicine",
+            "uri": "http://edamontology.org/topic_3395"
+        },
+        {
+            "term": "Cell biology",
+            "uri": "http://edamontology.org/topic_2229"
+        }
+    ]
+}

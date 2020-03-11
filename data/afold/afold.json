@@ -1,0 +1,101 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:17:44Z",
+    "biotoolsCURIE": "biotools:aFold",
+    "biotoolsID": "aFold",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "wyang@zoologie.uni-kiel.de",
+            "name": "Wentao Yang",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "hschulenburg@zoologie.uni-kiel.de",
+            "name": "Hinrich Schulenburg",
+            "orcidid": "https://orcid.org/0000-0002-1413-913X",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Using polynomial uncertainty modelling for differential gene expression estimation from RNA sequencing data.",
+    "documentation": [
+        {
+            "type": "User manual",
+            "url": "http://bioconductor.org/packages/devel/bioc/manuals/ABSSeq/man/ABSSeq.pdf"
+        }
+    ],
+    "download": [
+        {
+            "type": "Software package",
+            "url": "http://bioconductor.org/packages/devel/bioc/src/contrib/ABSSeq_1.39.0.tar.gz"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "RNA-Seq quantification",
+                    "uri": "http://edamontology.org/operation_3800"
+                },
+                {
+                    "term": "Differential gene expression analysis",
+                    "uri": "http://edamontology.org/operation_3223"
+                },
+                {
+                    "term": "RNA-Seq analysis",
+                    "uri": "http://edamontology.org/operation_3680"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://bioconductor.org/packages/devel/bioc/html/ABSSeq.html",
+    "language": [
+        "R"
+    ],
+    "lastUpdate": "2019-10-31T11:42:10Z",
+    "license": "GPL-3.0",
+    "maturity": "Mature",
+    "name": "aFold",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1186/S12864-019-5686-1",
+            "pmcid": "PMC6509820",
+            "pmid": "31077153",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Library"
+    ],
+    "topic": [
+        {
+            "term": "RNA-Seq",
+            "uri": "http://edamontology.org/topic_3170"
+        },
+        {
+            "term": "Transcriptomics",
+            "uri": "http://edamontology.org/topic_3308"
+        },
+        {
+            "term": "Microarray experiment",
+            "uri": "http://edamontology.org/topic_3518"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:23:20Z",
+    "biotoolsCURIE": "biotools:snpnet",
+    "biotoolsID": "snpnet",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "hastie@stanford.edu",
+            "name": "Trevor Hastie",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Efficient Lasso Solver for Large-scale SNP Data.",
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Imputation",
+                    "uri": "http://edamontology.org/operation_3557"
+                },
+                {
+                    "term": "Genotyping",
+                    "uri": "http://edamontology.org/operation_3196"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/junyangq/snpnet",
+    "language": [
+        "R",
+        "C++"
+    ],
+    "lastUpdate": "2019-10-31T12:17:06Z",
+    "license": "GPL-2.0",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/junyangq/snpnet/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "snpnet",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1101/630079",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Library"
+    ],
+    "topic": [
+        {
+            "term": "DNA polymorphism",
+            "uri": "http://edamontology.org/topic_2885"
+        },
+        {
+            "term": "Genotype and phenotype",
+            "uri": "http://edamontology.org/topic_0625"
+        },
+        {
+            "term": "Biobank",
+            "uri": "http://edamontology.org/topic_3337"
+        }
+    ]
+}

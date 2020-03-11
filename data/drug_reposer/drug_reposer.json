@@ -1,0 +1,93 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:14:37Z",
+    "biotoolsCURIE": "biotools:Drug_ReposER",
+    "biotoolsID": "Drug_ReposER",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "firdaus@mfrlab.org",
+            "name": "Mohd Firdaus-Raih",
+            "orcidid": "https://orcid.org/0000-0003-4275-4663",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "info@mfrlab.org",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Web server for predicting similar amino acid arrangements to known drug binding interfaces for potential drug repositioning.",
+    "documentation": [
+        {
+            "type": "User manual",
+            "url": "http://27.126.156.175/drreposed/about.html"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Side chain modelling",
+                    "uri": "http://edamontology.org/operation_0480"
+                },
+                {
+                    "term": "Molecular docking",
+                    "uri": "http://edamontology.org/operation_0478"
+                },
+                {
+                    "term": "Nucleic acids-binding site prediction",
+                    "uri": "http://edamontology.org/operation_0420"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://mfrlab.org/drugreposer/",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T11:53:15Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "Drug ReposER",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/NAR/GKZ391",
+            "pmcid": "PMC6602481",
+            "pmid": "31106379",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Small molecules",
+            "uri": "http://edamontology.org/topic_0154"
+        },
+        {
+            "term": "Medicinal chemistry",
+            "uri": "http://edamontology.org/topic_0209"
+        },
+        {
+            "term": "Preclinical and clinical studies",
+            "uri": "http://edamontology.org/topic_3379"
+        }
+    ]
+}

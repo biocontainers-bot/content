@@ -1,0 +1,91 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:07:05Z",
+    "biotoolsCURIE": "biotools:SeqTailor",
+    "biotoolsID": "SeqTailor",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "pzhang@rockefeller.edu",
+            "name": "Peng Zhang",
+            "orcidid": "https://orcid.org/0000-0002-6129-567X",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Web server for the extraction of DNA or protein sequences from next-generation sequencing data.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "http://shiva.rockefeller.edu/SeqTailor/documentation.html"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Splice site prediction",
+                    "uri": "http://edamontology.org/operation_0433"
+                },
+                {
+                    "term": "Variant calling",
+                    "uri": "http://edamontology.org/operation_3227"
+                },
+                {
+                    "term": "Scaffolding",
+                    "uri": "http://edamontology.org/operation_3216"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://shiva.rockefeller.edu/SeqTailor/",
+    "language": [
+        "PHP",
+        "JavaScript",
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T12:16:00Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "SeqTailor",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/NAR/GKZ326",
+            "pmcid": "PMC6602489",
+            "pmid": "31045209",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Command-line tool",
+        "Web application",
+        "Web service"
+    ],
+    "topic": [
+        {
+            "term": "DNA",
+            "uri": "http://edamontology.org/topic_0654"
+        },
+        {
+            "term": "Whole genome sequencing",
+            "uri": "http://edamontology.org/topic_3673"
+        },
+        {
+            "term": "Genetic variation",
+            "uri": "http://edamontology.org/topic_0199"
+        }
+    ]
+}

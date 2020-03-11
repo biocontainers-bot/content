@@ -1,0 +1,87 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-11T08:57:24Z",
+    "biotoolsCURIE": "biotools:FastProNGS",
+    "biotoolsID": "FastProNGS",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "zhangguangxin@megagenomics.cn",
+            "name": "G. Zhang",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Fast preprocessing of next-generation sequencing reads.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/Megagenomics/FastProNGS/blob/master/README.md"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Read pre-processing",
+                    "uri": "http://edamontology.org/operation_3219"
+                },
+                {
+                    "term": "Sequence trimming",
+                    "uri": "http://edamontology.org/operation_3192"
+                },
+                {
+                    "term": "Primer removal",
+                    "uri": "http://edamontology.org/operation_3237"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/Megagenomics/FastProNGS",
+    "language": [
+        "Java",
+        "C"
+    ],
+    "lastUpdate": "2019-08-11T08:58:36Z",
+    "license": "GPL-3.0",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/Megagenomics/FastProNGS/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "FastProNGS",
+    "operatingSystem": [
+        "Linux"
+    ],
+    "owner": "Ruta",
+    "publication": [
+        {
+            "doi": "10.1186/s12859-019-2936-9",
+            "pmcid": "PMC6580563",
+            "pmid": "31208325",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Command-line tool"
+    ],
+    "topic": [
+        {
+            "term": "Sequencing",
+            "uri": "http://edamontology.org/topic_3168"
+        },
+        {
+            "term": "Workflows",
+            "uri": "http://edamontology.org/topic_0769"
+        }
+    ]
+}

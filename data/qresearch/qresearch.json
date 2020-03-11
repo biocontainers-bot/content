@@ -1,0 +1,87 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:20:49Z",
+    "biotoolsCURIE": "biotools:QResearch",
+    "biotoolsID": "QResearch",
+    "cost": "Free of charge (with restrictions)",
+    "credit": [
+        {
+            "email": "qresearch@phc.ox.ac.uk",
+            "typeEntity": "Project",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "General practice database for research.",
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Imputation",
+                    "uri": "http://edamontology.org/operation_3557"
+                },
+                {
+                    "term": "Anonymisation",
+                    "uri": "http://edamontology.org/operation_3283"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://www.qresearch.org",
+    "lastUpdate": "2019-10-31T12:12:48Z",
+    "license": "CC-BY-NC-SA-4.0",
+    "maturity": "Mature",
+    "name": "QResearch",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "metadata": {
+                "authors": [
+                    {
+                        "name": "Hippisley-Cox J."
+                    },
+                    {
+                        "name": "Stables D."
+                    },
+                    {
+                        "name": "Pringle M."
+                    }
+                ],
+                "citationCount": 44,
+                "date": "2004-06-01T00:00:00Z",
+                "journal": "Informatics in Primary Care",
+                "title": "QRESEARCH: A new general practice database for research"
+            },
+            "pmid": "15140353"
+        }
+    ],
+    "toolType": [
+        "Web application",
+        "Database portal"
+    ],
+    "topic": [
+        {
+            "term": "Geriatric medicine",
+            "uri": "http://edamontology.org/topic_3399"
+        },
+        {
+            "term": "Cardiology",
+            "uri": "http://edamontology.org/topic_3335"
+        },
+        {
+            "term": "Mapping",
+            "uri": "http://edamontology.org/topic_0102"
+        }
+    ]
+}

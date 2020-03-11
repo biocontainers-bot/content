@@ -1,0 +1,89 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:13:32Z",
+    "biotoolsCURIE": "biotools:UNCOVER",
+    "biotoolsID": "UNCOVER",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "fabio.vandin@unipd.it",
+            "name": "Fabio Vandin",
+            "orcidid": "https://orcid.org/0000-0003-2244-2320",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Efficient algorithms to discover alterations with complementary functional association in cancer.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/VandinLab/UNCOVER/blob/master/README.md"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Read pre-processing",
+                    "uri": "http://edamontology.org/operation_3219"
+                },
+                {
+                    "term": "Enrichment analysis",
+                    "uri": "http://edamontology.org/operation_3501"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/VandinLab/UNCOVER",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T12:21:14Z",
+    "license": "BSD-3-Clause",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/VandinLab/UNCOVER/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "UNCOVER",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1371/JOURNAL.PCBI.1006802",
+            "pmcid": "PMC6550413",
+            "pmid": "31120875",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Script"
+    ],
+    "topic": [
+        {
+            "term": "Drug discovery",
+            "uri": "http://edamontology.org/topic_3336"
+        },
+        {
+            "term": "Oncology",
+            "uri": "http://edamontology.org/topic_2640"
+        },
+        {
+            "term": "Genetic variation",
+            "uri": "http://edamontology.org/topic_0199"
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-11T10:30:54Z",
+    "biotoolsCURIE": "biotools:ranacapa",
+    "biotoolsID": "ranacapa",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "gkandlikar@ucla.edu",
+            "name": "Gaurav Kandlikar",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "mcowen@ucla.edu",
+            "name": "Madeline Cowen",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "Pedro.Martinez@senckenberg.de",
+            "name": "Martinez Arbizu",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "mahendra.mariadassou@inra.fr",
+            "name": "Mahendra Mariadassou",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "R package and Shiny web app to explore environmental DNA data with exploratory statistics and interactive visualizations.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/gauravsk/ranacapa/blob/master/README.md"
+        }
+    ],
+    "download": [
+        {
+            "type": "Source code",
+            "url": "https://github.com/gauravsk/ranacapa/archive/v1.0.0.zip"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Rarefaction",
+                    "uri": "http://edamontology.org/operation_3797"
+                },
+                {
+                    "term": "Enrichment analysis",
+                    "uri": "http://edamontology.org/operation_3501"
+                },
+                {
+                    "term": "Splitting",
+                    "uri": "http://edamontology.org/operation_3359"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/gauravsk/ranacapa",
+    "language": [
+        "R"
+    ],
+    "lastUpdate": "2019-08-11T10:30:54Z",
+    "license": "GPL-3.0",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/gauravsk/ranacapa/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "ranacapa",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "Ruta",
+    "publication": [
+        {
+            "doi": "10.12688/f1000research.16680.1",
+            "pmcid": "PMC6305237",
+            "pmid": "30613396",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Library"
+    ],
+    "topic": [
+        {
+            "term": "Biodiversity",
+            "uri": "http://edamontology.org/topic_3050"
+        },
+        {
+            "term": "Microbial ecology",
+            "uri": "http://edamontology.org/topic_3697"
+        },
+        {
+            "term": "Metagenomics",
+            "uri": "http://edamontology.org/topic_3174"
+        }
+    ]
+}

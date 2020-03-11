@@ -1,0 +1,96 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:20:09Z",
+    "biotoolsCURIE": "biotools:DiffExpress",
+    "biotoolsID": "DiffExpress",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "cintia.palu@nsilico.com",
+            "name": "Cintia C. Palu",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "paul.walsh@nsilico.com",
+            "name": "Paul Walsh",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Bespoke Cloud-Based Interface for RNA-seq Differential Expression Modeling and Analysis.",
+    "documentation": [
+        {
+            "note": "Tutorial material",
+            "type": "Training material",
+            "url": "https://simplicity.nsilico.com/Home/Support"
+        },
+        {
+            "type": "General",
+            "url": "https://simplicity.nsilico.com/Home/Document"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "RNA-Seq quantification",
+                    "uri": "http://edamontology.org/operation_3800"
+                },
+                {
+                    "term": "Differential gene expression analysis",
+                    "uri": "http://edamontology.org/operation_3223"
+                },
+                {
+                    "term": "RNA-Seq analysis",
+                    "uri": "http://edamontology.org/operation_3680"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://simplicity.nsilico.com/dea",
+    "lastUpdate": "2019-10-31T11:52:22Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "DiffExpress",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.3389/FGENE.2019.00356",
+            "pmcid": "PMC6527599",
+            "pmid": "31139204",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "RNA-Seq",
+            "uri": "http://edamontology.org/topic_3170"
+        },
+        {
+            "term": "Transcriptomics",
+            "uri": "http://edamontology.org/topic_3308"
+        },
+        {
+            "term": "Gene transcripts",
+            "uri": "http://edamontology.org/topic_3512"
+        }
+    ]
+}

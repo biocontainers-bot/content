@@ -1,0 +1,106 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:12:41Z",
+    "biotoolsCURIE": "biotools:Fido-SNP",
+    "biotoolsID": "Fido-SNP",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "emidio.capriotti@unibo.it",
+            "name": "Emidio Capriotti",
+            "orcidid": "https://orcid.org/0000-0002-2323-0963",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "piero.fariselli@unito.it",
+            "name": "Piero Fariselli",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Webserver for scoring the impact of single nucleotide variants in the dog genome.",
+    "documentation": [
+        {
+            "type": "User manual",
+            "url": "http://fidosnp.bca.unipd.it/help.html"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Variant effect prediction",
+                    "uri": "http://edamontology.org/operation_0331"
+                },
+                {
+                    "term": "Variant calling",
+                    "uri": "http://edamontology.org/operation_3227"
+                },
+                {
+                    "term": "SNP detection",
+                    "uri": "http://edamontology.org/operation_0484"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://fidosnp.bca.unipd.it/",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T11:55:58Z",
+    "license": "CC-BY-NC-SA-4.0",
+    "link": [
+        {
+            "type": "Repository",
+            "url": "https://github.com/biofold/Fido-SNP"
+        },
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/biofold/Fido-SNP/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "Fido-SNP",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/NAR/GKZ420",
+            "pmcid": "PMC6602425",
+            "pmid": "31114899",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application",
+        "Web service"
+    ],
+    "topic": [
+        {
+            "term": "DNA polymorphism",
+            "uri": "http://edamontology.org/topic_2885"
+        },
+        {
+            "term": "Sequence assembly",
+            "uri": "http://edamontology.org/topic_0196"
+        },
+        {
+            "term": "Mapping",
+            "uri": "http://edamontology.org/topic_0102"
+        }
+    ]
+}

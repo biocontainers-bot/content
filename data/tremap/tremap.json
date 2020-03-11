@@ -1,0 +1,92 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:19:59Z",
+    "biotoolsCURIE": "biotools:tREMAP",
+    "biotoolsID": "tREMAP",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "lxie@iscb.org",
+            "name": "Lei Xie",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Target Gene Prediction of Transcription Factor Using a New Neighborhood-regularized Tri-factorization One-class Collaborative Filtering Algorithm.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/hansaimlim/REMAP/blob/master/TriFacREMAP/README.md"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Pathway or network prediction",
+                    "uri": "http://edamontology.org/operation_3439"
+                },
+                {
+                    "term": "Protein interaction prediction",
+                    "uri": "http://edamontology.org/operation_2492"
+                },
+                {
+                    "term": "cis-regulatory element prediction",
+                    "uri": "http://edamontology.org/operation_0441"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/hansaimlim/REMAP/tree/master/TriFacREMAP",
+    "language": [
+        "MATLAB"
+    ],
+    "lastUpdate": "2019-10-31T12:20:26Z",
+    "license": "Unlicense",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/hansaimlim/REMAP/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "tREMAP",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1145/3233547.3233551",
+            "pmcid": "PMC6500446",
+            "pmid": "31061989",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Script"
+    ],
+    "topic": [
+        {
+            "term": "Protein interactions",
+            "uri": "http://edamontology.org/topic_0128"
+        },
+        {
+            "term": "Transcription factors and regulatory sites",
+            "uri": "http://edamontology.org/topic_0749"
+        },
+        {
+            "term": "Small molecules",
+            "uri": "http://edamontology.org/topic_0154"
+        }
+    ]
+}

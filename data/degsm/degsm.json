@@ -1,0 +1,89 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:09:41Z",
+    "biotoolsCURIE": "biotools:deGSM",
+    "biotoolsID": "deGSM",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "ydwang@hit.edu.cn",
+            "name": "Yadong Wang",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "hzguo@hit.edu.cn",
+            "name": "Hongzhe Guo",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "de Bruijn Graph Constructor in Scalable Memory.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/hitbc/deGSM/blob/master/README.md"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Genome indexing",
+                    "uri": "http://edamontology.org/operation_3211"
+                },
+                {
+                    "term": "De-novo assembly",
+                    "uri": "http://edamontology.org/operation_0524"
+                },
+                {
+                    "term": "Scaffolding",
+                    "uri": "http://edamontology.org/operation_3216"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/hitbc/deGSM",
+    "language": [
+        "Shell",
+        "C++",
+        "C"
+    ],
+    "lastUpdate": "2019-10-31T11:51:51Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "deGSM",
+    "operatingSystem": [
+        "Linux"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1109/TCBB.2019.2913932",
+            "pmid": "31056509",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Command-line tool"
+    ],
+    "topic": [
+        {
+            "term": "Sequencing",
+            "uri": "http://edamontology.org/topic_3168"
+        },
+        {
+            "term": "Sequence assembly",
+            "uri": "http://edamontology.org/topic_0196"
+        }
+    ]
+}

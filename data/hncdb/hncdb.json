@@ -1,0 +1,97 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:06:28Z",
+    "biotoolsCURIE": "biotools:HNCDB",
+    "biotoolsID": "HNCDB",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "peixq@sysucc.org.cn",
+            "name": "Xiaoqing Pei",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "yangak@sysucc.org.cn",
+            "name": "Ankui Yang",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "zuozhx@sysucc.org.cn",
+            "name": "Zhixiang Zuo",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Integrated Gene and Drug Database for Head and Neck Cancer.",
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Expression correlation analysis",
+                    "uri": "http://edamontology.org/operation_3463"
+                },
+                {
+                    "term": "Differential gene expression analysis",
+                    "uri": "http://edamontology.org/operation_3223"
+                },
+                {
+                    "term": "Text mining",
+                    "uri": "http://edamontology.org/operation_0306"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://hncdb.cancerbio.info",
+    "language": [
+        "JavaScript"
+    ],
+    "lastUpdate": "2019-10-31T11:59:15Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "HNCDB",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.3389/FONC.2019.00371",
+            "pmcid": "PMC6527845",
+            "pmid": "31139565",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application",
+        "Database portal"
+    ],
+    "topic": [
+        {
+            "term": "Ear, nose and throat medicine",
+            "uri": "http://edamontology.org/topic_3406"
+        },
+        {
+            "term": "Oncology",
+            "uri": "http://edamontology.org/topic_2640"
+        },
+        {
+            "term": "Medicinal chemistry",
+            "uri": "http://edamontology.org/topic_0209"
+        }
+    ]
+}

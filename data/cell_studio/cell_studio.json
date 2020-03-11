@@ -1,0 +1,82 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:24:08Z",
+    "biotoolsCURIE": "biotools:Cell_Studio",
+    "biotoolsID": "Cell_Studio",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "nevouri@tau.ac.il",
+            "name": "Uri Nevo",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "info@cellstudio.info"
+        }
+    ],
+    "description": "Platform for interactive, 3D graphical simulation of immunological processes.",
+    "download": [
+        {
+            "type": "Source code",
+            "url": "https://drive.google.com/open?id=0B7gYHwuX3vOPQ1lnLThES1hselk"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Visualisation",
+                    "uri": "http://edamontology.org/operation_0337"
+                },
+                {
+                    "term": "Modelling and simulation",
+                    "uri": "http://edamontology.org/operation_2426"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://www.cellstudio.info",
+    "lastUpdate": "2019-10-31T11:46:30Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "Cell Studio",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1063/1.5039473",
+            "pmcid": "PMC6481718",
+            "pmid": "31069304",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Desktop application"
+    ],
+    "topic": [
+        {
+            "term": "Biophysics",
+            "uri": "http://edamontology.org/topic_3306"
+        },
+        {
+            "term": "Immunology",
+            "uri": "http://edamontology.org/topic_0804"
+        },
+        {
+            "term": "Cell biology",
+            "uri": "http://edamontology.org/topic_2229"
+        }
+    ]
+}

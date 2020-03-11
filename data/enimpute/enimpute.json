@@ -1,0 +1,83 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:07:07Z",
+    "biotoolsCURIE": "biotools:EnImpute",
+    "biotoolsID": "EnImpute",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "zhangxf@mail.ccnu.edu.cn",
+            "name": "Xiao-Fei Zhang",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "R package for imputing dropout events in single cell RNA sequencing data via ensemble learning.",
+    "documentation": [
+        {
+            "type": "User manual",
+            "url": "https://github.com/Zhangxf-ccnu/EnImpute/blob/master/EnImpute-manual.pdf"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Sequence trimming",
+                    "uri": "http://edamontology.org/operation_3192"
+                },
+                {
+                    "term": "Imputation",
+                    "uri": "http://edamontology.org/operation_3557"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/Zhangxf-ccnu/EnImpute",
+    "language": [
+        "R"
+    ],
+    "lastUpdate": "2019-10-31T11:54:10Z",
+    "license": "GPL-3.0",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/Zhangxf-ccnu/EnImpute/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "EnImpute",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/BIOINFORMATICS/BTZ435",
+            "pmid": "31125056",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Library"
+    ],
+    "topic": [
+        {
+            "term": "Machine learning",
+            "uri": "http://edamontology.org/topic_3474"
+        },
+        {
+            "term": "RNA",
+            "uri": "http://edamontology.org/topic_0099"
+        }
+    ]
+}

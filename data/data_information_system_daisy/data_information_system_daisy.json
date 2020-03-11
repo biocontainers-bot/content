@@ -1,0 +1,157 @@
+{
+    "additionDate": "2019-08-05T13:06:03Z",
+    "biotoolsCURIE": "biotools:Data_Information_System_DAISY",
+    "biotoolsID": "Data_Information_System_DAISY",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "pinar.alper@uni.lu",
+            "name": "Pinar Alper",
+            "orcidid": "https://orcid.org/0000-0002-2224-0780",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "regina.becker@uni.lu",
+            "name": "Regina Becker",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ],
+            "url": "https://wwwfr.uni.lu/lcsb/research/bioinformatics_core"
+        },
+        {
+            "email": "valentin.groues@uni.lu",
+            "name": "Valentin Grou\u00e8s",
+            "orcidid": "https://orcid.org/0000-0001-6501-0806",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Developer"
+            ]
+        },
+        {
+            "email": "sandrine.munoz@uni.lu",
+            "name": "Sandrine Munoz",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Contributor"
+            ]
+        },
+        {
+            "email": "yohan.jarosz@uni.lu",
+            "name": "Yohan Jarosz",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Developer"
+            ]
+        },
+        {
+            "email": "jacek.lebioda@uni.lu",
+            "name": "Jacek Lebioda",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Developer"
+            ]
+        },
+        {
+            "email": "kavita.rege@uni.lu",
+            "name": "Kavita Rege",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Developer"
+            ]
+        },
+        {
+            "email": "christophe.trefois@uni.lu",
+            "name": "Christophe Trefois",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Contributor"
+            ]
+        },
+        {
+            "email": "venkata.satagopam@uni.lu",
+            "name": "Venkata Satagopam",
+            "orcidid": "https://orcid.org/0000-0002-6532-5880",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Contributor"
+            ]
+        },
+        {
+            "email": "reinhard.schneider@uni.lu",
+            "name": "Reinhard Schneider",
+            "orcidid": "https://orcid.org/0000-0002-8278-1618",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Contributor"
+            ]
+        },
+        {
+            "email": "vilem.ded@uni.lu",
+            "name": "Vilem Ded",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Contributor"
+            ]
+        }
+    ],
+    "description": "DAISY is an open-source  web application that allows biomedical research institutions to map their data and data flows in accordance with GDPR's accountability requirement.",
+    "download": [
+        {
+            "type": "Source code",
+            "url": "https://github.com/elixir-luxembourg/daisy"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "elixirNode": [
+        "Luxembourg"
+    ],
+    "elixirPlatform": [
+        "Tools"
+    ],
+    "homepage": "https://github.com/elixir-luxembourg/daisy",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-08-05T14:57:11Z",
+    "license": "AGPL-3.0",
+    "link": [
+        {
+            "type": "Other",
+            "url": "https://gdpr.eu/checklist/"
+        }
+    ],
+    "maturity": "Emerging",
+    "name": "Data Information System (DAISY)",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "pinar.alper",
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Data governance",
+            "uri": "http://edamontology.org/topic_3571"
+        },
+        {
+            "term": "Regulatory affairs",
+            "uri": "http://edamontology.org/topic_3394"
+        },
+        {
+            "term": "Data management",
+            "uri": "http://edamontology.org/topic_3071"
+        }
+    ],
+    "version": [
+        "1.1.0"
+    ]
+}

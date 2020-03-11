@@ -1,0 +1,86 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:05:25Z",
+    "biotoolsCURIE": "biotools:sbgntikz",
+    "biotoolsID": "sbgntikz",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "rougny.adrien@aist.go.jp",
+            "name": "Adrien Rougny",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "TikZ library to draw Systems Biology Graphical Notation  (SBGN) maps.",
+    "documentation": [
+        {
+            "type": "User manual",
+            "url": "https://github.com/Adrienrougny/sbgntikz/blob/master/documentation/v1.1/sbgntikz_v1_1.pdf"
+        }
+    ],
+    "download": [
+        {
+            "type": "Source code",
+            "url": "https://github.com/Adrienrougny/sbgntikz/releases"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Standardisation and normalisation",
+                    "uri": "http://edamontology.org/operation_3435"
+                },
+                {
+                    "term": "Map drawing",
+                    "uri": "http://edamontology.org/operation_0573"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/Adrienrougny/sbgntikz/",
+    "lastUpdate": "2019-10-31T12:15:12Z",
+    "license": "GPL-3.0",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/Adrienrougny/sbgntikz/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "sbgntikz",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/BIOINFORMATICS/BTZ287",
+            "pmid": "31070720",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Library"
+    ],
+    "topic": [
+        {
+            "term": "Literature and language",
+            "uri": "http://edamontology.org/topic_3068"
+        },
+        {
+            "term": "Molecular interactions, pathways and networks",
+            "uri": "http://edamontology.org/topic_0602"
+        }
+    ]
+}

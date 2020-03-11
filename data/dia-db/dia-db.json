@@ -1,0 +1,97 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:12:51Z",
+    "biotoolsCURIE": "biotools:DIA-DB",
+    "biotoolsID": "DIA-DB",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "hperez@ucam.edu",
+            "name": "Horacio P\u00e9rez-S\u00e1nchez",
+            "orcidid": "https://orcid.org/0000-0003-4468-7898",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "zeno.apostolides@up.ac.za",
+            "name": "Zeno Apostolides",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Web server for the prediction of diabetes drugs that uses two different approaches.",
+    "documentation": [
+        {
+            "note": "Tutorial material",
+            "type": "Training material",
+            "url": "http://bio-hpc.ucam.edu/dia-db/web/Tutorial/Tutorial.php"
+        },
+        {
+            "type": "FAQ",
+            "url": "http://bio-hpc.ucam.edu/dia-db/web/FAQ/FAQ.php"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Hydrogen bond calculation",
+                    "uri": "http://edamontology.org/operation_0394"
+                },
+                {
+                    "term": "Scaffolding",
+                    "uri": "http://edamontology.org/operation_3216"
+                },
+                {
+                    "term": "Protein-ligand docking",
+                    "uri": "http://edamontology.org/operation_0482"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://bio-hpc.ucam.edu/dia-db/",
+    "lastUpdate": "2019-10-31T11:52:17Z",
+    "license": "CC-BY-NC-4.0",
+    "maturity": "Mature",
+    "name": "DIA-DB",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.3390/MOLECULES24102002",
+            "pmcid": "PMC6571761",
+            "pmid": "31137754",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Plant biology",
+            "uri": "http://edamontology.org/topic_0780"
+        },
+        {
+            "term": "Endocrinology and metabolism",
+            "uri": "http://edamontology.org/topic_3407"
+        },
+        {
+            "term": "Small molecules",
+            "uri": "http://edamontology.org/topic_0154"
+        }
+    ]
+}

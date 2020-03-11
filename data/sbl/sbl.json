@@ -1,0 +1,91 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:15:31Z",
+    "biotoolsCURIE": "biotools:SBL",
+    "biotoolsID": "SBL",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "mwang024@ucr.edu",
+            "name": "Meiyue Wang",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Coordinate Descent Approach for Sparse Bayesian Learning in High Dimensional QTL Mapping and Genome-wide Association Studies.",
+    "download": [
+        {
+            "type": "Source code",
+            "url": "https://github.com/MeiyueComputBio/sbl/blob/master/R%20packge/sbl_0.1.0.tar.gz"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Genotyping",
+                    "uri": "http://edamontology.org/operation_3196"
+                },
+                {
+                    "term": "Genetic mapping",
+                    "uri": "http://edamontology.org/operation_0282"
+                },
+                {
+                    "term": "Gene expression QTL analysis",
+                    "uri": "http://edamontology.org/operation_3232"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/MeiyueComputBio/sbl/tree/master/R%20packge",
+    "language": [
+        "R"
+    ],
+    "lastUpdate": "2019-10-31T12:15:18Z",
+    "license": "GPL-3.0",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/MeiyueComputBio/sbl/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "SBL",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/BIOINFORMATICS/BTZ244",
+            "pmid": "31081037",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Library"
+    ],
+    "topic": [
+        {
+            "term": "GWAS study",
+            "uri": "http://edamontology.org/topic_3517"
+        },
+        {
+            "term": "Mapping",
+            "uri": "http://edamontology.org/topic_0102"
+        },
+        {
+            "term": "DNA polymorphism",
+            "uri": "http://edamontology.org/topic_2885"
+        }
+    ]
+}

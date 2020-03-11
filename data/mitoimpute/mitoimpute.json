@@ -1,0 +1,86 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:14:07Z",
+    "biotoolsCURIE": "biotools:MitoImpute",
+    "biotoolsID": "MitoImpute",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "shea.andrews@mssm.edu",
+            "name": "Shea J. Andrews",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Snakemake pipeline for imputation of mitochondrial genetic variants using Impute2 Chromosome X protocol.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/sjfandrews/MitoImpute/blob/master/README.md"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Imputation",
+                    "uri": "http://edamontology.org/operation_3557"
+                },
+                {
+                    "term": "Genotyping",
+                    "uri": "http://edamontology.org/operation_3196"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/sjfandrews/MitoImpute",
+    "language": [
+        "R"
+    ],
+    "lastUpdate": "2019-10-31T12:04:45Z",
+    "license": "MIT",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/sjfandrews/MitoImpute/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "MitoImpute",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1101/649293",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Script"
+    ],
+    "topic": [
+        {
+            "term": "Medical imaging",
+            "uri": "http://edamontology.org/topic_3384"
+        },
+        {
+            "term": "Sequencing",
+            "uri": "http://edamontology.org/topic_3168"
+        },
+        {
+            "term": "Microarray experiment",
+            "uri": "http://edamontology.org/topic_3518"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:06:18Z",
+    "biotoolsCURIE": "biotools:multiPhATE",
+    "biotoolsID": "multiPhATE",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "zhou4@llnl.gov",
+            "name": "Carol L. Ecale Zhou",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Bioinformatics pipeline for functional annotation of phage isolates.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/carolzhou/multiPhATE/blob/master/README.md"
+        }
+    ],
+    "download": [
+        {
+            "type": "Source code",
+            "url": "https://github.com/carolzhou/multiPhATE/releases"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Formatting",
+                    "uri": "http://edamontology.org/operation_0335"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/carolzhou/multiPhATE",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T12:06:00Z",
+    "license": "BSD-3-Clause",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/carolzhou/multiPhATE/issues"
+        }
+    ],
+    "maturity": "Emerging",
+    "name": "multiPhATE",
+    "operatingSystem": [
+        "Linux",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/BIOINFORMATICS/BTZ258",
+            "pmid": "31086982",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Command-line tool",
+        "Script"
+    ],
+    "topic": [
+        {
+            "term": "Workflows",
+            "uri": "http://edamontology.org/topic_0769"
+        },
+        {
+            "term": "Protein interaction experiment",
+            "uri": "http://edamontology.org/topic_3557"
+        },
+        {
+            "term": "Sequence sites, features and motifs",
+            "uri": "http://edamontology.org/topic_0160"
+        }
+    ]
+}

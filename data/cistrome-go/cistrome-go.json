@@ -1,0 +1,117 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:06:04Z",
+    "biotoolsCURIE": "biotools:Cistrome-GO",
+    "biotoolsID": "Cistrome-GO",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "cliff_meyer@mail.dfci.harvard.edu",
+            "name": "Clifford A Meyer",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "xsliu@jimmy.harvard.edu",
+            "name": "X Shirley Liu",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Web server for functional enrichment analysis of transcription factor ChIP-seq peaks.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "http://go.cistrome.org/static/Tutorial.html"
+        }
+    ],
+    "download": [
+        {
+            "type": "Source code",
+            "url": "https://bitbucket.org/liulab/cistrome-go/get/3a193a53f938.zip"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Peak calling",
+                    "uri": "http://edamontology.org/operation_3222"
+                },
+                {
+                    "term": "Enrichment analysis",
+                    "uri": "http://edamontology.org/operation_3501"
+                },
+                {
+                    "term": "Differential gene expression analysis",
+                    "uri": "http://edamontology.org/operation_3223"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://go.cistrome.org/",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T11:47:50Z",
+    "license": "Other",
+    "link": [
+        {
+            "note": "Cistrome Data Browser",
+            "type": "Other",
+            "url": "http://cistrome.org/db"
+        },
+        {
+            "type": "Issue tracker",
+            "url": "https://bitbucket.org/liulab/cistrome-go/issues?status=new&status=open"
+        },
+        {
+            "type": "Repository",
+            "url": "https://bitbucket.org/liulab/cistrome-go/src/master/"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "Cistrome-GO",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/NAR/GKZ332",
+            "pmcid": "PMC6602521",
+            "pmid": "31053864",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Command-line tool",
+        "Web application",
+        "Web service"
+    ],
+    "topic": [
+        {
+            "term": "ChIP-seq",
+            "uri": "http://edamontology.org/topic_3169"
+        },
+        {
+            "term": "Transcription factors and regulatory sites",
+            "uri": "http://edamontology.org/topic_0749"
+        },
+        {
+            "term": "Gene regulation",
+            "uri": "http://edamontology.org/topic_0204"
+        }
+    ]
+}

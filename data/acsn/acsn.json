@@ -1,0 +1,13 @@
+{
+    "additionDate": "2019-11-05T15:01:04Z",
+    "biotoolsCURIE": "biotools:ACSN",
+    "biotoolsID": "ACSN",
+    "description": "A multi-scale resource of biological maps to study disease mechanisms.",
+    "editPermission": {
+        "type": "private"
+    },
+    "homepage": "https://acsn.curie.fr/ACSN2/ACSN2.html",
+    "lastUpdate": "2019-11-05T15:01:18Z",
+    "name": "Atlas of Cancer Signalling Network (ACSN)",
+    "owner": "jison"
+}

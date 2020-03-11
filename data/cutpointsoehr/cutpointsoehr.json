@@ -1,0 +1,85 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:20:58Z",
+    "biotoolsCURIE": "biotools:CutpointsOEHR",
+    "biotoolsID": "CutpointsOEHR",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "zhjinx@mail.sysu.edu.cn",
+            "name": "Jinxin Zhang",
+            "orcidid": "https://orcid.org/0000-0002-1123-5556",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Optimal Equal-HR Method to Find Two Cutpoints for U-Shaped Relationships in Cox Model.",
+    "documentation": [
+        {
+            "type": "User manual",
+            "url": "https://cran.r-project.org/web/packages/CutpointsOEHR/CutpointsOEHR.pdf"
+        }
+    ],
+    "download": [
+        {
+            "type": "Source code",
+            "url": "https://cran.r-project.org/src/contrib/CutpointsOEHR_0.1.2.tar.gz"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Dot plot plotting",
+                    "uri": "http://edamontology.org/operation_0490"
+                },
+                {
+                    "term": "Regression analysis",
+                    "uri": "http://edamontology.org/operation_3659"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://cran.r-project.org/package=CutpointsOEHR",
+    "language": [
+        "R"
+    ],
+    "lastUpdate": "2019-10-31T11:54:59Z",
+    "license": "GPL-3.0",
+    "maturity": "Mature",
+    "name": "CutpointsOEHR",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1186/S12874-019-0738-4",
+            "pmcid": "PMC6507062",
+            "pmid": "31072334",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Library"
+    ],
+    "topic": [
+        {
+            "term": "Public health and epidemiology",
+            "uri": "http://edamontology.org/topic_3305"
+        },
+        {
+            "term": "Mathematics",
+            "uri": "http://edamontology.org/topic_3315"
+        }
+    ]
+}

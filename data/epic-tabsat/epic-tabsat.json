@@ -1,0 +1,104 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:05:21Z",
+    "biotoolsCURIE": "biotools:EPIC-TABSAT",
+    "biotoolsID": "EPIC-TABSAT",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "julie.krainer@ait.ac.at",
+            "name": "Julie Krainer",
+            "orcidid": "https://orcid.org/0000-0002-2953-7982",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "stephan.pabinger@ait.ac.at",
+            "name": "Stephan Pabinger",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Analysis tool for targeted bisulfite sequencing experiments and array-based methylation studies.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://tabsat.ait.ac.at/help/"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Whole genome methylation analysis",
+                    "uri": "http://edamontology.org/operation_3206"
+                },
+                {
+                    "term": "Gene methylation analysis",
+                    "uri": "http://edamontology.org/operation_3207"
+                },
+                {
+                    "term": "Bisulfite mapping",
+                    "uri": "http://edamontology.org/operation_3186"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://tabsat.ait.ac.at/",
+    "language": [
+        "R",
+        "Java",
+        "Perl",
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T11:54:34Z",
+    "license": "Unlicense",
+    "link": [
+        {
+            "type": "Other",
+            "url": "http://et.al"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "EPIC-TABSAT",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/NAR/GKZ398",
+            "pmcid": "PMC6602470",
+            "pmid": "31106358",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Epigenomics",
+            "uri": "http://edamontology.org/topic_3173"
+        },
+        {
+            "term": "Methylated DNA immunoprecipitation",
+            "uri": "http://edamontology.org/topic_3674"
+        },
+        {
+            "term": "Microarray experiment",
+            "uri": "http://edamontology.org/topic_3518"
+        }
+    ]
+}

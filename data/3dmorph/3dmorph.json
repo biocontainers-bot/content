@@ -1,0 +1,78 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-11T10:12:02Z",
+    "biotoolsCURIE": "biotools:3DMorph",
+    "biotoolsID": "3DMorph",
+    "cost": "Free of charge",
+    "description": "Script that analyzes microglia morphology from 3D data. Outputs include cell and territorial volume, branch length, and number of branch and end points.",
+    "download": [
+        {
+            "type": "Source code",
+            "url": "https://github.com/ElisaYork/3DMorph/blob/master/Script_3DMorph.m"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Deisotoping",
+                    "uri": "http://edamontology.org/operation_3629"
+                },
+                {
+                    "term": "Neurite measurement",
+                    "uri": "http://edamontology.org/operation_3450"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/ElisaYork/3DMorph",
+    "language": [
+        "MATLAB"
+    ],
+    "lastUpdate": "2019-08-11T10:12:02Z",
+    "license": "MIT",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/ElisaYork/3DMorph/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "3DMorph",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "Ruta",
+    "publication": [
+        {
+            "doi": "10.1523/ENEURO.0266-18.2018",
+            "pmcid": "PMC6325541",
+            "pmid": "30627639",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Desktop application"
+    ],
+    "topic": [
+        {
+            "term": "Imaging",
+            "uri": "http://edamontology.org/topic_3382"
+        },
+        {
+            "term": "Cell biology",
+            "uri": "http://edamontology.org/topic_2229"
+        },
+        {
+            "term": "Surgery",
+            "uri": "http://edamontology.org/topic_3421"
+        }
+    ]
+}

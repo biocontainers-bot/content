@@ -1,0 +1,89 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:16:45Z",
+    "biotoolsCURIE": "biotools:FluoroCellTrack",
+    "biotoolsID": "FluoroCellTrack",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "melvin@lsu.edu",
+            "name": "Adam T. Melvin",
+            "orcidid": "https://orcid.org/0000-0003-0484-5871",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Algorithm for automated analysis of high-throughput droplet microfluidic data.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/Manibarathi/FluoroCellTrack/blob/master/README.md"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Quantification",
+                    "uri": "http://edamontology.org/operation_3799"
+                },
+                {
+                    "term": "Image analysis",
+                    "uri": "http://edamontology.org/operation_3443"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/Manibarathi/FluoroCellTrack",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T11:56:03Z",
+    "license": "Unlicense",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/Manibarathi/FluoroCellTrack/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "FluoroCellTrack",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1371/JOURNAL.PONE.0215337",
+            "pmcid": "PMC6493727",
+            "pmid": "31042738",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Script"
+    ],
+    "topic": [
+        {
+            "term": "Imaging",
+            "uri": "http://edamontology.org/topic_3382"
+        },
+        {
+            "term": "Software engineering",
+            "uri": "http://edamontology.org/topic_3372"
+        },
+        {
+            "term": "Cell biology",
+            "uri": "http://edamontology.org/topic_2229"
+        }
+    ]
+}

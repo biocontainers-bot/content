@@ -1,0 +1,92 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:13:34Z",
+    "biotoolsCURIE": "biotools:ASNR",
+    "biotoolsID": "ASNR",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "shweta.bansal@georgetown.edu",
+            "name": "Shweta Bansal",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Animal Social Networks Repository - repository of interaction data from published studies of wild, captive, and domesticated animals.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/bansallab/asnr/blob/master/README.md"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Network simulation",
+                    "uri": "http://edamontology.org/operation_3562"
+                },
+                {
+                    "term": "Weighted correlation network analysis",
+                    "uri": "http://edamontology.org/operation_3766"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://bansallab.github.io/asnr/",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T11:44:09Z",
+    "license": "GPL-3.0",
+    "link": [
+        {
+            "type": "Repository",
+            "url": "https://github.com/bansallab/asnr/"
+        },
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/bansallab/asnr/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "ASNR",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1038/S41597-019-0056-Z",
+            "pmcid": "PMC6488576",
+            "pmid": "31036810",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Database portal"
+    ],
+    "topic": [
+        {
+            "term": "Zoology",
+            "uri": "http://edamontology.org/topic_3500"
+        },
+        {
+            "term": "Molecular interactions, pathways and networks",
+            "uri": "http://edamontology.org/topic_0602"
+        },
+        {
+            "term": "Ecology",
+            "uri": "http://edamontology.org/topic_0610"
+        }
+    ]
+}

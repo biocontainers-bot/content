@@ -1,0 +1,106 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:12:39Z",
+    "biotoolsCURIE": "biotools:GScluster",
+    "biotoolsID": "GScluster",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "kimsy@kribb.re.kr",
+            "name": "Seon-Young Kim",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "dougnam@unist.ac.kr",
+            "name": "Dougu Nam",
+            "orcidid": "https://orcid.org/0000-0003-0239-2899",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Package for network-weighted gene-set clustering and network visualization.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/unistbig/GScluster/blob/master/README.md"
+        },
+        {
+            "type": "User manual",
+            "url": "https://github.com/unistbig/GScluster/raw/master/GScluster_manual_v1.1.6.pdf"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Clustering",
+                    "uri": "http://edamontology.org/operation_3432"
+                },
+                {
+                    "term": "Gene-set enrichment analysis",
+                    "uri": "http://edamontology.org/operation_2436"
+                },
+                {
+                    "term": "Protein interaction prediction",
+                    "uri": "http://edamontology.org/operation_2492"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/unistbig/GScluster",
+    "language": [
+        "R",
+        "JavaScript"
+    ],
+    "lastUpdate": "2019-10-31T11:58:07Z",
+    "license": "MIT",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/unistbig/GScluster/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "GScluster",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1186/S12864-019-5738-6",
+            "pmcid": "PMC6507172",
+            "pmid": "31072324",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Library"
+    ],
+    "topic": [
+        {
+            "term": "Protein interactions",
+            "uri": "http://edamontology.org/topic_0128"
+        },
+        {
+            "term": "GWAS study",
+            "uri": "http://edamontology.org/topic_3517"
+        },
+        {
+            "term": "Microarray experiment",
+            "uri": "http://edamontology.org/topic_3518"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:11:05Z",
+    "biotoolsCURIE": "biotools:Fetal_XCMR",
+    "biotoolsID": "Fetal_XCMR",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "christopher.macgowan@sickkids.ca",
+            "name": "Christopher K. Macgowan",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "fetal.xcmr@gmail.com",
+            "name": "Chris Roy",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Numerical phantom for fetal cardiovascular magnetic resonance imaging.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/cwroy/Fetal-XCMR/blob/master/README.txt"
+        }
+    ],
+    "download": [
+        {
+            "type": "Source code",
+            "url": "https://github.com/cwroy/Fetal-XCMR/releases"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "homepage": "https://github.com/cwroy/Fetal-XCMR/",
+    "language": [
+        "MATLAB"
+    ],
+    "lastUpdate": "2019-10-31T11:55:49Z",
+    "license": "Unlicense",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/cwroy/Fetal-XCMR/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "Fetal XCMR",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1186/S12968-019-0539-2",
+            "pmcid": "PMC6532268",
+            "pmid": "31118056",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Script"
+    ],
+    "topic": [
+        {
+            "term": "MRI",
+            "uri": "http://edamontology.org/topic_3444"
+        },
+        {
+            "term": "NMR",
+            "uri": "http://edamontology.org/topic_0593"
+        },
+        {
+            "term": "Anatomy",
+            "uri": "http://edamontology.org/topic_3067"
+        }
+    ]
+}

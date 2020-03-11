@@ -1,0 +1,89 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:13:38Z",
+    "biotoolsCURIE": "biotools:clustermq",
+    "biotoolsID": "clustermq",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "m.schubert@rug.nl",
+            "name": "Michael Schubert",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Efficient parallelization of genomic analyses.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/mschubert/clustermq/blob/master/README.md"
+        },
+        {
+            "note": "Tutorial material",
+            "type": "Training material",
+            "url": "https://mschubert.github.io/clustermq/articles/userguide.html"
+        }
+    ],
+    "download": [
+        {
+            "type": "Source code",
+            "url": "https://github.com/mschubert/clustermq/releases"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "homepage": "https://github.com/mschubert/clustermq",
+    "language": [
+        "R",
+        "Shell"
+    ],
+    "lastUpdate": "2019-10-31T11:48:16Z",
+    "license": "Apache-2.0",
+    "link": [
+        {
+            "type": "Repository",
+            "url": "https://github.com/mschubert/clustermq-performance"
+        },
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/mschubert/clustermq/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "clustermq",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/BIOINFORMATICS/BTZ284",
+            "pmid": "31134271",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Library"
+    ],
+    "topic": [
+        {
+            "term": "Computer science",
+            "uri": "http://edamontology.org/topic_3316"
+        },
+        {
+            "term": "Literature and language",
+            "uri": "http://edamontology.org/topic_3068"
+        },
+        {
+            "term": "Epigenomics",
+            "uri": "http://edamontology.org/topic_3173"
+        }
+    ]
+}

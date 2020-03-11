@@ -1,0 +1,93 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:14:55Z",
+    "biotoolsCURIE": "biotools:MGERT",
+    "biotoolsID": "MGERT",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "guliaev@genebiology.ru",
+            "name": "Andrei S. Guliaev",
+            "orcidid": "https://orcid.org/0000-0002-6329-2421",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Mobile Genetic Elements Retrieving Tool Pipeline (MGERT) for retrieving coding sequences of mobile genetic elements from genome assemblies.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/andrewgull/MGERT/blob/master/README.md"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Genome assembly",
+                    "uri": "http://edamontology.org/operation_0525"
+                },
+                {
+                    "term": "Transposon prediction",
+                    "uri": "http://edamontology.org/operation_0427"
+                },
+                {
+                    "term": "Data retrieval",
+                    "uri": "http://edamontology.org/operation_2422"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/andrewgull/MGERT",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-10-31T12:04:10Z",
+    "license": "Unlicense",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/andrewgull/MGERT/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "MGERT",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1186/S13100-019-0163-6",
+            "pmcid": "PMC6515669",
+            "pmid": "31114637",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Command-line tool"
+    ],
+    "topic": [
+        {
+            "term": "Mobile genetic elements",
+            "uri": "http://edamontology.org/topic_0798"
+        },
+        {
+            "term": "Sequence assembly",
+            "uri": "http://edamontology.org/topic_0196"
+        },
+        {
+            "term": "Workflows",
+            "uri": "http://edamontology.org/topic_0769"
+        }
+    ]
+}

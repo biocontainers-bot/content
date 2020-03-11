@@ -1,0 +1,93 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:08:25Z",
+    "biotoolsCURIE": "biotools:NCATS_BioPlanet",
+    "biotoolsID": "NCATS_BioPlanet",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "huangru@mail.nih.gov",
+            "name": "Ruili Huang",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "info@ncats.nih.gov"
+        }
+    ],
+    "description": "Integrated Platform for Exploring the Universe of Cellular Signaling Pathways for Toxicology, Systems Biology, and Chemical Genomics.",
+    "documentation": [
+        {
+            "note": "Tutorial material",
+            "type": "Training material",
+            "url": "https://tripod.nih.gov/bioplanet/tutorial.html"
+        }
+    ],
+    "download": [
+        {
+            "type": "Downloads page",
+            "url": "https://tripod.nih.gov/bioplanet/#"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Pathway or network prediction",
+                    "uri": "http://edamontology.org/operation_3439"
+                },
+                {
+                    "term": "Pathway or network comparison",
+                    "uri": "http://edamontology.org/operation_0277"
+                },
+                {
+                    "term": "Expression profile pathway mapping",
+                    "uri": "http://edamontology.org/operation_0533"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://tripod.nih.gov/bioplanet/",
+    "lastUpdate": "2019-10-31T12:06:42Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "NCATS BioPlanet",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.3389/FPHAR.2019.00445",
+            "pmcid": "PMC6524730",
+            "pmid": "31133849",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Molecular interactions, pathways and networks",
+            "uri": "http://edamontology.org/topic_0602"
+        },
+        {
+            "term": "Toxicology",
+            "uri": "http://edamontology.org/topic_2840"
+        },
+        {
+            "term": "Chemical biology",
+            "uri": "http://edamontology.org/topic_3369"
+        }
+    ]
+}

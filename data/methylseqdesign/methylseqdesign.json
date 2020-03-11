@@ -1,0 +1,97 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:11:51Z",
+    "biotoolsCURIE": "biotools:MethylSeqDesign",
+    "biotoolsID": "MethylSeqDesign",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "ctseng@pitt.edu",
+            "name": "George Tseng",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Framework for Methyl-Seq genome-wide power calculation and study design issues.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "https://github.com/liupeng2117/MethylSeqDesign/blob/master/README.md"
+        }
+    ],
+    "download": [
+        {
+            "type": "Source code",
+            "url": "https://github.com/liupeng2117/MethylSeqDesign/releases"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Post-translation modification site prediction",
+                    "uri": "http://edamontology.org/operation_0417"
+                },
+                {
+                    "term": "Whole genome methylation analysis",
+                    "uri": "http://edamontology.org/operation_3206"
+                },
+                {
+                    "term": "Bisulfite mapping",
+                    "uri": "http://edamontology.org/operation_3186"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/liupeng2117/MethylSeqDesign",
+    "language": [
+        "R"
+    ],
+    "lastUpdate": "2019-10-31T12:04:00Z",
+    "license": "GPL-3.0",
+    "link": [
+        {
+            "type": "Issue tracker",
+            "url": "https://github.com/liupeng2117/MethylSeqDesign/issues"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "MethylSeqDesign",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/BIOSTATISTICS/KXZ016",
+            "pmid": "31107532",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Library"
+    ],
+    "topic": [
+        {
+            "term": "Methylated DNA immunoprecipitation",
+            "uri": "http://edamontology.org/topic_3674"
+        },
+        {
+            "term": "Epigenetics",
+            "uri": "http://edamontology.org/topic_3295"
+        },
+        {
+            "term": "Microarray experiment",
+            "uri": "http://edamontology.org/topic_3518"
+        }
+    ]
+}

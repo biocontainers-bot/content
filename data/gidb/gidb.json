@@ -1,0 +1,84 @@
+{
+    "accessibility": [
+        "Open access"
+    ],
+    "additionDate": "2019-08-09T13:08:43Z",
+    "biotoolsCURIE": "biotools:GIDB",
+    "biotoolsID": "GIDB",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "xyzhang@tongji.edu.cn",
+            "name": "Xiaoyan Zhang",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        },
+        {
+            "email": "nadger_wang@139.com",
+            "name": "Ying Wang",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ]
+        }
+    ],
+    "description": "Knowledge database for the automated curation and multidimensional analysis of molecular signatures in gastrointestinal (GI) cancer.",
+    "documentation": [
+        {
+            "type": "General",
+            "url": "http://bmtongji.cn/GIDB/index.htmlq"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Text mining",
+                    "uri": "http://edamontology.org/operation_0306"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://bmtongji.cn/GIDB/index.html",
+    "lastUpdate": "2019-10-31T11:57:12Z",
+    "license": "Unlicense",
+    "maturity": "Mature",
+    "name": "GIDB",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "owner": "hans",
+    "publication": [
+        {
+            "doi": "10.1093/DATABASE/BAZ051",
+            "pmcid": "PMC6517830",
+            "pmid": "31089686",
+            "type": "Primary"
+        }
+    ],
+    "toolType": [
+        "Web application",
+        "Database portal"
+    ],
+    "topic": [
+        {
+            "term": "Oncology",
+            "uri": "http://edamontology.org/topic_2640"
+        },
+        {
+            "term": "Functional, regulatory and non-coding RNA",
+            "uri": "http://edamontology.org/topic_0659"
+        },
+        {
+            "term": "Natural language processing",
+            "uri": "http://edamontology.org/topic_0218"
+        }
+    ]
+}

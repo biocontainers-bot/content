@@ -1,0 +1,13 @@
+biotools_id: interactionset
+description: Provides the GInteractions, InteractionSet and ContactMatrix objects
+  and associated methods for storing and manipulating genomic interaction data from
+  Hi-C and ChIA-PET experiments.
+home: https://bioconductor.org/packages/3.10/bioc/html/InteractionSet.html
+identifiers:
+- biotools:interactionset
+- doi:10.12688/f1000research.8759.2
+license: GPL-3
+license_file: /lib/R/share/licenses/GPL-3
+name: bioconductor-interactionset
+summary: Base Classes for Storing Genomic Interaction Data
+version: 1.14.0
